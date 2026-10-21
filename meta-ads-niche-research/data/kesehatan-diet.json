@@ -1,0 +1,765 @@
+{
+  "niche": "Kesehatan & Diet",
+  "slug": "kesehatan-diet",
+  "keywords": [
+    {
+      "term": "menu diet",
+      "active_ads_id": 1617
+    },
+    {
+      "term": "ebook diet",
+      "active_ads_id": 780
+    },
+    {
+      "term": "panduan diet",
+      "active_ads_id": 403
+    },
+    {
+      "term": "intermittent fasting",
+      "active_ads_id": 287
+    },
+    {
+      "term": "program diet online",
+      "active_ads_id": 215
+    },
+    {
+      "term": "ebook resep diet",
+      "active_ads_id": 177
+    },
+    {
+      "term": "ebook turun berat badan",
+      "active_ads_id": 166
+    },
+    {
+      "term": "ebook diabetes",
+      "active_ads_id": 153
+    },
+    {
+      "term": "ebook gula darah",
+      "active_ads_id": 129
+    },
+    {
+      "term": "ebook hipertensi kolesterol",
+      "active_ads_id": 74
+    },
+    {
+      "term": "ebook gerd asam lambung",
+      "active_ads_id": 26
+    }
+  ],
+  "advertisers": [
+    {
+      "page_name": "WorkFit",
+      "page_id": "396323160233043",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=396323160233043",
+      "product": "WorkFit: e-course/program latihan di rumah 20 menit sehari untuk bakar lemak & hilangkan buncit, plus grup diskusi & Zoom bareng coach; iklan lama mengarah ke program bentuk otot ('Bebas Kerempeng')",
+      "format": "e-course + grup coaching online",
+      "price_seen": null,
+      "active_ads": 16,
+      "oldest_active_start": "2025-08-20",
+      "max_days_running": 426,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "1076352701300320",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1076352701300320",
+          "start": "2025-08-20",
+          "days": 426,
+          "link_title": "Berotot sekarang"
+        },
+        {
+          "ad_id": "1471765570643431",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1471765570643431",
+          "start": "2025-08-21",
+          "days": 425,
+          "link_title": "Mulai Sekarang"
+        },
+        {
+          "ad_id": "2318890305175487",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2318890305175487",
+          "start": "2025-08-21",
+          "days": 425,
+          "link_title": "{{product.name}}"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Iklan katalog/evergreen sejak Agu 2025 (~14 bulan) masih aktif, kreatif baru fokus fat loss ditambah minggu ini."
+    },
+    {
+      "page_name": "Tita's Kitchen",
+      "page_id": "110089104235365",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=110089104235365",
+      "product": "Tita's Kitchen: program/panduan kecilkan perut untuk ibu ('Rahasia Perut Kempes Sambil Momong', 'Cara Ibu 40+ Mengecilkan Perut')",
+      "format": "ebook/program digital",
+      "price_seen": "Rp99.000",
+      "active_ads": 17,
+      "oldest_active_start": "2026-07-27",
+      "max_days_running": 85,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "1554095939541257",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1554095939541257",
+          "start": "2026-07-27",
+          "days": 85,
+          "link_title": "Rahasia Perut Kempes Sambil Momong!"
+        },
+        {
+          "ad_id": "4476117706042061",
+          "ad_url": "https://www.facebook.com/ads/library/?id=4476117706042061",
+          "start": "2026-07-27",
+          "days": 85,
+          "link_title": "Rahasia Perut Kempes Sambil Momong!"
+        },
+        {
+          "ad_id": "1943761906580648",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1943761906580648",
+          "start": "2026-07-27",
+          "days": 85,
+          "link_title": "Rahasia Perut Kempes Sambil Momong!"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Social proof bertingkat di judul ('71/85/112 Ibu Udah Buktikan'). Iklan tertua ~85 hari."
+    },
+    {
+      "page_name": "Probetes",
+      "page_id": "367813849753881",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=367813849753881",
+      "product": "Probetes: Ebook 90 Hari Remisi Diabetes + bonus webinar regulasi gula darah bersama Coach Rahman",
+      "format": "ebook + webinar",
+      "price_seen": "Rp154.000 (judul 'Cuma 154rb', kemungkinan paket)",
+      "active_ads": 40,
+      "oldest_active_start": "2026-07-29",
+      "max_days_running": 83,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "2829601170748720",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2829601170748720",
+          "start": "2026-07-29",
+          "days": 83,
+          "link_title": "Probetes | Sousi sehat tanpa obat"
+        },
+        {
+          "ad_id": "1748823586410639",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1748823586410639",
+          "start": "2026-10-02",
+          "days": 18,
+          "link_title": "Kebas kesemutan Akibat Gula Tinggi Ganggu Aktifitas?"
+        },
+        {
+          "ad_id": "1800099634363044",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1800099634363044",
+          "start": "2026-10-15",
+          "days": 5,
+          "link_title": "Ebook 90 Hari Remisi Diabetes!"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "40 iklan aktif. Hati-hati: halaman terpisah 'Probetes Herbal' menjual produk herbal (Rp99rb), tidak dimasukkan."
+    },
+    {
+      "page_name": "Healthy Living Indonesia",
+      "page_id": "165945003261564",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=165945003261564",
+      "product": "Healthy Living Indonesia: Menu Diet Selama 60 Hari ('Bingung menu diet setiap hari?')",
+      "format": "ebook/planner menu",
+      "price_seen": null,
+      "active_ads": 10,
+      "oldest_active_start": "2026-08-06",
+      "max_days_running": 75,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "4092513957718413",
+          "ad_url": "https://www.facebook.com/ads/library/?id=4092513957718413",
+          "start": "2026-08-06",
+          "days": 75,
+          "link_title": "Menu Diet Selama 60 Hari"
+        },
+        {
+          "ad_id": "1048643728122708",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1048643728122708",
+          "start": "2026-08-06",
+          "days": 75,
+          "link_title": "Menu Diet Selama 60 Hari"
+        },
+        {
+          "ad_id": "2954129104936466",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2954129104936466",
+          "start": "2026-08-06",
+          "days": 75,
+          "link_title": "Menu Diet Selama 60 Hari"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "3 iklan evergreen ~75 hari + kreatif baru."
+    },
+    {
+      "page_name": "Slim Fit System",
+      "page_id": "1135460722990183",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=1135460722990183",
+      "product": "Slim Fit System: program 30 hari pilates/diet untuk wanita di rumah, bayar sekali akses selamanya ('1472 Wanita Udah Buktiin')",
+      "format": "e-course/program video",
+      "price_seen": null,
+      "active_ads": 34,
+      "oldest_active_start": "2026-08-10",
+      "max_days_running": 71,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "1085575120662230",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1085575120662230",
+          "start": "2026-08-10",
+          "days": 71,
+          "link_title": "Badan Pilates Tanpa Ribet ke Studio"
+        },
+        {
+          "ad_id": "1659298245899509",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1659298245899509",
+          "start": "2026-08-13",
+          "days": 68,
+          "link_title": "Badan Pilates Tanpa Ribet ke Studio"
+        },
+        {
+          "ad_id": "1702916892015496",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1702916892015496",
+          "start": "2026-08-19",
+          "days": 63,
+          "link_title": "Badan Pilates Tanpa Ribet ke Studio"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "34 iklan aktif, hook 'Badan Pilates Tanpa Ribet ke Studio' jalan ~71 hari."
+    },
+    {
+      "page_name": "Chef Herjuna",
+      "page_id": "577822982090882",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=577822982090882",
+      "product": "Chef Herjuna: membership resep sehat 100+ resep & 199+ camilan no gluten no sugar ('3500+ member')",
+      "format": "membership resep digital",
+      "price_seen": null,
+      "active_ads": 11,
+      "oldest_active_start": "2026-09-09",
+      "max_days_running": 41,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "1569545468302043",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1569545468302043",
+          "start": "2026-09-09",
+          "days": 41,
+          "link_title": "3500+ Member Sudah Bergabung"
+        },
+        {
+          "ad_id": "2857349317967728",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2857349317967728",
+          "start": "2026-09-10",
+          "days": 40,
+          "link_title": "199+ CAMILAN SEHAT NO GLUTEN NO SUGAR"
+        },
+        {
+          "ad_id": "2010729176241703",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2010729176241703",
+          "start": "2026-09-10",
+          "days": 40,
+          "link_title": "100+ RESEP NO GLUTEN DAN NO SUGAR"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Otoritas chef selebriti. Iklan tertua ~41 hari."
+    },
+    {
+      "page_name": "HealthyMastery.id",
+      "page_id": "796755546858239",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=796755546858239",
+      "product": "HealthyMastery.id: webinar '3 Cara Cepat Langsing ala Andi Hasbi' lalu program coaching langsing",
+      "format": "webinar (lead magnet) + coaching online",
+      "price_seen": null,
+      "active_ads": 9,
+      "oldest_active_start": "2026-09-30",
+      "max_days_running": 20,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "4651955928357879",
+          "ad_url": "https://www.facebook.com/ads/library/?id=4651955928357879",
+          "start": "2026-09-30",
+          "days": 20,
+          "link_title": "Kenapa Makin Susah Langsing?"
+        },
+        {
+          "ad_id": "1796887091516267",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1796887091516267",
+          "start": "2026-09-30",
+          "days": 20,
+          "link_title": "Jangan Asal Diet! Pelajari 3 Cara Ini"
+        },
+        {
+          "ad_id": "1653674586316240",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1653674586316240",
+          "start": "2026-09-30",
+          "days": 20,
+          "link_title": "Rahasia Turun Berat Badan & Hilangkan Perut Buncit"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Funnel webinar. Iklan tertua ~20 hari."
+    },
+    {
+      "page_name": "Puspita Kumalasari",
+      "page_id": "1335632859795346",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=1335632859795346",
+      "product": "E-Book Resep Rendah Kalori (Puspita Kumalasari)",
+      "format": "ebook",
+      "price_seen": null,
+      "active_ads": 5,
+      "oldest_active_start": "2026-09-30",
+      "max_days_running": 20,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "4007220229570493",
+          "ad_url": "https://www.facebook.com/ads/library/?id=4007220229570493",
+          "start": "2026-09-30",
+          "days": 20,
+          "link_title": "E-Book Resep Rendah Kalori"
+        },
+        {
+          "ad_id": "1807923190516208",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1807923190516208",
+          "start": "2026-10-16",
+          "days": 5,
+          "link_title": "E-Book Resep Rendah Kalori"
+        },
+        {
+          "ad_id": "1093178490016058",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1093178490016058",
+          "start": "2026-10-16",
+          "days": 4,
+          "link_title": "E-book Resep Rendah Kalori"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Kreator perorangan, 1 iklan ~20 hari + kreatif baru."
+    },
+    {
+      "page_name": "Lambung Tenang",
+      "page_id": "1337298162805215",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=1337298162805215",
+      "product": "Lambung Tenang: program putus siklus GERD-anxiety ('9 Tahun, Jawabannya Bukan Obat', reset saraf vagus)",
+      "format": "ebook/program digital",
+      "price_seen": null,
+      "active_ads": 11,
+      "oldest_active_start": "2026-10-06",
+      "max_days_running": 14,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "1335591608487115",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1335591608487115",
+          "start": "2026-10-06",
+          "days": 14,
+          "link_title": "Kisah 9 Tahun di Siklus GERD Anxiety"
+        },
+        {
+          "ad_id": "1746661969970523",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1746661969970523",
+          "start": "2026-10-06",
+          "days": 14,
+          "link_title": "Putus Siklus Gerd Anxiety : EKG Normal, Debar Tetap Datang"
+        },
+        {
+          "ad_id": "1628705375364951",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1628705375364951",
+          "start": "2026-10-06",
+          "days": 14,
+          "link_title": "9 Tahun, Jawabannya Bukan Obat"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Angle storytelling 9 tahun GERD. 11 iklan, tertua 14 hari."
+    },
+    {
+      "page_name": "Biohack Project",
+      "page_id": "1074780402393017",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=1074780402393017",
+      "product": "Biohack Project: panduan/terapi mandiri berbagai keluhan (GERD 'katup lambung', pasca-stroke, saraf terjepit, ngorok, bau mulut, kantuk setelah makan)",
+      "format": "ebook/program digital multi-topik (dugaan)",
+      "price_seen": null,
+      "active_ads": 61,
+      "oldest_active_start": "2026-10-14",
+      "max_days_running": 6,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "4093376950971693",
+          "ad_url": "https://www.facebook.com/ads/library/?id=4093376950971693",
+          "start": "2026-10-14",
+          "days": 6,
+          "link_title": "Kaki Sering Terseret Pasca-Stroke?"
+        },
+        {
+          "ad_id": "1623800792727029",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1623800792727029",
+          "start": "2026-10-14",
+          "days": 6,
+          "link_title": "Terapi Stroke Terasa Lambat?"
+        },
+        {
+          "ad_id": "2294825218024390",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2294825218024390",
+          "start": "2026-10-14",
+          "days": 6,
+          "link_title": "Jari Kaku Susah Pegang Sendok?"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "61 iklan aktif, sangat agresif testing hook pain spesifik. Pastikan bukan produk fisik saat cek manual. Catatan: 61 iklan aktif, API hanya menampilkan 50 terbaru; umur tertua yang terlihat adalah batas bawah (iklan lebih tua kemungkinan ada)."
+    },
+    {
+      "page_name": "Auralife.id",
+      "page_id": "734608299733729",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=734608299733729",
+      "product": "Auralife.id: panduan intermittent fasting/puasa ('Lewati Hari ke-3 dengan Panduan', 'Yang Boleh Diminum Saat Jeda', 'Bukan Kalori, Tapi Hormon')",
+      "format": "ebook/program digital",
+      "price_seen": null,
+      "active_ads": 38,
+      "oldest_active_start": "2026-10-18",
+      "max_days_running": 2,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "1864367231677509",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1864367231677509",
+          "start": "2026-10-18",
+          "days": 2,
+          "link_title": "Sarapan yang Tahan Sampai Siang"
+        },
+        {
+          "ad_id": "1479996730862864",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1479996730862864",
+          "start": "2026-10-18",
+          "days": 2,
+          "link_title": "Yang Boleh Diminum Saat Jeda"
+        },
+        {
+          "ad_id": "2542159419593959",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2542159419593959",
+          "start": "2026-10-18",
+          "days": 2,
+          "link_title": "3 Mitos yang Bikin Berhenti"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "38 iklan diluncurkan serentak minggu ini."
+    },
+    {
+      "page_name": "Diet Sehat",
+      "page_id": "431925966676394",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=431925966676394",
+      "product": "Diet Sehat: 'Diet Mudah tanpa Ribet dan Stress'",
+      "format": "ebook/panduan (dugaan)",
+      "price_seen": null,
+      "active_ads": 16,
+      "oldest_active_start": "2026-10-18",
+      "max_days_running": 2,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "1855412659242531",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1855412659242531",
+          "start": "2026-10-18",
+          "days": 2,
+          "link_title": "Diet Mudah tanpa Ribet dan Stress"
+        },
+        {
+          "ad_id": "1099074229145323",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1099074229145323",
+          "start": "2026-10-18",
+          "days": 2,
+          "link_title": "Diet Mudah tanpa Ribet dan Stress"
+        },
+        {
+          "ad_id": "987137743695430",
+          "ad_url": "https://www.facebook.com/ads/library/?id=987137743695430",
+          "start": "2026-10-18",
+          "days": 2,
+          "link_title": "Diet Mudah tanpa Ribet dan Stress"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "16 iklan diluncurkan bersamaan (testing kreatif)."
+    },
+    {
+      "page_name": "BukaBuka",
+      "page_id": "655102837682860",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=655102837682860",
+      "product": "BukaBuka: bundling 6 e-book resep sehat",
+      "format": "ebook bundle",
+      "price_seen": "Rp25.000",
+      "active_ads": 1,
+      "oldest_active_start": "2026-10-11",
+      "max_days_running": 9,
+      "status": "BARU",
+      "winning_ads": [
+        {
+          "ad_id": "1087516350770262",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1087516350770262",
+          "start": "2026-10-11",
+          "days": 9,
+          "link_title": "Bundling 6 E-Book Resep Sehat, Cuma 25rb!"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": ""
+    },
+    {
+      "page_name": "Tumbuhbaik",
+      "page_id": "677397122118338",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=677397122118338",
+      "product": "Tumbuhbaik: panduan menu rumahan langsing ('Stop makan rebusan hambar', 'Trik Sendok susut 4-7kg')",
+      "format": "ebook",
+      "price_seen": null,
+      "active_ads": 7,
+      "oldest_active_start": "2026-10-13",
+      "max_days_running": 7,
+      "status": "BARU",
+      "winning_ads": [
+        {
+          "ad_id": "1442664984456842",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1442664984456842",
+          "start": "2026-10-13",
+          "days": 7,
+          "link_title": "Bikin Dia Gantian Overthinking & Penasaran"
+        },
+        {
+          "ad_id": "1157929733341167",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1157929733341167",
+          "start": "2026-10-20",
+          "days": 0,
+          "link_title": "Stop Makan Rebusan Hambar! Tetap Bisa Langsing Pakai Menu Rumahan."
+        },
+        {
+          "ad_id": "1753257442902155",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1753257442902155",
+          "start": "2026-10-20",
+          "days": 0,
+          "link_title": "Buncit Karena Kurang Tidur & Stres? Susut 4-7Kg Cukup Pakai Trik Sendok."
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Toko multi-niche (juga produk relationship)."
+    },
+    {
+      "page_name": "Tetap Makan Nasi",
+      "page_id": "1324541334080913",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=1324541334080913",
+      "product": "Tetap Makan Nasi: program diet tanpa berhenti makan nasi (judul link hanya 'ambil PROMO')",
+      "format": "ebook/program (belum terkonfirmasi)",
+      "price_seen": null,
+      "active_ads": 6,
+      "oldest_active_start": "2026-10-14",
+      "max_days_running": 6,
+      "status": "BARU",
+      "winning_ads": [
+        {
+          "ad_id": "3275660879285308",
+          "ad_url": "https://www.facebook.com/ads/library/?id=3275660879285308",
+          "start": "2026-10-14",
+          "days": 6,
+          "link_title": "Tap \"Pelajari Selengkapnya\" dan ambil PROMO nya."
+        },
+        {
+          "ad_id": "1855270192156993",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1855270192156993",
+          "start": "2026-10-14",
+          "days": 6,
+          "link_title": "Tap \"Pelajari Selengkapnya\" dan ambil PROMO nya."
+        },
+        {
+          "ad_id": "1700731075049025",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1700731075049025",
+          "start": "2026-10-14",
+          "days": 6,
+          "link_title": "Tap \"Pelajari Selengkapnya\" dan ambil PROMO nya."
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Produk belum terkonfirmasi dari judul link; cek kreatif manual."
+    },
+    {
+      "page_name": "Rem Gula 90",
+      "page_id": "1324867527382128",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=1324867527382128",
+      "product": "Rem Gula 90: Panduan 90 Hari + Checklist Harian (kontrol gula darah)",
+      "format": "ebook + checklist",
+      "price_seen": null,
+      "active_ads": 6,
+      "oldest_active_start": "2026-10-16",
+      "max_days_running": 4,
+      "status": "BARU",
+      "winning_ads": [
+        {
+          "ad_id": "1810795950120644",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1810795950120644",
+          "start": "2026-10-16",
+          "days": 4,
+          "link_title": "Panduan 90 Hari + Checklist Harian"
+        },
+        {
+          "ad_id": "1636872994817661",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1636872994817661",
+          "start": "2026-10-16",
+          "days": 4,
+          "link_title": "Panduan 90 Hari + Checklist Harian"
+        },
+        {
+          "ad_id": "1858608492179685",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1858608492179685",
+          "start": "2026-10-17",
+          "days": 3,
+          "link_title": "Panduan 90 Hari + Checklist Harian"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": ""
+    },
+    {
+      "page_name": "Migunani",
+      "page_id": "1259307640596081",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=1259307640596081",
+      "product": "Migunani: aplikasi/sistem menu diet 7 hari (48 menu, 'ketik isi kulkas' -> resep), sekali bayar",
+      "format": "aplikasi/web app menu",
+      "price_seen": "Rp69.000",
+      "active_ads": 6,
+      "oldest_active_start": "2026-10-21",
+      "max_days_running": 0,
+      "status": "BARU",
+      "winning_ads": [
+        {
+          "ad_id": "1652645383213067",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1652645383213067",
+          "start": "2026-10-21",
+          "days": 0,
+          "link_title": "Katering diet per hari | Hingga 48 menu 7 hari | ≈Rp1.400 per menu | Rp69.000 sekali bayar"
+        },
+        {
+          "ad_id": "2001728837201700",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2001728837201700",
+          "start": "2026-10-21",
+          "days": 0,
+          "link_title": "Masak apa hari ini? | Ketik isi kulkas Anda | Langkah masak lengkap | Rp69.000 sekali bayar"
+        },
+        {
+          "ad_id": "1111392058154506",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1111392058154506",
+          "start": "2026-10-21",
+          "days": 0,
+          "link_title": "Masak sekali, menu 7 hari | Rp69.000 sekali bayar"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": ""
+    },
+    {
+      "page_name": "Noval Bachri",
+      "page_id": "105259227720747",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=105259227720747",
+      "product": "Noval Bachri: Strategi Turun Berat Badan Tanpa Menyiksa",
+      "format": "ebook/kelas",
+      "price_seen": null,
+      "active_ads": 6,
+      "oldest_active_start": "2026-10-20",
+      "max_days_running": 0,
+      "status": "BARU",
+      "winning_ads": [
+        {
+          "ad_id": "2184023055853110",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2184023055853110",
+          "start": "2026-10-20",
+          "days": 0,
+          "link_title": "Strategi Turun Berat Badan Tanpa Menyiksa"
+        },
+        {
+          "ad_id": "943776678492661",
+          "ad_url": "https://www.facebook.com/ads/library/?id=943776678492661",
+          "start": "2026-10-20",
+          "days": 0,
+          "link_title": "Strategi Turun Berat Badan Tanpa Menyiksa"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": ""
+    },
+    {
+      "page_name": "Bita frozen",
+      "page_id": "1366247336564596",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=1366247336564596",
+      "product": "Ebook Panduan Diet Mudah, menu tidak ribet, tanpa suplemen",
+      "format": "ebook",
+      "price_seen": null,
+      "active_ads": 6,
+      "oldest_active_start": "2026-10-21",
+      "max_days_running": 0,
+      "status": "BARU",
+      "winning_ads": [
+        {
+          "ad_id": "988342140266144",
+          "ad_url": "https://www.facebook.com/ads/library/?id=988342140266144",
+          "start": "2026-10-21",
+          "days": 0,
+          "link_title": "Ebook Panduan Diet Mudah, Ga Nyiksa, Menu Ga Ribet Dan Tanpa Suplemen"
+        },
+        {
+          "ad_id": "29515762811341933",
+          "ad_url": "https://www.facebook.com/ads/library/?id=29515762811341933",
+          "start": "2026-10-21",
+          "days": 0,
+          "link_title": "Ebook Panduan Diet Mudah, Ga Nyiksa, Menu Ga Ribet Dan Tanpa Suplemen"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": ""
+    }
+  ],
+  "insights": {
+    "price_range": "Rp25.000 (bundle 6 ebook resep) - Rp69.000 (aplikasi menu diet) - Rp99.000 (program kecilkan perut) - Rp154.000 (ebook remisi diabetes + webinar)",
+    "angles": [
+      "Diet tanpa menyiksa: 'tanpa nahan lapar', 'tetap makan nasi', 'stop makan rebusan hambar', 'tanpa diet ekstrem'",
+      "Segmentasi ibu/wanita: 'perut kempes sambil momong', 'ibu 40+', pilates di rumah",
+      "Penyakit kronis dengan pendekatan non-obat: remisi diabetes 90 hari, GERD 'jawabannya bukan obat', reset saraf vagus",
+      "Social proof angka: '1472 wanita udah buktiin', '112 ibu udah buktikan', '3500+ member'",
+      "Bingung menu: menu diet 60 hari, menu 7 hari, 'ketik isi kulkas' jadi resep",
+      "Intermittent fasting & hormon: 'bukan kalori, tapi hormon', 'lewati hari ke-3'"
+    ],
+    "formats": [
+      "ebook menu/resep diet",
+      "program/e-course latihan + diet 30 hari",
+      "ebook + webinar penyakit kronis (diabetes, GERD)",
+      "membership resep",
+      "aplikasi menu diet sekali bayar"
+    ],
+    "summary": "Niche ini paling ramai di kata kunci 'menu diet', tetapi banyak iklannya berasal dari suplemen, susu, dan klinik (GLP-1, TCM) yang sengaja dikeluarkan. Pengiklan produk digital yang paling tahan lama adalah program latihan dan diet di rumah (WorkFit, Slim Fit System, Tita's Kitchen) serta ebook diabetes (Probetes). Kreatif terbaru bergeser ke angle penyakit kronis (GERD, gula darah, intermittent fasting) dengan puluhan varian hook yang diuji bersamaan. Defitmom, Myfitsociety, dan Ketllebell ID juga beriklan di topik diet tetapi sudah tercatat di niche Fitness, jadi tidak diulang."
+  }
+}

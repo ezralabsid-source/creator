@@ -1,0 +1,706 @@
+{
+  "niche": "Trading & Investasi",
+  "slug": "trading-investasi",
+  "keywords": [
+    {
+      "term": "investasi emas",
+      "active_ads_id": 2696
+    },
+    {
+      "term": "belajar trading",
+      "active_ads_id": 1293
+    },
+    {
+      "term": "kelas saham",
+      "active_ads_id": 1007
+    },
+    {
+      "term": "sinyal trading",
+      "active_ads_id": 416
+    },
+    {
+      "term": "ebook trading",
+      "active_ads_id": 375
+    },
+    {
+      "term": "ebook saham",
+      "active_ads_id": 344
+    },
+    {
+      "term": "kelas crypto",
+      "active_ads_id": 58
+    },
+    {
+      "term": "kelas forex",
+      "active_ads_id": 31
+    }
+  ],
+  "advertisers": [
+    {
+      "page_name": "Emtrade",
+      "page_id": "108171260795248",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=108171260795248",
+      "product": "Emtrade (Ellen May): kelas/webinar saham pemula, 'Start 1', strategi Super Trader, belajar US stock & Bitcoin",
+      "format": "e-course/webinar/membership edukasi",
+      "price_seen": null,
+      "active_ads": 63,
+      "oldest_active_start": "2025-10-20",
+      "max_days_running": 365,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "25309437135349205",
+          "ad_url": "https://www.facebook.com/ads/library/?id=25309437135349205",
+          "start": "2025-10-20",
+          "days": 365,
+          "link_title": "Emtrade"
+        },
+        {
+          "ad_id": "862265653152683",
+          "ad_url": "https://www.facebook.com/ads/library/?id=862265653152683",
+          "start": "2025-11-11",
+          "days": 343,
+          "link_title": "Emtrade"
+        },
+        {
+          "ad_id": "1523157942108596",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1523157942108596",
+          "start": "2026-01-09",
+          "days": 284,
+          "link_title": "Emtrade"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Pengiklan edukasi saham paling konsisten: iklan evergreen sejak Okt 2025 dan terus menambah kreatif baru (63 aktif). Hook: '2 jam langsung paham trading saham', 'Copy strategi saham Ms. Ellen May'. Catatan: 63 iklan aktif, API hanya menampilkan 50 terbaru; umur tertua yang terlihat adalah batas bawah (iklan lebih tua kemungkinan ada)."
+    },
+    {
+      "page_name": "Gabriel Rey",
+      "page_id": "266117653252701",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=266117653252701",
+      "product": "Gabriel Rey: edukasi/kelas trading crypto (iklan mengarah ke Instagram @gabrielrey99)",
+      "format": "e-course/komunitas (dugaan)",
+      "price_seen": null,
+      "active_ads": 258,
+      "oldest_active_start": "2026-01-20",
+      "max_days_running": 273,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "1211161944325187",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1211161944325187",
+          "start": "2026-01-20",
+          "days": 273,
+          "link_title": ""
+        },
+        {
+          "ad_id": "2132696534172314",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2132696534172314",
+          "start": "2026-04-02",
+          "days": 202,
+          "link_title": ""
+        },
+        {
+          "ad_id": "1714328672885018",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1714328672885018",
+          "start": "2026-04-02",
+          "days": 202,
+          "link_title": ""
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "domain_hint",
+      "notes": "258 iklan aktif, volume terbesar di niche. Judul link mengarah ke profil Instagram. Iklan tertua terkonfirmasi dari pencarian keyword (Jan 2026). Catatan: 258 iklan aktif, API hanya menampilkan 50 terbaru; umur tertua yang terlihat adalah batas bawah (iklan lebih tua kemungkinan ada)."
+    },
+    {
+      "page_name": "Premium crypto class",
+      "page_id": "929242880280496",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=929242880280496",
+      "product": "Premium crypto class (kelas crypto berbayar via chat WhatsApp)",
+      "format": "e-course/mentoring",
+      "price_seen": null,
+      "active_ads": 2,
+      "oldest_active_start": "2026-02-16",
+      "max_days_running": 246,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "1147109800709725",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1147109800709725",
+          "start": "2026-02-16",
+          "days": 246,
+          "link_title": "Chat with us"
+        },
+        {
+          "ad_id": "2567899453668041",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2567899453668041",
+          "start": "2026-02-18",
+          "days": 244,
+          "link_title": "Chat with us"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "CTA 'Chat with us' (closing via WA). 2 iklan evergreen ~8 bulan."
+    },
+    {
+      "page_name": "Cuan Digital Community",
+      "page_id": "1028920766961021",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=1028920766961021",
+      "product": "Cuan Digital Community (muncul di pencarian 'kelas crypto')",
+      "format": "komunitas/kelas (dugaan)",
+      "price_seen": null,
+      "active_ads": 1,
+      "oldest_active_start": "2026-02-24",
+      "max_days_running": 238,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "912400848164999",
+          "ad_url": "https://www.facebook.com/ads/library/?id=912400848164999",
+          "start": "2026-02-24",
+          "days": 238,
+          "link_title": ""
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Iklan tunggal tanpa judul link, ~8 bulan. Produk belum terkonfirmasi."
+    },
+    {
+      "page_name": "Pusat Bercuan",
+      "page_id": "886878194500233",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=886878194500233",
+      "product": "Pusat Bercuan: 'Make Your Way to Billion' (kelas forex/trading)",
+      "format": "e-course/komunitas",
+      "price_seen": null,
+      "active_ads": 5,
+      "oldest_active_start": "2026-03-08",
+      "max_days_running": 226,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "2827947014223738",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2827947014223738",
+          "start": "2026-03-08",
+          "days": 226,
+          "link_title": "Make Your Way to Billion"
+        },
+        {
+          "ad_id": "1846718352529203",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1846718352529203",
+          "start": "2026-03-08",
+          "days": 226,
+          "link_title": "Make Your Way to Billion"
+        },
+        {
+          "ad_id": "1419188973222043",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1419188973222043",
+          "start": "2026-03-08",
+          "days": 226,
+          "link_title": "Make Your Way to Billion"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "5 iklan dengan hook sama, semua ~7,5 bulan."
+    },
+    {
+      "page_name": "adkendar",
+      "page_id": "176372234508316",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=176372234508316",
+      "product": "adkendar (muncul di pencarian 'kelas crypto')",
+      "format": "tidak terkonfirmasi",
+      "price_seen": null,
+      "active_ads": 1,
+      "oldest_active_start": "2026-05-28",
+      "max_days_running": 145,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "967814595965212",
+          "ad_url": "https://www.facebook.com/ads/library/?id=967814595965212",
+          "start": "2026-05-28",
+          "days": 145,
+          "link_title": ""
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Iklan tunggal tanpa judul, ~5 bulan. Perlu dicek manual."
+    },
+    {
+      "page_name": "roadtomilyar",
+      "page_id": "1118186971384540",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=1118186971384540",
+      "product": "roadtomilyar (muncul di pencarian 'kelas crypto')",
+      "format": "tidak terkonfirmasi",
+      "price_seen": null,
+      "active_ads": 2,
+      "oldest_active_start": "2026-05-30",
+      "max_days_running": 143,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "1307979164641344",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1307979164641344",
+          "start": "2026-05-30",
+          "days": 143,
+          "link_title": ""
+        },
+        {
+          "ad_id": "1020358103746818",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1020358103746818",
+          "start": "2026-05-30",
+          "days": 143,
+          "link_title": ""
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "2 iklan tanpa judul, ~5 bulan."
+    },
+    {
+      "page_name": "Money Play Book",
+      "page_id": "1179899878548364",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=1179899878548364",
+      "product": "Full Modul Investasi",
+      "format": "ebook/modul",
+      "price_seen": "Rp10.000",
+      "active_ads": 1,
+      "oldest_active_start": "2026-08-09",
+      "max_days_running": 72,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "1361587165490448",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1361587165490448",
+          "start": "2026-08-09",
+          "days": 72,
+          "link_title": "FULL MODUL INVESTASI CUMAN 10RB"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Low-ticket tripwire Rp10rb, satu iklan evergreen ~2,5 bulan."
+    },
+    {
+      "page_name": "Wijaya Trading Jember",
+      "page_id": "214546538409868",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=214546538409868",
+      "product": "Wijaya Trading Jember: belajar trading ('Masih Bingung Buy / Sell')",
+      "format": "kelas trading (kemungkinan ada sesi offline/lokal)",
+      "price_seen": null,
+      "active_ads": 1,
+      "oldest_active_start": "2026-08-25",
+      "max_days_running": 56,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "28350602934563262",
+          "ad_url": "https://www.facebook.com/ads/library/?id=28350602934563262",
+          "start": "2026-08-25",
+          "days": 56,
+          "link_title": "Masih Bingung Buy / Sell"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Nama mengindikasikan basis lokal Jember."
+    },
+    {
+      "page_name": "Fortis Growth",
+      "page_id": "1293080357211831",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=1293080357211831",
+      "product": "Fortis Circle: komunitas/kelas trading & crypto",
+      "format": "membership komunitas",
+      "price_seen": null,
+      "active_ads": 92,
+      "oldest_active_start": "2026-09-04",
+      "max_days_running": 46,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "1418946213629393",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1418946213629393",
+          "start": "2026-09-04",
+          "days": 46,
+          "link_title": "Fortis Growth"
+        },
+        {
+          "ad_id": "1033667246394425",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1033667246394425",
+          "start": "2026-09-09",
+          "days": 41,
+          "link_title": "Join Fortis Circle!"
+        },
+        {
+          "ad_id": "1482285130390896",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1482285130390896",
+          "start": "2026-09-22",
+          "days": 28,
+          "link_title": "Join Fortis Circle!"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "92 iklan aktif, semua 'Join Fortis Circle!'. Iklan tertua terkonfirmasi dari pencarian keyword. Catatan: 92 iklan aktif, API hanya menampilkan 50 terbaru; umur tertua yang terlihat adalah batas bawah (iklan lebih tua kemungkinan ada)."
+    },
+    {
+      "page_name": "Jitu Trader Community",
+      "page_id": "485614874643556",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=485614874643556",
+      "product": "Sistem scalping Gold/XAUUSD (6 tools & materi dalam 1 sistem)",
+      "format": "e-course + tools/indikator",
+      "price_seen": null,
+      "active_ads": 15,
+      "oldest_active_start": "2026-09-07",
+      "max_days_running": 43,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "2441235499622103",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2441235499622103",
+          "start": "2026-09-07",
+          "days": 43,
+          "link_title": "Bangun Aset Trading, Bukan Ikut Sinyal"
+        },
+        {
+          "ad_id": "2142222910042983",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2142222910042983",
+          "start": "2026-09-07",
+          "days": 43,
+          "link_title": "Satu Sistem Untuk Proses Scalping XAUUSD"
+        },
+        {
+          "ad_id": "1613023876836640",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1613023876836640",
+          "start": "2026-09-07",
+          "days": 43,
+          "link_title": "6 Tools & Materi Scalping XAUUSD Dalam 1 Sistem"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Hook: 'Arah kamu bener, entry-nya yang kecepetan', 'Bangun aset trading, bukan ikut sinyal'. Satu grup dengan Wall Street Strategy by Trading Jitu."
+    },
+    {
+      "page_name": "Scalping Hack Masterclass",
+      "page_id": "802015126329297",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=802015126329297",
+      "product": "Scalping Hack Masterclass: scalping Gold/forex TF 1 menit + webinar",
+      "format": "webinar/e-course",
+      "price_seen": null,
+      "active_ads": 29,
+      "oldest_active_start": "2026-09-22",
+      "max_days_running": 29,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "962324583591015",
+          "ad_url": "https://www.facebook.com/ads/library/?id=962324583591015",
+          "start": "2026-09-22",
+          "days": 29,
+          "link_title": "Scalping Gold 1 Menit Ternyata Bisa Sesimpel Ini"
+        },
+        {
+          "ad_id": "2003688460330611",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2003688460330611",
+          "start": "2026-09-22",
+          "days": 29,
+          "link_title": ""
+        },
+        {
+          "ad_id": "1627474005506087",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1627474005506087",
+          "start": "2026-09-22",
+          "days": 28,
+          "link_title": "Stop Scalping Pakai Feeling!"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "29 iklan aktif, hampir 30 hari."
+    },
+    {
+      "page_name": "Gift Day",
+      "page_id": "1169048686300720",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=1169048686300720",
+      "product": "Belajar Trading Lebih Terarah",
+      "format": "e-course",
+      "price_seen": "Rp99.000",
+      "active_ads": 2,
+      "oldest_active_start": "2026-09-25",
+      "max_days_running": 25,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "2902691173400615",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2902691173400615",
+          "start": "2026-09-25",
+          "days": 25,
+          "link_title": "Belajar Trading Lebih Terarah Mulai 99rb"
+        },
+        {
+          "ad_id": "945814278286847",
+          "ad_url": "https://www.facebook.com/ads/library/?id=945814278286847",
+          "start": "2026-10-19",
+          "days": 1,
+          "link_title": "Belajar Trading Lebih Terarah Mulai 99rb"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": ""
+    },
+    {
+      "page_name": "Jago Scalping Forex",
+      "page_id": "328745466982735",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=328745466982735",
+      "product": "Kelas strategi scalping forex harian ('Belajar Trading Tanpa Resign')",
+      "format": "e-course",
+      "price_seen": null,
+      "active_ads": 2,
+      "oldest_active_start": "2026-10-01",
+      "max_days_running": 19,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "1116526670822440",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1116526670822440",
+          "start": "2026-10-01",
+          "days": 19,
+          "link_title": "Belajar Trading Tanpa Resign"
+        },
+        {
+          "ad_id": "1795623824902130",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1795623824902130",
+          "start": "2026-10-02",
+          "days": 19,
+          "link_title": "Kuasai Strategi Scalping Harian"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": ""
+    },
+    {
+      "page_name": "Cryptoday",
+      "page_id": "807183932475288",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=807183932475288",
+      "product": "Cryptoday: kelas trading berbasis AI (online + offline class 4 jam), komunitas 'Ekosistem Trader Rasional'",
+      "format": "e-course/kelas offline/komunitas",
+      "price_seen": null,
+      "active_ads": 23,
+      "oldest_active_start": "2026-10-10",
+      "max_days_running": 11,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "2164560767603413",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2164560767603413",
+          "start": "2026-10-10",
+          "days": 11,
+          "link_title": "Bangun Sistem Trading Presisi via AI: Cepat, Tepat & Objektif"
+        },
+        {
+          "ad_id": "1359538009359284",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1359538009359284",
+          "start": "2026-10-10",
+          "days": 10,
+          "link_title": "Stop Siklus MC: Ganti Teori dengan Kedisiplinan Sistem AI"
+        },
+        {
+          "ad_id": "3496436313871385",
+          "ad_url": "https://www.facebook.com/ads/library/?id=3496436313871385",
+          "start": "2026-10-11",
+          "days": 10,
+          "link_title": "Bongkar Cara Kerja Full-Time AI Trader: Dari Analisa hingga Eksekusi"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "23 iklan aktif, angle AI trading."
+    },
+    {
+      "page_name": "Wall Street Strategy by Trading Jitu",
+      "page_id": "922040290996936",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=922040290996936",
+      "product": "Wall Street Strategy by Trading Jitu: All-in-One Trading System, baca chart XAU/USD pakai zona",
+      "format": "e-course + indikator",
+      "price_seen": null,
+      "active_ads": 40,
+      "oldest_active_start": "2026-10-15",
+      "max_days_running": 5,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "1128693419550325",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1128693419550325",
+          "start": "2026-10-15",
+          "days": 5,
+          "link_title": "All-in-One Trading System"
+        },
+        {
+          "ad_id": "1411807014475614",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1411807014475614",
+          "start": "2026-10-15",
+          "days": 5,
+          "link_title": "All-in-One Trading System"
+        },
+        {
+          "ad_id": "1972187570406092",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1972187570406092",
+          "start": "2026-10-15",
+          "days": 5,
+          "link_title": "All-in-One Trading System"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "40 iklan aktif, sedang scaling kreatif."
+    },
+    {
+      "page_name": "Probroker AI Tools",
+      "page_id": "1007942912403439",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=1007942912403439",
+      "product": "Probroker AI Tools: webinar trading AI + tools gratis",
+      "format": "webinar (lead magnet) + tools",
+      "price_seen": null,
+      "active_ads": 8,
+      "oldest_active_start": "2026-10-16",
+      "max_days_running": 4,
+      "status": "BARU",
+      "winning_ads": [
+        {
+          "ad_id": "1607985804343579",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1607985804343579",
+          "start": "2026-10-16",
+          "days": 4,
+          "link_title": "Webinar Trading AI, Tools Gratis"
+        },
+        {
+          "ad_id": "1425572628986352",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1425572628986352",
+          "start": "2026-10-16",
+          "days": 4,
+          "link_title": "Jangan Cuma Ikuti Sinyal Trading"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": ""
+    },
+    {
+      "page_name": "Ferdy D. Savio",
+      "page_id": "154889257905327",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=154889257905327",
+      "product": "Ferdy D. Savio: kelas trading saham AS ('Trading Santai di U.S. Market, tanpa begadang')",
+      "format": "e-course",
+      "price_seen": null,
+      "active_ads": 4,
+      "oldest_active_start": "2026-10-16",
+      "max_days_running": 4,
+      "status": "BARU",
+      "winning_ads": [
+        {
+          "ad_id": "912728285104125",
+          "ad_url": "https://www.facebook.com/ads/library/?id=912728285104125",
+          "start": "2026-10-16",
+          "days": 4,
+          "link_title": "Cari Peluang di U.S. Market"
+        },
+        {
+          "ad_id": "1117391144616372",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1117391144616372",
+          "start": "2026-10-16",
+          "days": 4,
+          "link_title": "Trading Saham AS, Tanpa Begadang"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": ""
+    },
+    {
+      "page_name": "Trading Life",
+      "page_id": "1400517833142679",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=1400517833142679",
+      "product": "Ebook prompt trading AI (9 bab)",
+      "format": "ebook",
+      "price_seen": "Rp10.000",
+      "active_ads": 3,
+      "oldest_active_start": "2026-10-20",
+      "max_days_running": 0,
+      "status": "BARU",
+      "winning_ads": [
+        {
+          "ad_id": "1450805140366646",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1450805140366646",
+          "start": "2026-10-20",
+          "days": 0,
+          "link_title": "9 Bab dalam Satu Ebook • Rp10.000"
+        },
+        {
+          "ad_id": "2145147266210486",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2145147266210486",
+          "start": "2026-10-21",
+          "days": 0,
+          "link_title": "Pelajari Prompt Trading • Rp10.000"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": ""
+    },
+    {
+      "page_name": "Belajar Forex Dotcom",
+      "page_id": "630113150189453",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=630113150189453",
+      "product": "E-book Smart Money Concept untuk Trader Pemula",
+      "format": "ebook",
+      "price_seen": null,
+      "active_ads": 3,
+      "oldest_active_start": "2026-10-21",
+      "max_days_running": 0,
+      "status": "BARU",
+      "winning_ads": [
+        {
+          "ad_id": "1656973712444345",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1656973712444345",
+          "start": "2026-10-21",
+          "days": 0,
+          "link_title": "E-book Smart Money Concept untuk Trader Pemula"
+        },
+        {
+          "ad_id": "1421177879553776",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1421177879553776",
+          "start": "2026-10-21",
+          "days": 0,
+          "link_title": "E-book Smart Money Concept untuk Trader Pemula"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": ""
+    }
+  ],
+  "insights": {
+    "price_range": "Rp10.000 (ebook/modul tripwire) - Rp99.000 (kelas pemula); kelas premium disebut sampai Rp499.000 (Behind the Chain), sebagian besar closing via WhatsApp/webinar sehingga harga tidak tampil",
+    "angles": [
+      "Anti-feeling/anti-tebak: 'Stop entry asal-asalan', 'Berhenti nebak arah gold', 'Jangan cuma ikuti sinyal'",
+      "AI trading: 'Trader tanpa AI bisa ketinggalan', 'Bangun sistem trading via AI'",
+      "Scalping Gold/XAUUSD timeframe 1 menit sebagai tema dominan forex",
+      "Trading sambil kerja: 'Belajar trading tanpa resign', 'Trading saham AS tanpa begadang'",
+      "Otoritas tokoh (Ellen May, Gabriel Rey) dan komunitas ('Join Circle', 'gabung ekosistem')",
+      "Tripwire Rp10rb untuk ebook/modul"
+    ],
+    "formats": [
+      "e-course/webinar trading",
+      "komunitas/membership berbayar",
+      "sistem/indikator + materi",
+      "ebook tripwire Rp10rb"
+    ],
+    "summary": "Niche ramai tapi tercemar banyak halaman scam berbayar USD ('komunitas saham WhatsApp gratis') yang sengaja dikeluarkan dari daftar. Pemain edukasi legit yang paling lama bertahan adalah Emtrade dan Gabriel Rey (volume iklan sangat besar), disusul kelas crypto/forex kecil dengan 1-5 iklan evergreen. Tren kreatif terbaru: AI trading dan scalping gold."
+  }
+}

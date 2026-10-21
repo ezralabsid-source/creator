@@ -1,0 +1,813 @@
+{
+  "niche": "Pernikahan & Relationship",
+  "slug": "relationship",
+  "keywords": [
+    {
+      "term": "ebook pernikahan",
+      "active_ads_id": 143
+    },
+    {
+      "term": "ebook suami istri",
+      "active_ads_id": 210
+    },
+    {
+      "term": "kelas pranikah",
+      "active_ads_id": 45
+    },
+    {
+      "term": "panduan rumah tangga",
+      "active_ads_id": 688
+    },
+    {
+      "term": "keharmonisan rumah tangga",
+      "active_ads_id": 502
+    },
+    {
+      "term": "ebook istri",
+      "active_ads_id": 415
+    },
+    {
+      "term": "taaruf",
+      "active_ads_id": 80
+    },
+    {
+      "term": "ebook jodoh",
+      "active_ads_id": 15
+    },
+    {
+      "term": "ebook pasutri",
+      "active_ads_id": 12
+    },
+    {
+      "term": "kelas online pernikahan",
+      "active_ads_id": 29
+    }
+  ],
+  "advertisers": [
+    {
+      "page_name": "makindekat.id",
+      "page_id": "560978957097035",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=560978957097035",
+      "product": "'Capek Jomblo Terus?' - layanan/aplikasi cari jodoh/ta'aruf (dugaan)",
+      "format": "layanan digital/aplikasi jodoh (belum terverifikasi)",
+      "price_seen": null,
+      "active_ads": 7,
+      "oldest_active_start": "2026-05-18",
+      "max_days_running": 155,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "1041496604874790",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1041496604874790",
+          "start": "2026-05-18",
+          "days": 155,
+          "link_title": "Capek Jomblo Terus? | Capek Jomblo Terus? | Capek Jomblo Terus?"
+        },
+        {
+          "ad_id": "1530826082071036",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1530826082071036",
+          "start": "2026-05-18",
+          "days": 155,
+          "link_title": "Akhiri Kesendirianmu Sekarang Juga!"
+        },
+        {
+          "ad_id": "1361410242470626",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1361410242470626",
+          "start": "2026-05-18",
+          "days": 155,
+          "link_title": "Capek Jomblo Terus?"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "domain_hint",
+      "notes": "Nama halaman = domain makindekat.id (tidak bisa dibuka dari environment). Iklan ~155 hari, sangat evergreen. Bisa jadi biro jodoh, bukan produk digital murni."
+    },
+    {
+      "page_name": "Pasangan Bahagia",
+      "page_id": "1073512779185306",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=1073512779185306",
+      "product": "Game pasangan suami-istri (\"Bangkitkan Fantasi Liar Pasangan - Cobain Game Ini\"), kemungkinan kartu/game digital untuk keintiman",
+      "format": "game pasangan (digital/printable, belum terverifikasi)",
+      "price_seen": null,
+      "active_ads": 14,
+      "oldest_active_start": "2026-05-22",
+      "max_days_running": 151,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "963190203160906",
+          "ad_url": "https://www.facebook.com/ads/library/?id=963190203160906",
+          "start": "2026-05-22",
+          "days": 151,
+          "link_title": "AWALNYA MALU-MALU… EH SEKARANG MALAH DIA YANG MULAI DULUAN"
+        },
+        {
+          "ad_id": "1696269501370170",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1696269501370170",
+          "start": "2026-05-22",
+          "days": 151,
+          "link_title": "TERNYATA… ISTRI JUGA PUNYA SISI \"LIAR\""
+        },
+        {
+          "ad_id": "1331934952332995",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1331934952332995",
+          "start": "2026-05-22",
+          "days": 151,
+          "link_title": "BRO… FANTASI ISTRI LO MUNGKIN LEBIH GILA DARI YANG LO KIRA"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Iklan tertua aktif ~5 bulan; hook provokatif ke suami. Format produk perlu dicek di snapshot (bisa juga kartu fisik)."
+    },
+    {
+      "page_name": "Etalase Nikahmudah",
+      "page_id": "976546695546638",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=976546695546638",
+      "product": "Ebook Pra-Nikah (toko LYNK milik zahidsamosir)",
+      "format": "ebook",
+      "price_seen": null,
+      "active_ads": 21,
+      "oldest_active_start": "2026-07-16",
+      "max_days_running": 97,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "1556461782617028",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1556461782617028",
+          "start": "2026-07-16",
+          "days": 97,
+          "link_title": "(tanpa judul link)"
+        },
+        {
+          "ad_id": "968691629511779",
+          "ad_url": "https://www.facebook.com/ads/library/?id=968691629511779",
+          "start": "2026-07-16",
+          "days": 96,
+          "link_title": "(tanpa judul link)"
+        },
+        {
+          "ad_id": "1522506775636846",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1522506775636846",
+          "start": "2026-07-24",
+          "days": 89,
+          "link_title": "Approved Derry Kasisolusi"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "domain_hint",
+      "notes": "Judul link format LYNK 'zahidsamosir | Ebook Pra-Nikah' -> LP kemungkinan di lynk.id (tidak bisa diverifikasi). Batch iklan baru terus ditambah tiap ~2-4 minggu."
+    },
+    {
+      "page_name": "Ali Hasan Bawazier",
+      "page_id": "108869670829920",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=108869670829920",
+      "product": "Ebook Pranikah NEW - Ust Ali, Checklist Persiapan Nikah, 50+ Pertanyaan Ta'aruf, kelas 'Ketika Cinta Diuji - Cara Nabi Menyelesaikan Konflik Rumah Tangga'",
+      "format": "ebook + checklist + kelas online",
+      "price_seen": null,
+      "active_ads": 29,
+      "oldest_active_start": "2026-07-24",
+      "max_days_running": 88,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "2088282105058857",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2088282105058857",
+          "start": "2026-07-24",
+          "days": 88,
+          "link_title": "Jangan Tunggu Belajar Setelah Menikah"
+        },
+        {
+          "ad_id": "27440105192283117",
+          "ad_url": "https://www.facebook.com/ads/library/?id=27440105192283117",
+          "start": "2026-07-25",
+          "days": 88,
+          "link_title": "(tanpa judul link)"
+        },
+        {
+          "ad_id": "1981461409189679",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1981461409189679",
+          "start": "2026-08-19",
+          "days": 62,
+          "link_title": "Checklist Persiapan Nikah ✅"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "domain_hint",
+      "notes": "Judul link 'LYNK | Website Builder' -> LP di lynk.id. Personal brand ustadz; produk berjenjang pranikah -> konflik rumah tangga."
+    },
+    {
+      "page_name": "Ikhtiar Doa",
+      "page_id": "100557565476838",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=100557565476838",
+      "product": "Amalan Solusi Diselingkuhi Pasangan & Amalan Doa Mempercepat Jodoh",
+      "format": "ebook/panduan amalan doa",
+      "price_seen": null,
+      "active_ads": 35,
+      "oldest_active_start": "2026-08-06",
+      "max_days_running": 76,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "1727119175192183",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1727119175192183",
+          "start": "2026-08-06",
+          "days": 76,
+          "link_title": "AMALAN SOLUSI DISELINGKUHI PASANGAN"
+        },
+        {
+          "ad_id": "1058213007146395",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1058213007146395",
+          "start": "2026-08-06",
+          "days": 76,
+          "link_title": "AMALAN SOLUSI DISELINGKUHI PASANGAN"
+        },
+        {
+          "ad_id": "1395497585979147",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1395497585979147",
+          "start": "2026-08-06",
+          "days": 76,
+          "link_title": "AMALAN SOLUSI DISELINGKUHI PASANGAN"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Angle spiritual (doa/amalan) untuk pain point perselingkuhan & jodoh; 35 iklan aktif, refresh kreatif berkala."
+    },
+    {
+      "page_name": "Rahasia Rumah Tangga Samawa",
+      "page_id": "580062618521632",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=580062618521632",
+      "product": "Ilmu jadi SOULMATE (materi dr. Aisah Dahlan), 'Cara Kenali Jodoh Yang Tepat'",
+      "format": "e-course/video kajian (dugaan)",
+      "price_seen": null,
+      "active_ads": 4,
+      "oldest_active_start": "2026-08-07",
+      "max_days_running": 74,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "1051294980642003",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1051294980642003",
+          "start": "2026-08-07",
+          "days": 74,
+          "link_title": "Dipertemukan Justru Karena Berbeda 👉🏼"
+        },
+        {
+          "ad_id": "1506094311567447",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1506094311567447",
+          "start": "2026-09-26",
+          "days": 24,
+          "link_title": "Cara Kenali Jodoh Yang Tepat 👉🏻"
+        },
+        {
+          "ad_id": "1612070810384865",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1612070810384865",
+          "start": "2026-10-16",
+          "days": 5,
+          "link_title": "Ilmu jadi SOULMATE dr. Aisah Dahlan👉"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Menunggangi nama besar dr. Aisah Dahlan; sedikit iklan tapi 1 iklan sudah ~74 hari."
+    },
+    {
+      "page_name": "Tips Kesehatan Pasutri",
+      "page_id": "1178636378673124",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=1178636378673124",
+      "product": "Panduan keintiman suami-istri ('Bangun Kedekatan Suami Istri', 'Panduan Praktis untuk Suami')",
+      "format": "ebook/panduan",
+      "price_seen": null,
+      "active_ads": 21,
+      "oldest_active_start": "2026-08-15",
+      "max_days_running": 66,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "1665437214554321",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1665437214554321",
+          "start": "2026-08-15",
+          "days": 66,
+          "link_title": "Bangun Kedekatan Suami Istri"
+        },
+        {
+          "ad_id": "1003946409339588",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1003946409339588",
+          "start": "2026-08-15",
+          "days": 66,
+          "link_title": "Bangun Kedekatan Suami Istri"
+        },
+        {
+          "ad_id": "1349812650207473",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1349812650207473",
+          "start": "2026-08-15",
+          "days": 66,
+          "link_title": "Bangun Keintiman dengan Pasangan"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Target suami; banyak varian hook baru ('Durasi Bukan Segalanya', 'Jangan Jadikan Film Sebagai Patokan')."
+    },
+    {
+      "page_name": "Narahati.co",
+      "page_id": "1283366421531841",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=1283366421531841",
+      "product": "Program/kelas persiapan menikah & ikhtiar jodoh ('30 Hari Dituntut Dapet Jodoh')",
+      "format": "kelas online/program",
+      "price_seen": null,
+      "active_ads": 5,
+      "oldest_active_start": "2026-09-18",
+      "max_days_running": 32,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "3016492265348703",
+          "ad_url": "https://www.facebook.com/ads/library/?id=3016492265348703",
+          "start": "2026-09-18",
+          "days": 32,
+          "link_title": "Jadilah Pribadi Yang Siap Sebelum Menikah"
+        },
+        {
+          "ad_id": "1438853884795066",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1438853884795066",
+          "start": "2026-09-18",
+          "days": 32,
+          "link_title": "30 Hari Dituntut Dapet Jodoh"
+        },
+        {
+          "ad_id": "915318758005067",
+          "ad_url": "https://www.facebook.com/ads/library/?id=915318758005067",
+          "start": "2026-09-18",
+          "days": 32,
+          "link_title": "Bingung Mulai Ikhtiar Jodoh?"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Semua 5 iklan diluncurkan bersamaan dan masih aktif ~33 hari."
+    },
+    {
+      "page_name": "Ruang Hidup",
+      "page_id": "916855708391603",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=916855708391603",
+      "product": "'Pawang Suami' + seri panduan komunikasi istri ke suami",
+      "format": "ebook/panduan",
+      "price_seen": null,
+      "active_ads": 84,
+      "oldest_active_start": "2026-09-20",
+      "max_days_running": 31,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "1336581058342706",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1336581058342706",
+          "start": "2026-09-20",
+          "days": 31,
+          "link_title": "Kejujuran Sulit Tumbuh di Bawah Tekanan"
+        },
+        {
+          "ad_id": "1804176570619263",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1804176570619263",
+          "start": "2026-09-28",
+          "days": 22,
+          "link_title": "Pawang Suami PLUS Testi"
+        },
+        {
+          "ad_id": "1099570129673918",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1099570129673918",
+          "start": "2026-09-28",
+          "days": 22,
+          "link_title": "Pawang Suami PLUS Testi"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "84 iklan aktif (hanya 50 terbaca, iklan lebih tua mungkin ada). Pengiklan paling agresif di niche ini: puluhan judul hook komunikasi pasangan."
+    },
+    {
+      "page_name": "Me Time Istri",
+      "page_id": "108889834240344",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=108889834240344",
+      "product": "Panduan Bikin Suami Ketagihan Tiap Malam / Rahasia Memuaskan Suami Agar Terhindar dari Pelakor",
+      "format": "ebook",
+      "price_seen": null,
+      "active_ads": 8,
+      "oldest_active_start": "2026-09-22",
+      "max_days_running": 28,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "2501436333679211",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2501436333679211",
+          "start": "2026-09-22",
+          "days": 28,
+          "link_title": "Bikin Suami Ketagihan & Makin Nempel Malam Ini!"
+        },
+        {
+          "ad_id": "1050371361150701",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1050371361150701",
+          "start": "2026-09-22",
+          "days": 28,
+          "link_title": "Bikin Suami Ketagihan & Makin Nempel Malam Ini!"
+        },
+        {
+          "ad_id": "916198431270893",
+          "ad_url": "https://www.facebook.com/ads/library/?id=916198431270893",
+          "start": "2026-09-23",
+          "days": 27,
+          "link_title": "Bikin Suami Ketagihan & Makin Nempel Malam Ini!"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Hampir WINNING (~28 hari)."
+    },
+    {
+      "page_name": "Sahabat Yasmin",
+      "page_id": "997780816744985",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=997780816744985",
+      "product": "Kelas/program persiapan pranikah ('Jangan Cuma Siapkan Acaranya, Siapkan Juga Rumah Tangganya')",
+      "format": "kelas online (closing via WhatsApp)",
+      "price_seen": null,
+      "active_ads": 14,
+      "oldest_active_start": "2026-10-15",
+      "max_days_running": 5,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "3736068249878894",
+          "ad_url": "https://www.facebook.com/ads/library/?id=3736068249878894",
+          "start": "2026-10-15",
+          "days": 5,
+          "link_title": "(tanpa judul link)"
+        },
+        {
+          "ad_id": "4303258869964917",
+          "ad_url": "https://www.facebook.com/ads/library/?id=4303258869964917",
+          "start": "2026-10-16",
+          "days": 5,
+          "link_title": "(tanpa judul link)"
+        },
+        {
+          "ad_id": "1082584394406248",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1082584394406248",
+          "start": "2026-10-16",
+          "days": 4,
+          "link_title": "Makin Dewasa, Kok Makin Takut Menikah?"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Sebagian iklan ke api.whatsapp.com."
+    },
+    {
+      "page_name": "Istri Bahagia",
+      "page_id": "1452329354619627",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=1452329354619627",
+      "product": "Magnet Istri Berkelas; Seni Menjadi Istri yang Selalu Didengar",
+      "format": "ebook",
+      "price_seen": null,
+      "active_ads": 10,
+      "oldest_active_start": "2026-10-16",
+      "max_days_running": 4,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "2358627361550020",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2358627361550020",
+          "start": "2026-10-16",
+          "days": 4,
+          "link_title": "Magnet Istri Berkelas"
+        },
+        {
+          "ad_id": "2269256780520251",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2269256780520251",
+          "start": "2026-10-19",
+          "days": 1,
+          "link_title": "Seni Menjadi Istri yang Selalu Didengar"
+        },
+        {
+          "ad_id": "2324104228388053",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2324104228388053",
+          "start": "2026-10-19",
+          "days": 1,
+          "link_title": "Seni Menjadi Istri yang Selalu Didengar"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": ""
+    },
+    {
+      "page_name": "Harmoni Cinta",
+      "page_id": "1347680321770843",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=1347680321770843",
+      "product": "EBOOK 'Basah Bersama', 'Suami Makin Dekat', 'Lengket Setiap Saat'",
+      "format": "ebook",
+      "price_seen": null,
+      "active_ads": 16,
+      "oldest_active_start": "2026-10-19",
+      "max_days_running": 1,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "1809932113543796",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1809932113543796",
+          "start": "2026-10-19",
+          "days": 1,
+          "link_title": "teriak En4k & minta terus"
+        },
+        {
+          "ad_id": "1154239127175543",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1154239127175543",
+          "start": "2026-10-19",
+          "days": 1,
+          "link_title": "Basah Bersama & Nikmat"
+        },
+        {
+          "ad_id": "3488567601322358",
+          "ad_url": "https://www.facebook.com/ads/library/?id=3488567601322358",
+          "start": "2026-10-19",
+          "days": 1,
+          "link_title": "teriak En4k & minta teru"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "16 iklan baru, angle keintiman eksplisit."
+    },
+    {
+      "page_name": "Ruang Insight",
+      "page_id": "1036278172906102",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=1036278172906102",
+      "product": "Rahasia Istri Pelipat Ganda Rezeki Suami; Jalan Pintas Meretas Rezeki Miliaran",
+      "format": "ebook",
+      "price_seen": null,
+      "active_ads": 15,
+      "oldest_active_start": "2026-10-20",
+      "max_days_running": 0,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "1121841120571407",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1121841120571407",
+          "start": "2026-10-20",
+          "days": 0,
+          "link_title": "Rahasia Istri Pelipat Ganda Rezeki Suami"
+        },
+        {
+          "ad_id": "2580481972426182",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2580481972426182",
+          "start": "2026-10-20",
+          "days": 0,
+          "link_title": "Rahasia Istri Pelipat Ganda Rezeki Suami"
+        },
+        {
+          "ad_id": "1481478017127072",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1481478017127072",
+          "start": "2026-10-20",
+          "days": 0,
+          "link_title": "Rahasia Istri Pelipat Ganda Rezeki Suami"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Baru diluncurkan, 15 iklan sekaligus (testing)."
+    },
+    {
+      "page_name": "Maya Lestari, SPsi, MPsi, CHt",
+      "page_id": "1148041048392066",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=1148041048392066",
+      "product": "Program '3 Hari Cukup Bikin Pelakor Pergi & Suami Pulang' (psikolog/hipnoterapis)",
+      "format": "kelas online/program",
+      "price_seen": null,
+      "active_ads": 6,
+      "oldest_active_start": "2026-10-12",
+      "max_days_running": 8,
+      "status": "BARU",
+      "winning_ads": [
+        {
+          "ad_id": "1402288742059259",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1402288742059259",
+          "start": "2026-10-12",
+          "days": 8,
+          "link_title": "⚡ 3 Hari Cukup Bikin Pelakor Pergi & Suami Pulang"
+        },
+        {
+          "ad_id": "978288091277813",
+          "ad_url": "https://www.facebook.com/ads/library/?id=978288091277813",
+          "start": "2026-10-12",
+          "days": 8,
+          "link_title": "⚡ 3 Hari Cukup Bikin Pelakor Pergi & Suami Pulang"
+        },
+        {
+          "ad_id": "4765969450391325",
+          "ad_url": "https://www.facebook.com/ads/library/?id=4765969450391325",
+          "start": "2026-10-12",
+          "days": 8,
+          "link_title": "⚡ 3 Hari Cukup Bikin Pelakor Pergi & Suami Pulang"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": ""
+    },
+    {
+      "page_name": "Rosyiid Gede Prabowo",
+      "page_id": "325845911358705",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=325845911358705",
+      "product": "8 Langkah Persiapan Bawah Sadar untuk Jodoh",
+      "format": "ebook/kelas",
+      "price_seen": null,
+      "active_ads": 2,
+      "oldest_active_start": "2026-10-13",
+      "max_days_running": 7,
+      "status": "BARU",
+      "winning_ads": [
+        {
+          "ad_id": "915225648192547",
+          "ad_url": "https://www.facebook.com/ads/library/?id=915225648192547",
+          "start": "2026-10-13",
+          "days": 7,
+          "link_title": "8 Langkah Persiapan Bawah Sadar untuk Jodoh"
+        },
+        {
+          "ad_id": "2556610808094807",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2556610808094807",
+          "start": "2026-10-13",
+          "days": 7,
+          "link_title": "Kamu mungkin lebih cepat bertemu jooh"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": ""
+    },
+    {
+      "page_name": "Commit Shift",
+      "page_id": "1148523738336922",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=1148523738336922",
+      "product": "Panduan untuk wanita agar pasangan berkomitmen ('Jangan Tanya \"Kapan Kita Nikah?\" Lagi')",
+      "format": "ebook/panduan",
+      "price_seen": null,
+      "active_ads": 6,
+      "oldest_active_start": "2026-10-15",
+      "max_days_running": 5,
+      "status": "BARU",
+      "winning_ads": [
+        {
+          "ad_id": "984133284723846",
+          "ad_url": "https://www.facebook.com/ads/library/?id=984133284723846",
+          "start": "2026-10-15",
+          "days": 5,
+          "link_title": "Jangan Tanya “Kapan Kita Nikah?” Lagi"
+        },
+        {
+          "ad_id": "2180853119496248",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2180853119496248",
+          "start": "2026-10-15",
+          "days": 5,
+          "link_title": "Jangan Tanya “Kapan Kita Nikah?” Lagi"
+        },
+        {
+          "ad_id": "982444267522047",
+          "ad_url": "https://www.facebook.com/ads/library/?id=982444267522047",
+          "start": "2026-10-15",
+          "days": 5,
+          "link_title": "Jangan Tanya “Kapan Kita Nikah?” Lagi"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": ""
+    },
+    {
+      "page_name": "E-volution Pedia",
+      "page_id": "447948091734847",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=447948091734847",
+      "product": "Suami Stop Selingkuh & Balik Bucin Sama Kamu",
+      "format": "ebook",
+      "price_seen": null,
+      "active_ads": 2,
+      "oldest_active_start": "2026-10-17",
+      "max_days_running": 3,
+      "status": "BARU",
+      "winning_ads": [
+        {
+          "ad_id": "2343706106450212",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2343706106450212",
+          "start": "2026-10-17",
+          "days": 3,
+          "link_title": "Suami Akhirnya Kapok & Menyesal Selingkuh"
+        },
+        {
+          "ad_id": "2143687982894519",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2143687982894519",
+          "start": "2026-10-20",
+          "days": 0,
+          "link_title": "Suami Stop Selingkuh & Balik Bucin Sama Kamu"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": ""
+    },
+    {
+      "page_name": "Poppy R. Dihardjo",
+      "page_id": "1332668723254793",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=1332668723254793",
+      "product": "Unpack, Unlearn, Unbothered (kelas/ebook healing hubungan)",
+      "format": "e-course/ebook",
+      "price_seen": "Rp99.000",
+      "active_ads": 5,
+      "oldest_active_start": "2026-10-20",
+      "max_days_running": 1,
+      "status": "BARU",
+      "winning_ads": [
+        {
+          "ad_id": "1525727155981362",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1525727155981362",
+          "start": "2026-10-20",
+          "days": 1,
+          "link_title": "Unpack, Unlearn, Unbothered by Poppy R. Dihardjo"
+        },
+        {
+          "ad_id": "1657863009247864",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1657863009247864",
+          "start": "2026-10-20",
+          "days": 0,
+          "link_title": "Kode Voucher UNPACK94"
+        },
+        {
+          "ad_id": "1770447217515828",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1770447217515828",
+          "start": "2026-10-20",
+          "days": 0,
+          "link_title": "HARGA SPESIAL Rp99.000"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": ""
+    },
+    {
+      "page_name": "Ust Abdul Kadier",
+      "page_id": "1444945782027885",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=1444945782027885",
+      "product": "Panduan kemesraan pasutri ('Rahasia Pasangan yang Selalu Mesra', 'Baterai Pernikahan Kalian Tinggal Berapa %?')",
+      "format": "ebook/kelas (dugaan)",
+      "price_seen": null,
+      "active_ads": 9,
+      "oldest_active_start": "2026-10-20",
+      "max_days_running": 0,
+      "status": "BARU",
+      "winning_ads": [
+        {
+          "ad_id": "1088593973795611",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1088593973795611",
+          "start": "2026-10-20",
+          "days": 0,
+          "link_title": "🔥 Buat Dia Tak Bisa Tidur Malam Ini 🌙"
+        },
+        {
+          "ad_id": "3030561857310247",
+          "ad_url": "https://www.facebook.com/ads/library/?id=3030561857310247",
+          "start": "2026-10-20",
+          "days": 0,
+          "link_title": "🔋 Baterai Pernikahan Kalian Tinggal Berapa %?"
+        },
+        {
+          "ad_id": "1686277506525590",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1686277506525590",
+          "start": "2026-10-20",
+          "days": 0,
+          "link_title": "🐀 Rahasia Pasangan yang Selalu Mesra 😏"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": ""
+    }
+  ],
+  "insights": {
+    "price_range": "Jarang terlihat di judul link; satu-satunya harga eksplisit Rp99.000 (Poppy R. Dihardjo). Pola umum niche: ebook Rp29rb-99rb, kelas Rp99rb-ratusan ribu.",
+    "angles": [
+      "Takut kehilangan pasangan / pelakor / suami selingkuh (\"3 Hari Bikin Pelakor Pergi\", \"Buat Dia Takut Kehilanganmu\")",
+      "Keintiman & bikin suami 'ketagihan/lengket' (Me Time Istri, Harmoni Cinta, Tips Kesehatan Pasutri, game pasangan)",
+      "Persiapan pranikah: 'jangan cuma siapkan acaranya, siapkan rumah tangganya', checklist & pertanyaan ta'aruf",
+      "Spiritual/amalan: doa mempercepat jodoh, amalan saat diselingkuhi, istri pelipat ganda rezeki suami",
+      "Komunikasi pasangan dengan judul empatik pendek (Ruang Hidup: puluhan varian hook)",
+      "Otoritas tokoh: ustadz, psikolog (MPsi, CHt), dr. Aisah Dahlan"
+    ],
+    "formats": [
+      "ebook (dominan)",
+      "kelas/program online (pranikah, healing)",
+      "checklist/worksheet pranikah",
+      "game/kartu pasangan",
+      "layanan jodoh/ta'aruf"
+    ],
+    "summary": "Niche didominasi ebook murah dengan dua kutub: pranikah/jodoh (audiens lajang muslim) dan keharmonisan/keintiman pasutri (audiens istri). Pengiklan winning terlama memakai angle evergreen (game pasangan, jodoh, pranikah, amalan selingkuh) dan terus menambah batch kreatif baru; pemain paling agresif (Ruang Hidup, 84 iklan) melakukan testing hook massal."
+  }
+}

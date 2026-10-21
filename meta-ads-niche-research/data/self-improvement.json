@@ -1,0 +1,765 @@
+{
+  "niche": "Self Improvement & Psikologi",
+  "slug": "self-improvement",
+  "keywords": [
+    {
+      "term": "self healing",
+      "active_ads_id": 1363
+    },
+    {
+      "term": "kelas public speaking",
+      "active_ads_id": 629
+    },
+    {
+      "term": "ebook percaya diri",
+      "active_ads_id": 538
+    },
+    {
+      "term": "journaling",
+      "active_ads_id": 499
+    },
+    {
+      "term": "afirmasi",
+      "active_ads_id": 426
+    },
+    {
+      "term": "luka batin",
+      "active_ads_id": 294
+    },
+    {
+      "term": "audio terapi",
+      "active_ads_id": 208
+    },
+    {
+      "term": "berhenti overthinking",
+      "active_ads_id": 179
+    },
+    {
+      "term": "manajemen emosi",
+      "active_ads_id": 171
+    },
+    {
+      "term": "hipnoterapi audio",
+      "active_ads_id": 95
+    }
+  ],
+  "advertisers": [
+    {
+      "page_name": "Kelascinta.com",
+      "page_id": "397790980349213",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=397790980349213",
+      "product": "Ebook psikologi relasi: menghadapi pasangan avoidant, pasangan NPD, stop overthinking ke pasangan, bikin dia komitmen",
+      "format": "ebook",
+      "price_seen": null,
+      "active_ads": 39,
+      "oldest_active_start": "2026-07-28",
+      "max_days_running": 84,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "2744724365899897",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2744724365899897",
+          "start": "2026-07-28",
+          "days": 84,
+          "link_title": "Kelascinta.com"
+        },
+        {
+          "ad_id": "2290014858477385",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2290014858477385",
+          "start": "2026-08-03",
+          "days": 78,
+          "link_title": "Jangan Sampai Batin Tersiksa, Ini Rahasia Hadapi Pasangan NPD!"
+        },
+        {
+          "ad_id": "1550804639779076",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1550804639779076",
+          "start": "2026-08-03",
+          "days": 78,
+          "link_title": "Punya Pasangan NPD? Gak Harus Selalu Berakhir Pisah Kok!"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "domain_hint",
+      "notes": "Pemain paling konsisten: iklan tertua ~3 bulan, rutin rilis ebook topik baru (NPD -> overthinking -> avoidant -> suami menghindar). Domain kelascinta.com tidak resolve saat dicek. Judul link iklan menyebut 'Kelascinta.com' (domain hint); tidak bisa diverifikasi karena WebFetch gagal resolve domain dari environment ini."
+    },
+    {
+      "page_name": "Mental Hebat",
+      "page_id": "311564855382775",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=311564855382775",
+      "product": "Kelas/ebook 'Tarot Bukan Hafalan' + program berhenti merokok tanpa vape + journaling syukur/pola diri",
+      "format": "e-course / ebook",
+      "price_seen": null,
+      "active_ads": 22,
+      "oldest_active_start": "2026-08-09",
+      "max_days_running": 72,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "1520222292708699",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1520222292708699",
+          "start": "2026-08-09",
+          "days": 72,
+          "link_title": "Tarot Bukan Hafalan!"
+        },
+        {
+          "ad_id": "1044585001284449",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1044585001284449",
+          "start": "2026-08-09",
+          "days": 72,
+          "link_title": "Tarot Bukan Hafalan!"
+        },
+        {
+          "ad_id": "1088385386901433",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1088385386901433",
+          "start": "2026-09-05",
+          "days": 45,
+          "link_title": "Tarot Bukan Hafalan - Dihitung"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Winning-nya produk tarot (spiritual/self-reflection); produk berhenti merokok & journaling masih baru (<10 hari)."
+    },
+    {
+      "page_name": "Abuzi Hipnoterapi Bandung",
+      "page_id": "314650028665656",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=314650028665656",
+      "product": "Program audio hipnoterapi: atasi grogi public speaking, lepas beban emosi/healing tanpa harus cerita (didengar dari rumah)",
+      "format": "audio program / hipnoterapi online",
+      "price_seen": null,
+      "active_ads": 32,
+      "oldest_active_start": "2026-08-14",
+      "max_days_running": 67,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "1015750394777840",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1015750394777840",
+          "start": "2026-08-14",
+          "days": 67,
+          "link_title": "Healing Tanpa Harus Cerita"
+        },
+        {
+          "ad_id": "1041880518649742",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1041880518649742",
+          "start": "2026-08-27",
+          "days": 55,
+          "link_title": "Sudah Belajar Public Speaking, Tapi Masih Grogi?"
+        },
+        {
+          "ad_id": "3429352357235905",
+          "ad_url": "https://www.facebook.com/ads/library/?id=3429352357235905",
+          "start": "2026-08-27",
+          "days": 55,
+          "link_title": "Bagaimana Kalau Kali Ini Anda Lebih Tenang?"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Juga praktisi hipnoterapi di Bandung; judul iklan 'Dengarkan Audionya, Ikuti Bimbingannya' dan 'dari Rumah' menunjukkan produk audio."
+    },
+    {
+      "page_name": "Hypnoseduction",
+      "page_id": "1265393286940580",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=1265393286940580",
+      "product": "Kelas/materi hipnosis-komunikasi (judul link kosong, produk persis tidak terbaca)",
+      "format": "e-course (dugaan)",
+      "price_seen": null,
+      "active_ads": 13,
+      "oldest_active_start": "2026-09-12",
+      "max_days_running": 39,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "3634747593351830",
+          "ad_url": "https://www.facebook.com/ads/library/?id=3634747593351830",
+          "start": "2026-09-12",
+          "days": 39,
+          "link_title": "(tanpa judul link)"
+        },
+        {
+          "ad_id": "1948991295771539",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1948991295771539",
+          "start": "2026-09-16",
+          "days": 34,
+          "link_title": "(tanpa judul link)"
+        },
+        {
+          "ad_id": "1398386235191354",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1398386235191354",
+          "start": "2026-09-26",
+          "days": 24,
+          "link_title": "(tanpa judul link)"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Muncul di pencarian 'berhenti overthinking', 'luka batin', 'afirmasi'. Cek kreatif via link iklan."
+    },
+    {
+      "page_name": "Ruangsolusiorg",
+      "page_id": "1048589691665122",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=1048589691665122",
+      "product": "'Ucapan Anda Sedang Mengontrol Nasib Anda' - ebook/kelas kekuatan ucapan & afirmasi",
+      "format": "ebook / kelas online",
+      "price_seen": null,
+      "active_ads": 23,
+      "oldest_active_start": "2026-09-26",
+      "max_days_running": 24,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "1452750426908564",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1452750426908564",
+          "start": "2026-09-26",
+          "days": 24,
+          "link_title": "Ucapan Anda Sedang Mengontrol Nasib Anda"
+        },
+        {
+          "ad_id": "1071750738986630",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1071750738986630",
+          "start": "2026-09-26",
+          "days": 24,
+          "link_title": "Ucapan Anda Sedang Mengontrol Nasib Anda"
+        },
+        {
+          "ad_id": "1403569368530096",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1403569368530096",
+          "start": "2026-09-26",
+          "days": 24,
+          "link_title": "Ucapan Anda Sedang Mengontrol Nasib Anda"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": ""
+    },
+    {
+      "page_name": "Anisa Apriani",
+      "page_id": "104657395894603",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=104657395894603",
+      "product": "Audioterapi/latihan 10 menit sebelum tidur untuk pikiran ramai (overthinking)",
+      "format": "audio program",
+      "price_seen": null,
+      "active_ads": 26,
+      "oldest_active_start": "2026-09-30",
+      "max_days_running": 20,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "1414712226682067",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1414712226682067",
+          "start": "2026-09-30",
+          "days": 20,
+          "link_title": "Melatih, Bukan Cuma Belajar"
+        },
+        {
+          "ad_id": "1391502353117779",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1391502353117779",
+          "start": "2026-09-30",
+          "days": 20,
+          "link_title": "10 Menit Latihan Sebelum Tidur"
+        },
+        {
+          "ad_id": "4692986851026250",
+          "ad_url": "https://www.facebook.com/ads/library/?id=4692986851026250",
+          "start": "2026-10-01",
+          "days": 19,
+          "link_title": "Melatih, Bukan Cuma Belajar"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": ""
+    },
+    {
+      "page_name": "Manifestasi Jalur Langit",
+      "page_id": "1089695314218208",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=1089695314218208",
+      "product": "Jalur Langit Manifestation Journal + Audio Afirmasi",
+      "format": "journal digital + audio",
+      "price_seen": null,
+      "active_ads": 2,
+      "oldest_active_start": "2026-10-01",
+      "max_days_running": 19,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "1350171486965853",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1350171486965853",
+          "start": "2026-10-01",
+          "days": 19,
+          "link_title": "Jalur Langit Manifestation Journal + Audio Afirmasi - Bangun Kehidupan yang Kamu Doakan"
+        },
+        {
+          "ad_id": "2137010227694512",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2137010227694512",
+          "start": "2026-10-14",
+          "days": 6,
+          "link_title": "Jalur Langit Manifestation Journal + Audio Afirmasi"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": ""
+    },
+    {
+      "page_name": "Mekanika Kuantum",
+      "page_id": "663734000161307",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=663734000161307",
+      "product": "Katalog ebook/kelas mindset-spiritual: Law of Attraction, 7 Hukum Hermetik, Divine Matrix, Manipulasi Psikologi, Kelimpahan Rezeki",
+      "format": "ebook / e-course (multi-produk)",
+      "price_seen": null,
+      "active_ads": 197,
+      "oldest_active_start": "2026-10-08",
+      "max_days_running": 13,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "1090061830321206",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1090061830321206",
+          "start": "2026-10-08",
+          "days": 13,
+          "link_title": "THE POWER OF CULTIVATION"
+        },
+        {
+          "ad_id": "2114794316096787",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2114794316096787",
+          "start": "2026-10-08",
+          "days": 13,
+          "link_title": "7 HUKUM HERMETIK"
+        },
+        {
+          "ad_id": "1032480066468682",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1032480066468682",
+          "start": "2026-10-08",
+          "days": 13,
+          "link_title": "The Power of Divine Matrix - Matrix Illahi"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "197 iklan aktif (hanya 50 terbaru terlihat). Timestamp pembuatan iklan identik dengan Kebangkitan Nusantara -> kemungkinan satu operator."
+    },
+    {
+      "page_name": "Kebangkitan Nusantara",
+      "page_id": "624114724110800",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=624114724110800",
+      "product": "Katalog ebook/kelas spiritual Nusantara (kejawen, mantra, kesadaran, 'Wealth Beyond Limits')",
+      "format": "ebook / e-course (multi-produk)",
+      "price_seen": null,
+      "active_ads": 256,
+      "oldest_active_start": "2026-10-11",
+      "max_days_running": 9,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "1416214750623158",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1416214750623158",
+          "start": "2026-10-11",
+          "days": 9,
+          "link_title": "Pemula Hingga Mendalam"
+        },
+        {
+          "ad_id": "1127878529596742",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1127878529596742",
+          "start": "2026-10-11",
+          "days": 9,
+          "link_title": "Kunci Rahasia Keberuntungan"
+        },
+        {
+          "ad_id": "2547323599013831",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2547323599013831",
+          "start": "2026-10-11",
+          "days": 9,
+          "link_title": "NAFAS SPIRITUAL"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Volume tertinggi (256 iklan, 50 terlihat). Lebih ke spiritual daripada psikologi; satu jaringan dengan Mekanika Kuantum."
+    },
+    {
+      "page_name": "Muslim Produktive Lab",
+      "page_id": "1064966376692826",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=1064966376692826",
+      "product": "Produk produktivitas muslim (judul link kosong, produk persis tidak terbaca)",
+      "format": "tidak terbaca",
+      "price_seen": null,
+      "active_ads": 41,
+      "oldest_active_start": "2026-10-16",
+      "max_days_running": 5,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "1876381346708175",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1876381346708175",
+          "start": "2026-10-16",
+          "days": 5,
+          "link_title": "(tanpa judul link)"
+        },
+        {
+          "ad_id": "1143135301489071",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1143135301489071",
+          "start": "2026-10-16",
+          "days": 5,
+          "link_title": "(tanpa judul link)"
+        },
+        {
+          "ad_id": "976654155486414",
+          "ad_url": "https://www.facebook.com/ads/library/?id=976654155486414",
+          "start": "2026-10-16",
+          "days": 5,
+          "link_title": "(tanpa judul link)"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": ""
+    },
+    {
+      "page_name": "Rainy Days & You",
+      "page_id": "539176562608109",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=539176562608109",
+      "product": "Buku journaling: Emotional Overload Detox Journal (EODJ) & Human Design Discovery Journal (HDDJ), versi digital & cetak, bundling Innerwave",
+      "format": "journal digital + cetak",
+      "price_seen": null,
+      "active_ads": 53,
+      "oldest_active_start": "2026-10-17",
+      "max_days_running": 3,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "1437394541824124",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1437394541824124",
+          "start": "2026-10-17",
+          "days": 3,
+          "link_title": "Bingung pilih EODJ atau HDDJ?"
+        },
+        {
+          "ad_id": "2247789636002551",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2247789636002551",
+          "start": "2026-10-17",
+          "days": 3,
+          "link_title": "Bundling Buku HDDJ + EODJ"
+        },
+        {
+          "ad_id": "1429186739280247",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1429186739280247",
+          "start": "2026-10-17",
+          "days": 3,
+          "link_title": "Rainy Days & You | Udah terjual 1000+ buku | Atasin burnout dan overthinking"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "53 iklan aktif (50 terlihat, 3 sisanya mungkin lebih lama). Klaim 'terjual 1000+ buku'. Angle: selesaikan overthinking 21 hari, 3 metode healing dalam 1 journal."
+    },
+    {
+      "page_name": "Trigroup",
+      "page_id": "1292001753992046",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=1292001753992046",
+      "product": "'Terapi Otak 8 in 1: Ebook + Audio + Aplikasi Terapi' (daya ingat/fokus) + teknik hipnoterapi 30 menit anti gugup",
+      "format": "bundle ebook + audio + aplikasi",
+      "price_seen": null,
+      "active_ads": 31,
+      "oldest_active_start": "2026-10-19",
+      "max_days_running": 1,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "883884341386876",
+          "ad_url": "https://www.facebook.com/ads/library/?id=883884341386876",
+          "start": "2026-10-19",
+          "days": 1,
+          "link_title": "Makin tua makin pelupa?"
+        },
+        {
+          "ad_id": "1502535591704615",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1502535591704615",
+          "start": "2026-10-19",
+          "days": 1,
+          "link_title": "Makin tua makin pelupa?"
+        },
+        {
+          "ad_id": "1425385152360107",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1425385152360107",
+          "start": "2026-10-20",
+          "days": 0,
+          "link_title": "Hilangkan gugup, otak ngeblank & jadi lebih pede dengan teknik hipnoterapi 30 menit ini"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Toko multi-niche; iklan tertua halaman (14 hari) untuk produk lain ('tutorial humanize jurnal'), tidak dihitung."
+    },
+    {
+      "page_name": "Tumbuhbaik",
+      "page_id": "677397122118338",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=677397122118338",
+      "product": "Audio Pengusir Overthinking (+ produk diet)",
+      "format": "audio",
+      "price_seen": null,
+      "active_ads": 7,
+      "oldest_active_start": "2026-10-13",
+      "max_days_running": 7,
+      "status": "BARU",
+      "winning_ads": [
+        {
+          "ad_id": "1442664984456842",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1442664984456842",
+          "start": "2026-10-13",
+          "days": 7,
+          "link_title": "Bikin Dia Gantian Overthinking & Penasaran"
+        },
+        {
+          "ad_id": "1525852962682477",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1525852962682477",
+          "start": "2026-10-14",
+          "days": 6,
+          "link_title": "Audio Pengusir Overthinking"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": ""
+    },
+    {
+      "page_name": "sedona method indonesia official",
+      "page_id": "610776238784754",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=610776238784754",
+      "product": "Program Anxiety metode Sedona (belajar, praktik, dipandu coach)",
+      "format": "e-course + coaching",
+      "price_seen": null,
+      "active_ads": 3,
+      "oldest_active_start": "2026-10-16",
+      "max_days_running": 5,
+      "status": "BARU",
+      "winning_ads": [
+        {
+          "ad_id": "2570180816817408",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2570180816817408",
+          "start": "2026-10-16",
+          "days": 5,
+          "link_title": "Pelajari Sedona Method dalam program Anxiety"
+        },
+        {
+          "ad_id": "1374298791450351",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1374298791450351",
+          "start": "2026-10-16",
+          "days": 4,
+          "link_title": "BELAJAR, PRAKTIK, DAN DIPANDU COACH"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": ""
+    },
+    {
+      "page_name": "Odeesisters",
+      "page_id": "321630754366848",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=321630754366848",
+      "product": "Materi/kelas bangkit dari trauma perselingkuhan (dengan psikolog)",
+      "format": "kelas/ebook (dugaan)",
+      "price_seen": null,
+      "active_ads": 7,
+      "oldest_active_start": "2026-10-19",
+      "max_days_running": 1,
+      "status": "BARU",
+      "winning_ads": [
+        {
+          "ad_id": "1755955545514431",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1755955545514431",
+          "start": "2026-10-19",
+          "days": 1,
+          "link_title": "Bangkit dari Trauma Perselingkuhan"
+        },
+        {
+          "ad_id": "2374212156649568",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2374212156649568",
+          "start": "2026-10-19",
+          "days": 1,
+          "link_title": "Atasi Trauma Perselingkuhan"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": ""
+    },
+    {
+      "page_name": "Bahagia Versiku",
+      "page_id": "1345951848607719",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=1345951848607719",
+      "product": "Panduan 'Bahagia Versiku' (self-help)",
+      "format": "ebook",
+      "price_seen": null,
+      "active_ads": 6,
+      "oldest_active_start": "2026-10-19",
+      "max_days_running": 1,
+      "status": "BARU",
+      "winning_ads": [
+        {
+          "ad_id": "2357496391665366",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2357496391665366",
+          "start": "2026-10-19",
+          "days": 1,
+          "link_title": "Klik untuk melihat panduan lengkapnya."
+        },
+        {
+          "ad_id": "1100708979266431",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1100708979266431",
+          "start": "2026-10-20",
+          "days": 0,
+          "link_title": "Klik untuk melihat panduan lengkapnya."
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": ""
+    },
+    {
+      "page_name": "Tumbuh Dari Dalam",
+      "page_id": "1364915003368463",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=1364915003368463",
+      "product": "AR369 - program perubahan diri metode C.R.A.F.T.",
+      "format": "e-course",
+      "price_seen": "Rp97.000",
+      "active_ads": 4,
+      "oldest_active_start": "2026-10-20",
+      "max_days_running": 1,
+      "status": "BARU",
+      "winning_ads": [
+        {
+          "ad_id": "2030437760990963",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2030437760990963",
+          "start": "2026-10-20",
+          "days": 1,
+          "link_title": "udah Berusaha, Hati Masih Penuh?"
+        },
+        {
+          "ad_id": "1850481005949464",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1850481005949464",
+          "start": "2026-10-20",
+          "days": 0,
+          "link_title": "Tumbuh Dari Dalam | ... | Akses AR369 - Rp97.000"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": ""
+    },
+    {
+      "page_name": "Rich Mind Programming",
+      "page_id": "1099298266596393",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=1099298266596393",
+      "product": "Program afirmasi/reprogram pikiran uang",
+      "format": "e-course/audio",
+      "price_seen": null,
+      "active_ads": 2,
+      "oldest_active_start": "2026-10-20",
+      "max_days_running": 1,
+      "status": "BARU",
+      "winning_ads": [
+        {
+          "ad_id": "1598838441291201",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1598838441291201",
+          "start": "2026-10-20",
+          "days": 1,
+          "link_title": "Kenapa Afirmasi \"Aku Magnet Uang\" Selalu Gagal?"
+        },
+        {
+          "ad_id": "1023207450780959",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1023207450780959",
+          "start": "2026-10-20",
+          "days": 0,
+          "link_title": "Afirmasi Sering Gagal? Ini Penyebab Utama & Solusinya!"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": ""
+    },
+    {
+      "page_name": "Ummi Maria",
+      "page_id": "1379680841888400",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=1379680841888400",
+      "product": "Program 'Mulai Berdamai dengan Masa Lalu' (healing luka batin)",
+      "format": "kelas/terapi online (dugaan)",
+      "price_seen": null,
+      "active_ads": 7,
+      "oldest_active_start": "2026-10-20",
+      "max_days_running": 0,
+      "status": "BARU",
+      "winning_ads": [
+        {
+          "ad_id": "3030516537291770",
+          "ad_url": "https://www.facebook.com/ads/library/?id=3030516537291770",
+          "start": "2026-10-20",
+          "days": 0,
+          "link_title": "Mulai Berdamai dengan Masa Lalu Bersama Ummi Maria"
+        },
+        {
+          "ad_id": "2401228500680623",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2401228500680623",
+          "start": "2026-10-20",
+          "days": 0,
+          "link_title": "Mulai Berdamai dengan Masa Lalu Bersama Ummi Maria"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": ""
+    },
+    {
+      "page_name": "RJ Learning Center",
+      "page_id": "101178665200906",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=101178665200906",
+      "product": "Ebook Public Speaking (diskon 75%) + seminar gratis, Kelas Transformasi Diri",
+      "format": "ebook + webinar",
+      "price_seen": "diskon 75%",
+      "active_ads": 2,
+      "oldest_active_start": "2026-10-20",
+      "max_days_running": 0,
+      "status": "BARU",
+      "winning_ads": [
+        {
+          "ad_id": "1445946277418855",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1445946277418855",
+          "start": "2026-10-20",
+          "days": 0,
+          "link_title": "Daftar Sekarang Kelas Transformasi Diri - Aktifkan Kekuatan Pikiran & Potensi Diri"
+        },
+        {
+          "ad_id": "1471892048165230",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1471892048165230",
+          "start": "2026-10-20",
+          "days": 0,
+          "link_title": "DISKON 75% Ebook Public Speaking + Semininar Gratis"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": ""
+    }
+  ],
+  "insights": {
+    "price_range": "Harga jarang tampil di judul link; yang terlihat Rp97.000 (AR369) dan promo 'diskon 75%'. Pola umum niche ini Rp49rb-Rp149rb untuk ebook/audio.",
+    "angles": [
+      "Overthinking & pikiran ramai sebelum tidur (audio 10 menit)",
+      "Relasi: pasangan avoidant/NPD, trauma perselingkuhan, overthinking ke pasangan",
+      "Healing tanpa harus cerita / luka batin / berdamai dengan masa lalu",
+      "Afirmasi & law of attraction ('kenapa afirmasi gagal', magnet uang, manifestasi)",
+      "Grogi public speaking diatasi lewat hipnoterapi",
+      "Journaling 21 hari, human design, 'terjual 1000+ buku'"
+    ],
+    "formats": [
+      "audio terapi/hipnoterapi",
+      "ebook relasi & mindset",
+      "journal digital (kadang + cetak)",
+      "katalog ebook spiritual multi-judul",
+      "kelas online + coaching"
+    ],
+    "summary": "Keyword bahasa Inggris (overthinking, journaling, inner child) banyak tercampur iklan global/drama app, jadi volume nyata pasar ID lebih kecil. Pengiklan yang bertahan >30 hari didominasi ebook relasi (Kelascinta), audio hipnoterapi (Abuzi) dan kelas tarot (Mental Hebat). Volume iklan terbesar datang dari jaringan katalog ebook spiritual (Mekanika Kuantum + Kebangkitan Nusantara, >450 iklan aktif) yang terus memutar kreatif mingguan.",
+    "lp_note": "URL LP tidak tersedia di data Ad Library API. WebSearch (US-only) tidak menemukan LP penjual kecil ini dan WebFetch gagal resolve domain .id/.com dari environment (termasuk lynk.id), sehingga hampir semua lp_url = null. Buka link iklan untuk melihat tujuan LP."
+  }
+}

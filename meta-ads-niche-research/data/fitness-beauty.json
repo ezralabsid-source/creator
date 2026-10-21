@@ -1,0 +1,771 @@
+{
+  "niche": "Fitness, Kecantikan & Self-care",
+  "slug": "fitness-beauty",
+  "keywords": [
+    {
+      "term": "ebook diet",
+      "active_ads_id": 780
+    },
+    {
+      "term": "program langsing",
+      "active_ads_id": 344
+    },
+    {
+      "term": "workout di rumah",
+      "active_ads_id": 299
+    },
+    {
+      "term": "senam di rumah",
+      "active_ads_id": 164
+    },
+    {
+      "term": "panduan turun berat badan",
+      "active_ads_id": 108
+    },
+    {
+      "term": "kelas makeup online",
+      "active_ads_id": 85
+    },
+    {
+      "term": "ebook skincare",
+      "active_ads_id": 85
+    },
+    {
+      "term": "kelas yoga online",
+      "active_ads_id": 70
+    },
+    {
+      "term": "ebook glowing",
+      "active_ads_id": 20
+    },
+    {
+      "term": "panduan perawatan rambut",
+      "active_ads_id": 9
+    }
+  ],
+  "advertisers": [
+    {
+      "page_name": "Fitdadid",
+      "page_id": "873769045813060",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=873769045813060",
+      "product": "Program fitness/latihan untuk ayah (fit dad), dijual lewat halaman Lynk",
+      "format": "program digital (Lynk)",
+      "price_seen": null,
+      "active_ads": 1,
+      "oldest_active_start": "2025-12-07",
+      "max_days_running": 317,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "1390732828721038",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1390732828721038",
+          "start": "2025-12-07",
+          "days": 317,
+          "link_title": "Fitdadid | Website Builder (halaman Lynk)"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "domain_hint",
+      "notes": "Hanya 1 iklan aktif tapi sudah jalan ~10 bulan (evergreen). Judul link menunjukkan landing di Lynk (lynk.id), URL persis tidak terbaca."
+    },
+    {
+      "page_name": "Stylence Academy",
+      "page_id": "814568115074622",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=814568115074622",
+      "product": "Kelas online personal styling: kenali bentuk tubuh, personal color/palet warna, OOTD, 'Glow Inside & Out'",
+      "format": "e-course",
+      "price_seen": null,
+      "active_ads": 1,
+      "oldest_active_start": "2026-02-03",
+      "max_days_running": 259,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "1177278121280789",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1177278121280789",
+          "start": "2026-02-03",
+          "days": 259,
+          "link_title": "Stylence Academy | Mulai Transformasi Gaya | Kenali Bentuk Tubuhmu | Warna = Aura Kamu | ... | Glow Inside & Out"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "1 iklan carousel evergreen ~8 bulan. Niche styling + beauty."
+    },
+    {
+      "page_name": "Defitmom By Dewi Niki Annisa",
+      "page_id": "846251878560628",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=846251878560628",
+      "product": "Program/panduan 'Diet Siklus Wanita' (strategi diet realistis untuk perempuan, resep diet wanita, panduan diet ilmiah)",
+      "format": "e-course / program diet online",
+      "price_seen": null,
+      "active_ads": 20,
+      "oldest_active_start": "2026-02-09",
+      "max_days_running": 253,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "2284332908660437",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2284332908660437",
+          "start": "2026-02-09",
+          "days": 253,
+          "link_title": "Diet Kok Capek Tapi Nggak Turun?"
+        },
+        {
+          "ad_id": "916198254685524",
+          "ad_url": "https://www.facebook.com/ads/library/?id=916198254685524",
+          "start": "2026-02-25",
+          "days": 238,
+          "link_title": "Wanita Nggak Bisa Diet Sembarangan"
+        },
+        {
+          "ad_id": "1500593574796647",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1500593574796647",
+          "start": "2026-04-28",
+          "days": 175,
+          "link_title": "80% wanita gagal diet"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Pengiklan paling konsisten di niche diet: iklan tertua jalan ~8 bulan, terus menambah kreatif baru tiap bulan. Angle: diet khusus tubuh perempuan/siklus haid, anti diet ekstrem, testimoni 'Turun 17 Kg'."
+    },
+    {
+      "page_name": "Namata Lavinaya (NLV Yoga)",
+      "page_id": "104111351731961",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=104111351731961",
+      "product": "Online Yoga Workshop & 'Yoga From Home' (plus studio yoga di Bandung)",
+      "format": "webinar/workshop online + kelas offline",
+      "price_seen": null,
+      "active_ads": 15,
+      "oldest_active_start": "2026-07-01",
+      "max_days_running": 111,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "1348946757204460",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1348946757204460",
+          "start": "2026-07-01",
+          "days": 111,
+          "link_title": "Online Yoga Workshop Bersama NLV"
+        },
+        {
+          "ad_id": "1727468898447655",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1727468898447655",
+          "start": "2026-07-17",
+          "days": 96,
+          "link_title": "Yoga Workshop Online"
+        },
+        {
+          "ad_id": "1917822628914035",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1917822628914035",
+          "start": "2026-07-22",
+          "days": 90,
+          "link_title": "Yoga From Home"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Campuran: studio yoga Bandung + workshop online. Iklan tertua halaman (katalog {{product.name}}) sejak Jan 2026; yang dicantumkan di sini hanya iklan produk online."
+    },
+    {
+      "page_name": "Kelas Bertumbuh",
+      "page_id": "102088539444137",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=102088539444137",
+      "product": "Kelas/webinar online 'Kupas Tuntas' makeup (smokey look, wedding makeup barbie look, self makeup) & hair extension, terjadwal per tanggal",
+      "format": "webinar berbayar / kelas online",
+      "price_seen": null,
+      "active_ads": 26,
+      "oldest_active_start": "2026-07-06",
+      "max_days_running": 106,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "4417000161950472",
+          "ad_url": "https://www.facebook.com/ads/library/?id=4417000161950472",
+          "start": "2026-07-06",
+          "days": 106,
+          "link_title": "PROMO KHUSUS"
+        },
+        {
+          "ad_id": "1585322559783446",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1585322559783446",
+          "start": "2026-07-06",
+          "days": 106,
+          "link_title": "PROMO KHUSUS"
+        },
+        {
+          "ad_id": "1316245754001904",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1316245754001904",
+          "start": "2026-07-06",
+          "days": 106,
+          "link_title": "PROMO KHUSUS"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Model webinar bergilir dengan tema & tanggal berganti; iklan 'PROMO KHUSUS' jalan >3 bulan."
+    },
+    {
+      "page_name": "KelasMama.co",
+      "page_id": "1089122594285945",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=1089122594285945",
+      "product": "Kelas online untuk ibu (judul link kosong; muncul di pencarian 'kelas yoga online')",
+      "format": "kelas online",
+      "price_seen": null,
+      "active_ads": 13,
+      "oldest_active_start": "2026-07-20",
+      "max_days_running": 92,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "1423633072923194",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1423633072923194",
+          "start": "2026-07-20",
+          "days": 92,
+          "link_title": "(tanpa judul link)"
+        },
+        {
+          "ad_id": "2243365693096319",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2243365693096319",
+          "start": "2026-07-20",
+          "days": 92,
+          "link_title": "(tanpa judul link)"
+        },
+        {
+          "ad_id": "1049188287481768",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1049188287481768",
+          "start": "2026-07-20",
+          "days": 92,
+          "link_title": "KelasMama.co | KelasMama"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Produk persis tidak terbaca dari data API (judul link kosong). Domain kelasmama.co tidak resolve saat dicek. Cek manual via link iklan."
+    },
+    {
+      "page_name": "Rumah Bunda kreatif",
+      "page_id": "435170669951835",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=435170669951835",
+      "product": "'Perut Rata 15' - panduan/program latihan perut rata (15 menit) untuk ibu",
+      "format": "ebook / program video",
+      "price_seen": null,
+      "active_ads": 16,
+      "oldest_active_start": "2026-08-30",
+      "max_days_running": 52,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "1783478236125295",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1783478236125295",
+          "start": "2026-08-30",
+          "days": 52,
+          "link_title": "\"Pelajari Lebih Lanjut\" dan ambil Perut Rata 15."
+        },
+        {
+          "ad_id": "1877561956960082",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1877561956960082",
+          "start": "2026-08-30",
+          "days": 52,
+          "link_title": "\"Pelajari Lebih Lanjut\" dan ambil Perut Rata 15."
+        },
+        {
+          "ad_id": "1689200655519527",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1689200655519527",
+          "start": "2026-08-30",
+          "days": 52,
+          "link_title": "\"Pelajari Lebih Lanjut\" dan ambil Perut Rata 15."
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Satu produk, banyak kreatif, terus di-refresh tiap minggu; iklan tertua ~52 hari."
+    },
+    {
+      "page_name": "Beauty Skill Class",
+      "page_id": "1238376659358512",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=1238376659358512",
+      "product": "Kelas MUA/makeup online dari nol, akses seumur hidup",
+      "format": "e-course",
+      "price_seen": "Rp79.000",
+      "active_ads": 27,
+      "oldest_active_start": "2026-09-02",
+      "max_days_running": 48,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "1730923308166500",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1730923308166500",
+          "start": "2026-09-02",
+          "days": 48,
+          "link_title": "Belajar Makeup dari Nol - Cuma Rp79.000"
+        },
+        {
+          "ad_id": "1621384506189167",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1621384506189167",
+          "start": "2026-09-12",
+          "days": 38,
+          "link_title": "Akses Kelas MUA Seumur Hidup"
+        },
+        {
+          "ad_id": "1720212045903324",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1720212045903324",
+          "start": "2026-09-12",
+          "days": 38,
+          "link_title": "Belajar MUA Mulai Rp79.000"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Angle harga murah vs kursus MUA jutaan + 'skill makeup jadi cuan/terima klien'. Produk sama dengan Kelas Mastery MUA (kemungkinan satu pemilik)."
+    },
+    {
+      "page_name": "LZ Service",
+      "page_id": "122093325164020713",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=122093325164020713",
+      "product": "Kelas makeup complexion: analisa kulit, mixing foundation, pilih bedak",
+      "format": "kelas online",
+      "price_seen": null,
+      "active_ads": 2,
+      "oldest_active_start": "2026-09-25",
+      "max_days_running": 25,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "1453707199907864",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1453707199907864",
+          "start": "2026-09-25",
+          "days": 25,
+          "link_title": "Waktunya bukan belajar ilmu racun produk makeup!! Tapi ngerti tuntas analisa kulit..."
+        },
+        {
+          "ad_id": "28700420412941618",
+          "ad_url": "https://www.facebook.com/ads/library/?id=28700420412941618",
+          "start": "2026-10-20",
+          "days": 0,
+          "link_title": "(tanpa judul link)"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": ""
+    },
+    {
+      "page_name": "Super Ebook",
+      "page_id": "1314848328373530",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=1314848328373530",
+      "product": "Ebook 'Latihan Kursi 10 Menit untuk Kaki Lebih Kuat' (olahraga lansia) - toko ebook multi-niche (juga berkebun, hafalan Qur'an)",
+      "format": "ebook",
+      "price_seen": null,
+      "active_ads": 13,
+      "oldest_active_start": "2026-10-01",
+      "max_days_running": 20,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "1659803668994457",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1659803668994457",
+          "start": "2026-10-01",
+          "days": 20,
+          "link_title": "Latihan Kursi 10 Menit untuk Kaki Lebih Kuat"
+        },
+        {
+          "ad_id": "1089014727352488",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1089014727352488",
+          "start": "2026-10-01",
+          "days": 20,
+          "link_title": "Latihan Kursi 10 Menit untuk Kaki Lebih Kuat"
+        },
+        {
+          "ad_id": "853837741121438",
+          "ad_url": "https://www.facebook.com/ads/library/?id=853837741121438",
+          "start": "2026-10-15",
+          "days": 5,
+          "link_title": "Latihan Kursi 10 Menit untuk Kaki Lebih Kuat"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": ""
+    },
+    {
+      "page_name": "Kelas Yoga Online (kelasyoga_id)",
+      "page_id": "110465578432821",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=110465578432821",
+      "product": "'Kelasyoga - Panduan Yoga Terstruktur di Rumah' (program yoga online) + kelas yoga/mat pilates offline Surabaya",
+      "format": "program video online + kelas offline",
+      "price_seen": null,
+      "active_ads": 41,
+      "oldest_active_start": "2026-10-01",
+      "max_days_running": 19,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "2229227907974259",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2229227907974259",
+          "start": "2026-10-01",
+          "days": 19,
+          "link_title": "Kelasyoga - Panduan Yoga Terstruktur di Rumah"
+        },
+        {
+          "ad_id": "2175336263021330",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2175336263021330",
+          "start": "2026-10-15",
+          "days": 5,
+          "link_title": "Kelasyoga - Panduan Yoga Terstruktur di Rumah"
+        },
+        {
+          "ad_id": "1643945134045905",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1643945134045905",
+          "start": "2026-10-17",
+          "days": 4,
+          "link_title": "Kelasyoga - Panduan Yoga Terstruktur di Rumah"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Status dihitung dari iklan produk online saja (20 hari). Halaman ini juga punya iklan kelas offline Surabaya yang jalan sejak Okt 2025 (mis. id 827707513314096, 357 hari)."
+    },
+    {
+      "page_name": "Kak Rina Turun Berat Badan untuk Moms",
+      "page_id": "1120243241183575",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=1120243241183575",
+      "product": "Ebook Panduan Turun Berat Badan untuk Moms (tetap makan nasi, tanpa olahraga berat)",
+      "format": "ebook",
+      "price_seen": null,
+      "active_ads": 8,
+      "oldest_active_start": "2026-10-05",
+      "max_days_running": 16,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "1566865091432781",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1566865091432781",
+          "start": "2026-10-05",
+          "days": 16,
+          "link_title": "Nggak Harus Olahraga Berat untuk Mulai Turun BB"
+        },
+        {
+          "ad_id": "1051102147916235",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1051102147916235",
+          "start": "2026-10-05",
+          "days": 16,
+          "link_title": "Nggak Harus Olahraga Berat untuk Mulai Turun BB"
+        },
+        {
+          "ad_id": "2157900761784421",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2157900761784421",
+          "start": "2026-10-05",
+          "days": 16,
+          "link_title": "Ebook Panduan Turun Berat Badan untuk Moms"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": ""
+    },
+    {
+      "page_name": "Kelas Mastery MUA",
+      "page_id": "1224474234091171",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=1224474234091171",
+      "product": "Kelas makeup/MUA online dari dasar sampai siap terima klien",
+      "format": "e-course",
+      "price_seen": "Rp79.000",
+      "active_ads": 14,
+      "oldest_active_start": "2026-10-09",
+      "max_days_running": 11,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "1446515424100349",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1446515424100349",
+          "start": "2026-10-09",
+          "days": 11,
+          "link_title": "Belajar Makeup dari Nol - Cuma Rp79.000"
+        },
+        {
+          "ad_id": "2665698640540629",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2665698640540629",
+          "start": "2026-10-09",
+          "days": 11,
+          "link_title": "Belajar Makeup dari Nol - Cuma Rp79.000"
+        },
+        {
+          "ad_id": "1770407810679030",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1770407810679030",
+          "start": "2026-10-09",
+          "days": 11,
+          "link_title": "Belajar Makeup dari Dasar Cuma Rp79.000"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Penawaran identik dengan Beauty Skill Class."
+    },
+    {
+      "page_name": "Myfitsociety ID",
+      "page_id": "285738017955898",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=285738017955898",
+      "product": "Program workout & turun berat badan dari rumah (platform/aplikasi fitness)",
+      "format": "aplikasi / membership",
+      "price_seen": "mulai Rp69rb",
+      "active_ads": 103,
+      "oldest_active_start": "2026-10-11",
+      "max_days_running": 10,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "1147332524906204",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1147332524906204",
+          "start": "2026-10-11",
+          "days": 10,
+          "link_title": "Mau BB Turun? Mulai di Rumah"
+        },
+        {
+          "ad_id": "1507395547877984",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1507395547877984",
+          "start": "2026-10-11",
+          "days": 10,
+          "link_title": "Mau BB Turun? Mulai di Rumah"
+        },
+        {
+          "ad_id": "1724080816031940",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1724080816031940",
+          "start": "2026-10-11",
+          "days": 10,
+          "link_title": "Mau BB Turun? Mulai di Rumah"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "103 iklan aktif (volume tertinggi di niche ini). API hanya menampilkan 50 iklan terbaru, jadi iklan tertua sebenarnya bisa lebih lama dari 10 hari. Angle: 'cuma 10 menit', 'tanpa ke gym', 'mulai 69rb'."
+    },
+    {
+      "page_name": "Mas Didit Nutrition Coach",
+      "page_id": "100974466026385",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=100974466026385",
+      "product": "DietNyaman - program/aplikasi diet dibimbing ahli gizi (tanpa suplemen, tanpa hitung kalori)",
+      "format": "aplikasi / coaching online",
+      "price_seen": "diskon 50% (harga tidak terbaca)",
+      "active_ads": 76,
+      "oldest_active_start": "2026-10-12",
+      "max_days_running": 9,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "1121394973691552",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1121394973691552",
+          "start": "2026-10-12",
+          "days": 9,
+          "link_title": "(tanpa judul link)"
+        },
+        {
+          "ad_id": "1642302603918212",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1642302603918212",
+          "start": "2026-10-12",
+          "days": 9,
+          "link_title": "(tanpa judul link)"
+        },
+        {
+          "ad_id": "1841698423934259",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1841698423934259",
+          "start": "2026-10-12",
+          "days": 8,
+          "link_title": "Diet Secara Nyaman Dibimbing Langsung Ahli Gizi"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "76 iklan aktif, hanya 50 terbaru yang terlihat. Angle testimoni (turun 7-14 kg, PCOS, pasca melahirkan, GERD), 'kata dokter'."
+    },
+    {
+      "page_name": "Ketllebell ID",
+      "page_id": "906348735884222",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=906348735884222",
+      "product": "Panduan Lengkap Gym Di Rumah / latihan otot di rumah",
+      "format": "ebook / program latihan",
+      "price_seen": "Rp69.000",
+      "active_ads": 12,
+      "oldest_active_start": "2026-10-11",
+      "max_days_running": 9,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "1456973683037954",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1456973683037954",
+          "start": "2026-10-11",
+          "days": 9,
+          "link_title": "Panduan Lengkap Gym Di Rumah"
+        },
+        {
+          "ad_id": "1088383473903333",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1088383473903333",
+          "start": "2026-10-11",
+          "days": 9,
+          "link_title": "Latihan Otot Di Rumah Jadi Lebih Mudah"
+        },
+        {
+          "ad_id": "943203105176182",
+          "ad_url": "https://www.facebook.com/ads/library/?id=943203105176182",
+          "start": "2026-10-12",
+          "days": 9,
+          "link_title": "Latihan Otot Di Rumah Jadi Lebih Mudah"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": ""
+    },
+    {
+      "page_name": "Callisthenics 40 Plus",
+      "page_id": "1356699267525205",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=1356699267525205",
+      "product": "Program kalistenik 15 menit sehari di rumah untuk usia 40+",
+      "format": "program digital",
+      "price_seen": null,
+      "active_ads": 2,
+      "oldest_active_start": "2026-10-08",
+      "max_days_running": 12,
+      "status": "BARU",
+      "winning_ads": [
+        {
+          "ad_id": "1386216459988515",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1386216459988515",
+          "start": "2026-10-08",
+          "days": 12,
+          "link_title": "Umur 52 Tapi Dikira 38"
+        },
+        {
+          "ad_id": "1619031819768328",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1619031819768328",
+          "start": "2026-10-17",
+          "days": 3,
+          "link_title": "15 Menit Sehari di Rumah"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": ""
+    },
+    {
+      "page_name": "SmartLapak.id",
+      "page_id": "1116871061517086",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=1116871061517086",
+      "product": "Panduan/Sistem Gym Khusus Wanita Pemula + tools RIR & TDEE",
+      "format": "ebook / tools",
+      "price_seen": null,
+      "active_ads": 7,
+      "oldest_active_start": "2026-10-12",
+      "max_days_running": 8,
+      "status": "BARU",
+      "winning_ads": [
+        {
+          "ad_id": "4602243360096512",
+          "ad_url": "https://www.facebook.com/ads/library/?id=4602243360096512",
+          "start": "2026-10-12",
+          "days": 8,
+          "link_title": "Dari Bingung Jadi Paham: Cara Pakai Alat & Gerakan Gym"
+        },
+        {
+          "ad_id": "1444757994386258",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1444757994386258",
+          "start": "2026-10-12",
+          "days": 8,
+          "link_title": "BEBAN SUDAH NAIK, KOK HASIL MASIH STUCK?"
+        },
+        {
+          "ad_id": "1747846959846398",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1747846959846398",
+          "start": "2026-10-17",
+          "days": 3,
+          "link_title": "Gratis Cek Progress Gym Anda dengan Tools RIR dan TDEE"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": ""
+    },
+    {
+      "page_name": "Senam Kegel untuk Wanita 35+",
+      "page_id": "1418615347997232",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=1418615347997232",
+      "product": "Program/panduan senam kegel wanita 35+",
+      "format": "ebook / video",
+      "price_seen": "Rp99.000 (100 pembeli pertama)",
+      "active_ads": 6,
+      "oldest_active_start": "2026-10-16",
+      "max_days_running": 4,
+      "status": "BARU",
+      "winning_ads": [
+        {
+          "ad_id": "1449462700478926",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1449462700478926",
+          "start": "2026-10-16",
+          "days": 4,
+          "link_title": "Rp 99.000 untuk 100 Pembeli Pertama"
+        },
+        {
+          "ad_id": "1542032554395962",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1542032554395962",
+          "start": "2026-10-17",
+          "days": 4,
+          "link_title": "Rp 99.000 untuk 100 Pembeli Pertama"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": ""
+    },
+    {
+      "page_name": "Goodface - App",
+      "page_id": "1240642119123050",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=1240642119123050",
+      "product": "Aplikasi face yoga/glow up 7 hari",
+      "format": "aplikasi",
+      "price_seen": null,
+      "active_ads": 6,
+      "oldest_active_start": "2026-10-18",
+      "max_days_running": 2,
+      "status": "BARU",
+      "winning_ads": [
+        {
+          "ad_id": "1578369593604052",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1578369593604052",
+          "start": "2026-10-18",
+          "days": 2,
+          "link_title": "Cuma 7 Hari Wajahmu Langsung Glow Up!"
+        },
+        {
+          "ad_id": "991057479957917",
+          "ad_url": "https://www.facebook.com/ads/library/?id=991057479957917",
+          "start": "2026-10-18",
+          "days": 2,
+          "link_title": "Cuma 7 Hari Wajahmu Langsung Glow Up!"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": ""
+    }
+  ],
+  "insights": {
+    "price_range": "Rp69.000-Rp99.000 untuk ebook/kelas (Rp79.000 kelas MUA, Rp69rb program workout/gym di rumah, Rp99.000 senam kegel); program coaching/aplikasi diet pakai diskon 50%.",
+    "angles": [
+      "Diet khusus perempuan/siklus haid, anti diet ekstrem, tetap makan nasi",
+      "Turun BB dari rumah tanpa gym, cuma 10-15 menit sehari",
+      "Testimoni angka (turun 7/12/14/17 kg), pasca melahirkan, PCOS",
+      "Belajar makeup dari nol murah vs kursus jutaan, skill makeup jadi cuan/terima klien",
+      "Target usia spesifik: moms, wanita 35+, usia 40+/lansia (latihan kursi)",
+      "Webinar bertanggal (urgensi) dan 'promo 100 pembeli pertama'"
+    ],
+    "formats": [
+      "e-course/kelas video (makeup, yoga)",
+      "ebook panduan diet & latihan",
+      "aplikasi/membership workout & diet",
+      "webinar berbayar terjadwal"
+    ],
+    "summary": "Niche diet/turun BB paling ramai (keyword 'ebook diet' ~780 iklan aktif, banyak bercampur produk fisik/suplemen). Pemain digital yang paling lama bertahan adalah program diet perempuan (Defitmom, ~8 bulan), kelas makeup/styling (Kelas Bertumbuh, Stylence, Beauty Skill Class) dan yoga online. Pemain bervolume tinggi (Myfitsociety 103 iklan, DietNyaman 76 iklan) terus memutar kreatif baru sehingga iklan aktifnya tampak muda.",
+    "lp_note": "URL LP tidak tersedia di data Ad Library API. WebSearch (US-only) tidak menemukan LP penjual kecil ini dan WebFetch gagal resolve domain .id/.com dari environment (termasuk lynk.id), sehingga hampir semua lp_url = null. Buka link iklan untuk melihat tujuan LP."
+  }
+}

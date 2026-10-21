@@ -1,0 +1,766 @@
+{
+  "niche": "Edukasi Anak (worksheet, calistung, materi sekolah)",
+  "slug": "edukasi-anak",
+  "keywords": [
+    {
+      "term": "worksheet anak",
+      "active_ads_id": 1595
+    },
+    {
+      "term": "calistung",
+      "active_ads_id": 798
+    },
+    {
+      "term": "flashcard anak",
+      "active_ads_id": 175
+    },
+    {
+      "term": "bahasa inggris anak",
+      "active_ads_id": 3709
+    },
+    {
+      "term": "anak lancar membaca",
+      "active_ads_id": 410
+    },
+    {
+      "term": "printable anak",
+      "active_ads_id": 547
+    },
+    {
+      "term": "soal latihan SD",
+      "active_ads_id": 591
+    },
+    {
+      "term": "aktivitas anak tanpa gadget",
+      "active_ads_id": 233
+    }
+  ],
+  "advertisers": [
+    {
+      "page_name": "Toolkit Parenting",
+      "page_id": "1110427322164425",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=1110427322164425",
+      "product": "Bank 500 soal TKA SD/SMP + pembahasan (mengikuti 2 regulasi)",
+      "format": "bank soal digital (PDF)",
+      "price_seen": "Rp79.000",
+      "active_ads": 45,
+      "oldest_active_start": "2026-07-25",
+      "max_days_running": 87,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "1043952388125334",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1043952388125334",
+          "start": "2026-07-25",
+          "days": 87,
+          "link_title": "TKA SMP Punya Bentuk Soal Berbeda. Sudah Siap? 👉"
+        },
+        {
+          "ad_id": "1598347071916872",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1598347071916872",
+          "start": "2026-08-05",
+          "days": 77,
+          "link_title": "Bank Soal TKA SMP yang Mengikuti 2 Regulasi Sekaligus 👆"
+        },
+        {
+          "ad_id": "1514237823364029",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1514237823364029",
+          "start": "2026-08-05",
+          "days": 77,
+          "link_title": "Kalau Soalnya Banyak.. Acuannya Apa? 👆"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Iklan tertua sekitar 87 hari; produk evergreen untuk musim ujian."
+    },
+    {
+      "page_name": "Easy Class",
+      "page_id": "1137163479474203",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=1137163479474203",
+      "product": "Aplikasi Kelas Juara matematika/olimpiade anak + bonus 12.000 worksheet + live class",
+      "format": "aplikasi / e-course",
+      "price_seen": "Rp97.000",
+      "active_ads": 222,
+      "oldest_active_start": "2026-08-06",
+      "max_days_running": 75,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "1030591933168499",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1030591933168499",
+          "start": "2026-08-06",
+          "days": 75,
+          "link_title": "Bayar Sekali Akses Full Materi"
+        },
+        {
+          "ad_id": "920477404019055",
+          "ad_url": "https://www.facebook.com/ads/library/?id=920477404019055",
+          "start": "2026-08-06",
+          "days": 75,
+          "link_title": "Bayar Sekali Akses Full Materi"
+        },
+        {
+          "ad_id": "1089266263672008",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1089266263672008",
+          "start": "2026-08-13",
+          "days": 68,
+          "link_title": "Bayar Sekali Akses Full Materi"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Total 222 iklan termasuk produk CPNS; iklan tertua diambil dari subset kata kunci 'olimpiade'. Halaman punya 222 iklan aktif; API hanya menampilkan 50 terbaru per query, jadi umur tertua di sini adalah batas bawah (ada kemungkinan iklan yang lebih lama)."
+    },
+    {
+      "page_name": "Rangkuman Mapel SD Kurikulum Merdeka",
+      "page_id": "1288041487724333",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=1288041487724333",
+      "product": "Paket rangkuman materi SD kelas 1-6 semester 1&2 + 7 bonus ebook",
+      "format": "paket PDF / ebook",
+      "price_seen": null,
+      "active_ads": 13,
+      "oldest_active_start": "2026-08-28",
+      "max_days_running": 53,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "1525181662981390",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1525181662981390",
+          "start": "2026-08-28",
+          "days": 53,
+          "link_title": "📚 LENGKAP KELAS 1 SAMPAI KELAS 6 SD • SEMESTER 1 & 2 • SATU PAKET"
+        },
+        {
+          "ad_id": "1605298508006650",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1605298508006650",
+          "start": "2026-10-05",
+          "days": 15,
+          "link_title": "✨ Satu paket untuk membantu persiapan belajar anak dari Kelas 1–6 SD."
+        },
+        {
+          "ad_id": "1442716177798240",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1442716177798240",
+          "start": "2026-10-05",
+          "days": 15,
+          "link_title": "✨ Satu paket untuk membantu persiapan belajar anak dari Kelas 1–6 SD."
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": ""
+    },
+    {
+      "page_name": "Juara Ayah Bunda",
+      "page_id": "1279068365299492",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=1279068365299492",
+      "product": "Tool pembuat worksheet + 115 Ide Main Tanpa Gadget + 3 bonus (juga di-angle-kan sebagai ide usaha digital)",
+      "format": "template / tools digital",
+      "price_seen": null,
+      "active_ads": 21,
+      "oldest_active_start": "2026-10-03",
+      "max_days_running": 17,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "1079497871673157",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1079497871673157",
+          "start": "2026-10-03",
+          "days": 17,
+          "link_title": ""
+        },
+        {
+          "ad_id": "1087086344071083",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1087086344071083",
+          "start": "2026-10-03",
+          "days": 17,
+          "link_title": "🌸 Bisa Untuk Ide Usaha Digital"
+        },
+        {
+          "ad_id": "4693835237515279",
+          "ad_url": "https://www.facebook.com/ads/library/?id=4693835237515279",
+          "start": "2026-10-03",
+          "days": 17,
+          "link_title": ""
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": ""
+    },
+    {
+      "page_name": "Parentia",
+      "page_id": "1157828197402355",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=1157828197402355",
+      "product": "Home curriculum preschool ('6 kurikulum sekolah internasional dari rumah')",
+      "format": "kurikulum digital / printable",
+      "price_seen": null,
+      "active_ads": 178,
+      "oldest_active_start": "2026-10-04",
+      "max_days_running": 16,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "958993713312430",
+          "ad_url": "https://www.facebook.com/ads/library/?id=958993713312430",
+          "start": "2026-10-04",
+          "days": 16,
+          "link_title": "PAUD Cuma 3 Jam, Sisanya di Rumah"
+        },
+        {
+          "ad_id": "1875827790449408",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1875827790449408",
+          "start": "2026-10-04",
+          "days": 16,
+          "link_title": "Berhenti Beli Buku yang Numpuk"
+        },
+        {
+          "ad_id": "859460430526287",
+          "ad_url": "https://www.facebook.com/ads/library/?id=859460430526287",
+          "start": "2026-10-04",
+          "days": 16,
+          "link_title": "Anak Mandiri Itu Dilatih, Bukan Nunggu"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Hook: 'PAUD Cuma 3 Jam, Sisanya di Rumah'. Halaman punya 178 iklan aktif; API hanya menampilkan 50 terbaru per query, jadi umur tertua di sini adalah batas bawah (ada kemungkinan iklan yang lebih lama)."
+    },
+    {
+      "page_name": "Temanmoo Belajar",
+      "page_id": "1196795636843771",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=1196795636843771",
+      "product": "Program/kelas belajar anak (registrasi)",
+      "format": "kelas online",
+      "price_seen": null,
+      "active_ads": 14,
+      "oldest_active_start": "2026-10-04",
+      "max_days_running": 16,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "1838903840626967",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1838903840626967",
+          "start": "2026-10-04",
+          "days": 16,
+          "link_title": "👉 Pelajari Selengkapnya & Daftar Sekarang!"
+        },
+        {
+          "ad_id": "1099395459456941",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1099395459456941",
+          "start": "2026-10-04",
+          "days": 16,
+          "link_title": "👉 Pelajari Selengkapnya & Daftar Sekarang!"
+        },
+        {
+          "ad_id": "2169028414017380",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2169028414017380",
+          "start": "2026-10-05",
+          "days": 16,
+          "link_title": "👉 Pelajari Selengkapnya & Daftar Sekarang!"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": ""
+    },
+    {
+      "page_name": "kidsmates.id",
+      "page_id": "101235719566952",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=101235719566952",
+      "product": "Worksheet matematika (berhitung bersusun, Singapore Math) + ebook belajar gitar pemula",
+      "format": "worksheet PDF / ebook",
+      "price_seen": "Rp69.000",
+      "active_ads": 32,
+      "oldest_active_start": "2026-10-06",
+      "max_days_running": 14,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "1080959737974920",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1080959737974920",
+          "start": "2026-10-06",
+          "days": 14,
+          "link_title": "E-Book Belajar Gitar Praktis Pemula 📖"
+        },
+        {
+          "ad_id": "4648290358782236",
+          "ad_url": "https://www.facebook.com/ads/library/?id=4648290358782236",
+          "start": "2026-10-06",
+          "days": 14,
+          "link_title": "🎹 Kuasai Gitar dari Nol Tanpa Guru Privat! E-Book Belajar Bermain Gitar Otodidak📚✨"
+        },
+        {
+          "ad_id": "1468661708655972",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1468661708655972",
+          "start": "2026-10-06",
+          "days": 14,
+          "link_title": "🎹 Kuasai Gitar dari Nol Tanpa Guru Privat! E-Book Belajar Bermain Gitar Otodidak📚✨"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": ""
+    },
+    {
+      "page_name": "Smart Parenting mindful mom",
+      "page_id": "1287883551067672",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=1287883551067672",
+      "product": "Bundling worksheet anak ADHD + printable kit",
+      "format": "worksheet / printable",
+      "price_seen": null,
+      "active_ads": 21,
+      "oldest_active_start": "2026-10-18",
+      "max_days_running": 2,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "2662027764218396",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2662027764218396",
+          "start": "2026-10-18",
+          "days": 2,
+          "link_title": "𝑫𝒂𝒓𝒊 𝒉𝒂𝒎𝒑𝒆𝒓𝒔 𝒔𝒆𝒅𝒆𝒓𝒉𝒂𝒏𝒂 𝒎𝒆𝒏𝒋𝒂𝒅𝒊 𝒉𝒂𝒅𝒊𝒂𝒉 𝒚𝒂𝒏𝒈 𝒑𝒖𝒏𝒚𝒂 𝒄𝒆𝒓𝒊𝒕𝒂"
+        },
+        {
+          "ad_id": "30021735964093409",
+          "ad_url": "https://www.facebook.com/ads/library/?id=30021735964093409",
+          "start": "2026-10-18",
+          "days": 2,
+          "link_title": "𝑫𝒂𝒓𝒊 𝒉𝒂𝒎𝒑𝒆𝒓𝒔 𝒔𝒆𝒅𝒆𝒓𝒉𝒂𝒏𝒂 𝒎𝒆𝒏𝒋𝒂𝒅𝒊 𝒉𝒂𝒅𝒊𝒂𝒉 𝒚𝒂𝒏𝒈 𝒑𝒖𝒏𝒚𝒂 𝒄𝒆𝒓𝒊𝒕𝒂"
+        },
+        {
+          "ad_id": "1737420857361685",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1737420857361685",
+          "start": "2026-10-18",
+          "days": 2,
+          "link_title": "𝑫𝒂𝒓𝒊 𝒉𝒂𝒎𝒑𝒆𝒓𝒔 𝒔𝒆𝒅𝒆𝒓𝒉𝒂𝒏𝒂 𝒎𝒆𝒏𝒋𝒂𝒅𝒊 𝒉𝒂𝒅𝒊𝒂𝒉 𝒚𝒂𝒏𝒈 𝒑𝒖𝒏𝒚𝒂 𝒄𝒆𝒓𝒊𝒕𝒂"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": ""
+    },
+    {
+      "page_name": "Bu Guru Nisa",
+      "page_id": "642683518938216",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=642683518938216",
+      "product": "Rangkuman materi SD per kelas (target guru & orang tua)",
+      "format": "paket PDF",
+      "price_seen": "mulai Rp99.000",
+      "active_ads": 15,
+      "oldest_active_start": "2026-10-18",
+      "max_days_running": 2,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "1426506409656044",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1426506409656044",
+          "start": "2026-10-18",
+          "days": 2,
+          "link_title": "🎓 GURU KELAS 1 WAJIB PUNYA!"
+        },
+        {
+          "ad_id": "28735077092770157",
+          "ad_url": "https://www.facebook.com/ads/library/?id=28735077092770157",
+          "start": "2026-10-18",
+          "days": 2,
+          "link_title": "🎓 GURU KELAS 1 WAJIB PUNYA!"
+        },
+        {
+          "ad_id": "4645667499038938",
+          "ad_url": "https://www.facebook.com/ads/library/?id=4645667499038938",
+          "start": "2026-10-19",
+          "days": 1,
+          "link_title": "🎓 GURU KELAS 6 WAJIB PUNYA!"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": ""
+    },
+    {
+      "page_name": "Laci Bunda",
+      "page_id": "1251553294709719",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=1251553294709719",
+      "product": "Paket Bisa Baca (5 tahap urut), garansi 7 hari",
+      "format": "ebook / printable membaca",
+      "price_seen": "Rp99.000",
+      "active_ads": 11,
+      "oldest_active_start": "2026-10-19",
+      "max_days_running": 2,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "1041875218870073",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1041875218870073",
+          "start": "2026-10-19",
+          "days": 2,
+          "link_title": "Paket Bisa Baca · 99rb · Garansi 7 hari"
+        },
+        {
+          "ad_id": "1549287863618640",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1549287863618640",
+          "start": "2026-10-19",
+          "days": 2,
+          "link_title": "5 Tahap Urut, sesuai Kemampuan Anak"
+        },
+        {
+          "ad_id": "28730092239980415",
+          "ad_url": "https://www.facebook.com/ads/library/?id=28730092239980415",
+          "start": "2026-10-19",
+          "days": 2,
+          "link_title": "5 Tahap Urut, sesuai Kemampuan Anak"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": ""
+    },
+    {
+      "page_name": "Mainan Edukasi Raykid",
+      "page_id": "1270758229445407",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=1270758229445407",
+      "product": "1.000+ ide aktivitas anak usia 1-7 tahun",
+      "format": "ebook / printable",
+      "price_seen": null,
+      "active_ads": 23,
+      "oldest_active_start": "2026-10-19",
+      "max_days_running": 1,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "1866782137526495",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1866782137526495",
+          "start": "2026-10-19",
+          "days": 1,
+          "link_title": "1.000+ Ide Aktivitas Anak Usia 1–7 Tahun"
+        },
+        {
+          "ad_id": "944898125016416",
+          "ad_url": "https://www.facebook.com/ads/library/?id=944898125016416",
+          "start": "2026-10-19",
+          "days": 1,
+          "link_title": "1.000+ Ide Aktivitas Anak Usia 1–7 Tahun"
+        },
+        {
+          "ad_id": "1750992932624419",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1750992932624419",
+          "start": "2026-10-20",
+          "days": 1,
+          "link_title": "1.000+ Ide Aktivitas Anak Usia 1–7 Tahun"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Meski nama halamannya 'Mainan', produk yang diiklankan berupa ide aktivitas digital."
+    },
+    {
+      "page_name": "Dalagi Store ID",
+      "page_id": "1379685428558975",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=1379685428558975",
+      "product": "117.000++ lembar worksheet anak (toko produk digital campuran)",
+      "format": "worksheet bundle / PLR",
+      "price_seen": "Rp37.000-Rp50.000",
+      "active_ads": 7,
+      "oldest_active_start": "2026-10-19",
+      "max_days_running": 1,
+      "status": "BARU",
+      "winning_ads": [
+        {
+          "ad_id": "1114632418160829",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1114632418160829",
+          "start": "2026-10-19",
+          "days": 1,
+          "link_title": "🔥 HARGA PROMO CUMA Rp50.000 SAJA!"
+        },
+        {
+          "ad_id": "1879201776782633",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1879201776782633",
+          "start": "2026-10-19",
+          "days": 1,
+          "link_title": "🔥 HARGA PROMO CUMA Rp.35.000 SAJA!"
+        },
+        {
+          "ad_id": "1499958825353943",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1499958825353943",
+          "start": "2026-10-19",
+          "days": 1,
+          "link_title": "🔥 HARGA PROMO CUMA Rp59.000!"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": ""
+    },
+    {
+      "page_name": "Smartplay",
+      "page_id": "1390988554098200",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=1390988554098200",
+      "product": "Worksheet digital & cetak (baca, hitung, motorik, koding)",
+      "format": "worksheet",
+      "price_seen": null,
+      "active_ads": 4,
+      "oldest_active_start": "2026-10-20",
+      "max_days_running": 1,
+      "status": "BARU",
+      "winning_ads": [
+        {
+          "ad_id": "1733710194366211",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1733710194366211",
+          "start": "2026-10-20",
+          "days": 1,
+          "link_title": "Nunggu Jadi Latihan"
+        },
+        {
+          "ad_id": "3541659345988478",
+          "ad_url": "https://www.facebook.com/ads/library/?id=3541659345988478",
+          "start": "2026-10-20",
+          "days": 1,
+          "link_title": "Bukan Salah Anak"
+        },
+        {
+          "ad_id": "1601966318065303",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1601966318065303",
+          "start": "2026-10-20",
+          "days": 1,
+          "link_title": "Smartplay | Geser untuk lihat caranya → | Materi Sesuai Usia Anak | Worksheet Digital & Cetak | Baca, Hitung, Motorik, Koding | Ada Materi Adab & Agama | Sertifikat Tiap Selesai Tahap | Lihat Isi SmartPlay"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": ""
+    },
+    {
+      "page_name": "Anak Genius.Tech",
+      "page_id": "1427451173778934",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=1427451173778934",
+      "product": "Web app stimulasi anak 0-5 tahun",
+      "format": "web app",
+      "price_seen": "Rp49.000",
+      "active_ads": 6,
+      "oldest_active_start": "2026-10-20",
+      "max_days_running": 0,
+      "status": "BARU",
+      "winning_ads": [
+        {
+          "ad_id": "1830383518282260",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1830383518282260",
+          "start": "2026-10-20",
+          "days": 0,
+          "link_title": "Jadwal Main Anak 0–5 Th, Siap Pakai"
+        },
+        {
+          "ad_id": "4534474726814793",
+          "ad_url": "https://www.facebook.com/ads/library/?id=4534474726814793",
+          "start": "2026-10-20",
+          "days": 0,
+          "link_title": "Stimulasi Golden Age, 15 Menit Sehari"
+        },
+        {
+          "ad_id": "1789064855626309",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1789064855626309",
+          "start": "2026-10-20",
+          "days": 0,
+          "link_title": "Pengen Si Kecil Makin Aktif Ngobrol?"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": ""
+    },
+    {
+      "page_name": "Tanpa Disuruh",
+      "page_id": "1440820445781814",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=1440820445781814",
+      "product": "Program anak belajar mandiri tanpa disuruh",
+      "format": "ebook / program",
+      "price_seen": null,
+      "active_ads": 5,
+      "oldest_active_start": "2026-10-20",
+      "max_days_running": 0,
+      "status": "BARU",
+      "winning_ads": [
+        {
+          "ad_id": "1608982740675426",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1608982740675426",
+          "start": "2026-10-20",
+          "days": 0,
+          "link_title": "Tanpa Disuruh"
+        },
+        {
+          "ad_id": "1091222227044668",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1091222227044668",
+          "start": "2026-10-20",
+          "days": 0,
+          "link_title": "Tanpa Disuruh"
+        },
+        {
+          "ad_id": "1818965162680206",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1818965162680206",
+          "start": "2026-10-20",
+          "days": 0,
+          "link_title": "Tanpa Disuruh"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": ""
+    },
+    {
+      "page_name": "SmartEdu.Lab",
+      "page_id": "656878187504415",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=656878187504415",
+      "product": "Materi/worksheet edukasi anak",
+      "format": "worksheet / digital",
+      "price_seen": null,
+      "active_ads": 4,
+      "oldest_active_start": "2026-10-21",
+      "max_days_running": 0,
+      "status": "BARU",
+      "winning_ads": [
+        {
+          "ad_id": "1114985481235329",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1114985481235329",
+          "start": "2026-10-21",
+          "days": 0,
+          "link_title": "𝘿𝘼𝙋𝘼𝙏 𝘽𝙊𝙉𝙐𝙎  𝙑𝙄𝘿𝙀𝙊 𝙀𝙆𝙎𝙋𝙀𝙍𝙄𝙈𝙀𝙉 𝙏𝙀𝙍𝘽𝘼𝙍𝙐"
+        },
+        {
+          "ad_id": "1143747418029656",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1143747418029656",
+          "start": "2026-10-21",
+          "days": 0,
+          "link_title": "𝘿𝘼𝙋𝘼𝙏 𝘽𝙊𝙉𝙐𝙎  𝙑𝙄𝘿𝙀𝙊 𝙀𝙆𝙎𝙋𝙀𝙍𝙄𝙈𝙀𝙉 𝙏𝙀𝙍𝘽𝘼𝙍𝙐"
+        },
+        {
+          "ad_id": "1125457543181227",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1125457543181227",
+          "start": "2026-10-21",
+          "days": 0,
+          "link_title": "𝘿𝘼𝙋𝘼𝙏 𝘽𝙊𝙉𝙐𝙎  𝙑𝙄𝘿𝙀𝙊 𝙀𝙆𝙎𝙋𝙀𝙍𝙄𝙈𝙀𝙉 𝙏𝙀𝙍𝘽𝘼𝙍𝙐"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": ""
+    },
+    {
+      "page_name": "Toddler Cerdas",
+      "page_id": "1353929124479653",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=1353929124479653",
+      "product": "Web app matematika anak",
+      "format": "web app",
+      "price_seen": null,
+      "active_ads": 4,
+      "oldest_active_start": "2026-10-20",
+      "max_days_running": 0,
+      "status": "BARU",
+      "winning_ads": [
+        {
+          "ad_id": "1440310324858757",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1440310324858757",
+          "start": "2026-10-20",
+          "days": 0,
+          "link_title": "Bantu Si Kecil Jago Berhitung!"
+        },
+        {
+          "ad_id": "4594216694197208",
+          "ad_url": "https://www.facebook.com/ads/library/?id=4594216694197208",
+          "start": "2026-10-20",
+          "days": 0,
+          "link_title": "Bantu Si Kecil Jago Berhitung!"
+        },
+        {
+          "ad_id": "1470028538381398",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1470028538381398",
+          "start": "2026-10-20",
+          "days": 0,
+          "link_title": "Bantu Si Kecil Jago Berhitung!"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": ""
+    },
+    {
+      "page_name": "KlikBaca Digital",
+      "page_id": "631134406753950",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=631134406753950",
+      "product": "Program belajar membaca anak",
+      "format": "ebook / aplikasi",
+      "price_seen": "Rp49.000",
+      "active_ads": 3,
+      "oldest_active_start": "2026-10-20",
+      "max_days_running": 0,
+      "status": "BARU",
+      "winning_ads": [
+        {
+          "ad_id": "3608971715917274",
+          "ad_url": "https://www.facebook.com/ads/library/?id=3608971715917274",
+          "start": "2026-10-20",
+          "days": 0,
+          "link_title": "Bingung Mau Jualan Apa? Cek Ini!"
+        },
+        {
+          "ad_id": "901909426219541",
+          "ad_url": "https://www.facebook.com/ads/library/?id=901909426219541",
+          "start": "2026-10-20",
+          "days": 0,
+          "link_title": "Cukup Rp49.000 untuk paket promo ini!"
+        },
+        {
+          "ad_id": "1466251772022814",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1466251772022814",
+          "start": "2026-10-21",
+          "days": 0,
+          "link_title": "Cukup Rp49.000 untuk paket promo ini!"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Sebagian iklan memakai angle resell (\"Bingung Mau Jualan Apa?\"), kemungkinan menawarkan lisensi jual ulang/PLR."
+    },
+    {
+      "page_name": "BisaBaca - Belajar Membaca Anak",
+      "page_id": "1446324021887503",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=1446324021887503",
+      "product": "Program belajar membaca, akses selamanya",
+      "format": "aplikasi / e-course",
+      "price_seen": "Rp97.000",
+      "active_ads": 1,
+      "oldest_active_start": "2026-10-21",
+      "max_days_running": 0,
+      "status": "BARU",
+      "winning_ads": [
+        {
+          "ad_id": "1441526384764714",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1441526384764714",
+          "start": "2026-10-21",
+          "days": 0,
+          "link_title": "Mau Anak Bisa Membaca? Promo Rp 97rb Selamanya"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": ""
+    }
+  ],
+  "insights": {
+    "price_range": "Rp37.000-Rp99.000 (umumnya Rp49rb-Rp99rb; worksheet bundle PLR bisa Rp37rb)",
+    "angles": [
+      "Persiapan ujian/TKA dan kurikulum (bank soal, rangkuman mapel)",
+      "Anak lancar membaca/calistung dalam tahapan urut",
+      "Ganti gadget dengan aktivitas (ide main tanpa gadget)",
+      "Volume besar: 1.000+ ide, 12.000-117.000 worksheet",
+      "Bayar sekali, akses selamanya",
+      "Home curriculum ala sekolah internasional"
+    ],
+    "formats": [
+      "Worksheet/printable PDF",
+      "Bank soal & rangkuman materi",
+      "Aplikasi/web app belajar",
+      "Kelas online/olimpiade"
+    ],
+    "summary": "Volume keyword sangat tinggi (worksheet anak sekitar 1.600, bahasa inggris anak sekitar 3.700, tapi yang terakhir didominasi kursus offline). Yang winning paling lama adalah produk berbasis kurikulum/ujian (bank soal TKA 87 hari, Easy Class 75 hari, rangkuman SD 53 hari). Banyak pemain baru menjual bundel worksheet dan web app di Rp37-99rb."
+  }
+}

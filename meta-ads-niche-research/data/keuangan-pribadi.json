@@ -1,0 +1,765 @@
+{
+  "niche": "Keuangan Pribadi & Budgeting",
+  "slug": "keuangan-pribadi",
+  "keywords": [
+    {
+      "term": "lunas hutang",
+      "active_ads_id": 1983
+    },
+    {
+      "term": "pinjol",
+      "active_ads_id": 1820
+    },
+    {
+      "term": "template keuangan",
+      "active_ads_id": 1818
+    },
+    {
+      "term": "keuangan keluarga",
+      "active_ads_id": 1539
+    },
+    {
+      "term": "catat keuangan",
+      "active_ads_id": 1415
+    },
+    {
+      "term": "ebook keuangan",
+      "active_ads_id": 1413
+    },
+    {
+      "term": "atur keuangan",
+      "active_ads_id": 1380
+    },
+    {
+      "term": "gaji habis",
+      "active_ads_id": 1371
+    },
+    {
+      "term": "bebas utang",
+      "active_ads_id": 1224
+    },
+    {
+      "term": "budget planner",
+      "active_ads_id": 312
+    },
+    {
+      "term": "financial planner",
+      "active_ads_id": 283
+    },
+    {
+      "term": "spreadsheet keuangan",
+      "active_ads_id": 99
+    },
+    {
+      "term": "ebook pinjol",
+      "active_ads_id": 39
+    },
+    {
+      "term": "ebook menabung",
+      "active_ads_id": 21
+    }
+  ],
+  "advertisers": [
+    {
+      "page_name": "The Problem Solution",
+      "page_id": "279144878621641",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=279144878621641",
+      "product": "Produk digital tanpa judul jelas (CTA 'Dapatkan Sekarang'); muncul di pencarian 'ebook pinjol'",
+      "format": "ebook (dugaan)",
+      "price_seen": null,
+      "active_ads": 1,
+      "oldest_active_start": "2025-04-11",
+      "max_days_running": 557,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "1097241835498852",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1097241835498852",
+          "start": "2025-04-11",
+          "days": 557,
+          "link_title": "Dapatkan Sekarang"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Iklan tunggal sangat tua (sejak Apr 2025). Topik produk belum terkonfirmasi karena API tidak memberi teks iklan; cek manual via link iklan."
+    },
+    {
+      "page_name": "visualmindset.id",
+      "page_id": "372867052870441",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=372867052870441",
+      "product": "Panduan Nabung Umroh dengan Gaji Pas-pasan / Strategi Berangkat Umroh dengan Gaji UMR",
+      "format": "ebook",
+      "price_seen": null,
+      "active_ads": 3,
+      "oldest_active_start": "2025-11-28",
+      "max_days_running": 327,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "837591352196119",
+          "ad_url": "https://www.facebook.com/ads/library/?id=837591352196119",
+          "start": "2025-11-28",
+          "days": 327,
+          "link_title": "Strategi berangkat Umroh dengan Gaji UMR"
+        },
+        {
+          "ad_id": "1585247759565060",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1585247759565060",
+          "start": "2025-11-28",
+          "days": 327,
+          "link_title": "Panduan Nabung Umroh dengan Gaji pas-pasan"
+        },
+        {
+          "ad_id": "1462976661855891",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1462976661855891",
+          "start": "2025-11-28",
+          "days": 327,
+          "link_title": "Panduan Nabung Umroh Gaji pas-pasan"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Angle menabung untuk tujuan religius (umroh) dengan gaji UMR. 3 iklan sama-sama jalan ~11 bulan."
+    },
+    {
+      "page_name": "Lunas Hutang dari Produk Digital",
+      "page_id": "939052179300452",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=939052179300452",
+      "product": "Lunas Hutang dari Produk Digital (cerita lunas hutang via jualan produk digital)",
+      "format": "ebook/kelas produk digital via Lynk",
+      "price_seen": null,
+      "active_ads": 4,
+      "oldest_active_start": "2026-02-09",
+      "max_days_running": 253,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "817349410765120",
+          "ad_url": "https://www.facebook.com/ads/library/?id=817349410765120",
+          "start": "2026-02-09",
+          "days": 253,
+          "link_title": "LYNK | Website Builder"
+        },
+        {
+          "ad_id": "2884064738601905",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2884064738601905",
+          "start": "2026-02-09",
+          "days": 253,
+          "link_title": "LYNK | Website Builder"
+        },
+        {
+          "ad_id": "937951751906628",
+          "ad_url": "https://www.facebook.com/ads/library/?id=937951751906628",
+          "start": "2026-02-09",
+          "days": 253,
+          "link_title": ""
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "domain_hint",
+      "notes": "Judul link 'LYNK | Website Builder' -> LP di lynk.id. Angle: pain hutang dijembatani ke peluang income digital."
+    },
+    {
+      "page_name": "ihtiar_langit_lepashutangriba",
+      "page_id": "975709935634991",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=975709935634991",
+      "product": "Ihtiar langit lepas hutang riba (panduan/amalan lepas hutang)",
+      "format": "ebook/kelas (dugaan)",
+      "price_seen": null,
+      "active_ads": 4,
+      "oldest_active_start": "2026-03-24",
+      "max_days_running": 210,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "1942952859944820",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1942952859944820",
+          "start": "2026-03-24",
+          "days": 210,
+          "link_title": ""
+        },
+        {
+          "ad_id": "1147669334069627",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1147669334069627",
+          "start": "2026-03-24",
+          "days": 210,
+          "link_title": ""
+        },
+        {
+          "ad_id": "1276096994479488",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1276096994479488",
+          "start": "2026-03-25",
+          "days": 210,
+          "link_title": ""
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Angle spiritual-islami untuk lepas hutang riba. Iklan tanpa judul link."
+    },
+    {
+      "page_name": "After Hour Store",
+      "page_id": "630646333474505",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=630646333474505",
+      "product": "Toko produk digital multi-niche; ebook 'Rahasia Pensiun Tenang dengan Pendapatan Pasif' & 'Siap Hadapi Ekonomi Sulit'",
+      "format": "ebook",
+      "price_seen": null,
+      "active_ads": 6,
+      "oldest_active_start": "2026-03-26",
+      "max_days_running": 209,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "909449311714346",
+          "ad_url": "https://www.facebook.com/ads/library/?id=909449311714346",
+          "start": "2026-03-26",
+          "days": 209,
+          "link_title": "Rahasia Menikmati Pensiun Tenang dengan Pendapatan Pasif Tiap Bulan"
+        },
+        {
+          "ad_id": "2163348721164049",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2163348721164049",
+          "start": "2026-04-06",
+          "days": 197,
+          "link_title": "Siap Hadapi Ekonomi Sulit? Ini Solusinya!"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "After Hour Store juga menjual kartu obrolan pasangan, panduan kerja/kuliah luar negeri. Iklan keuangan sudah jalan ~7 bulan."
+    },
+    {
+      "page_name": "Gio Planner Studio",
+      "page_id": "510932392112577",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=510932392112577",
+      "product": "Budget Planner / planner keuangan spreadsheet dengan grafik otomatis, akses seumur hidup",
+      "format": "template spreadsheet",
+      "price_seen": "Rp19.000",
+      "active_ads": 29,
+      "oldest_active_start": "2026-05-06",
+      "max_days_running": 167,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "26914462448215499",
+          "ad_url": "https://www.facebook.com/ads/library/?id=26914462448215499",
+          "start": "2026-05-06",
+          "days": 167,
+          "link_title": "Bukan Kamu yang Boros — Sistemnya yang Salah"
+        },
+        {
+          "ad_id": "35336007756047427",
+          "ad_url": "https://www.facebook.com/ads/library/?id=35336007756047427",
+          "start": "2026-05-06",
+          "days": 167,
+          "link_title": "Cuma Seharga Kopi Susu"
+        },
+        {
+          "ad_id": "28049425134647267",
+          "ad_url": "https://www.facebook.com/ads/library/?id=28049425134647267",
+          "start": "2026-05-06",
+          "days": 167,
+          "link_title": "Mau planner keuangan cuma Rp 19.000?"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Low-ticket impulse buy. Hook: 'Bukan Kamu yang Boros, Sistemnya yang Salah', 'Cuma Seharga Kopi Susu'. 29 iklan aktif, terus ditambah kreatif baru."
+    },
+    {
+      "page_name": "Adr.Insight",
+      "page_id": "1125333754001095",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=1125333754001095",
+      "product": "Keluar dari Jeratan Pinjol Secara Legal",
+      "format": "ebook/panduan",
+      "price_seen": null,
+      "active_ads": 1,
+      "oldest_active_start": "2026-06-09",
+      "max_days_running": 133,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "1678313213208127",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1678313213208127",
+          "start": "2026-06-09",
+          "days": 133,
+          "link_title": "Keluar dari Jeratan Pinjol Secara Legal"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Satu iklan evergreen ~4,5 bulan."
+    },
+    {
+      "page_name": "GemaR Baca",
+      "page_id": "1146173111906567",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=1146173111906567",
+      "product": "Ebook (judul link 'ulasan 4,8/5'); muncul di pencarian 'ebook pinjol'",
+      "format": "ebook",
+      "price_seen": null,
+      "active_ads": 6,
+      "oldest_active_start": "2026-06-28",
+      "max_days_running": 114,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "1285034377035429",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1285034377035429",
+          "start": "2026-06-28",
+          "days": 114,
+          "link_title": "ulasan 4,8/5"
+        },
+        {
+          "ad_id": "1522376998837593",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1522376998837593",
+          "start": "2026-06-28",
+          "days": 114,
+          "link_title": "ulasan 4,8/5"
+        },
+        {
+          "ad_id": "3275276632860273",
+          "ad_url": "https://www.facebook.com/ads/library/?id=3275276632860273",
+          "start": "2026-06-29",
+          "days": 114,
+          "link_title": "ulasan 4,8/5"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Social proof rating di judul link. Topik spesifik belum terkonfirmasi."
+    },
+    {
+      "page_name": "AngyMoola",
+      "page_id": "990167637504152",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=990167637504152",
+      "product": "Sistem/template atur tagihan bulanan, strategi lunasin utang, cara nabung zaman sekarang",
+      "format": "template/panduan digital",
+      "price_seen": null,
+      "active_ads": 37,
+      "oldest_active_start": "2026-06-30",
+      "max_days_running": 112,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "1412663097549447",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1412663097549447",
+          "start": "2026-06-30",
+          "days": 112,
+          "link_title": "Cara nabung zaman sekarang"
+        },
+        {
+          "ad_id": "874404045262359",
+          "ad_url": "https://www.facebook.com/ads/library/?id=874404045262359",
+          "start": "2026-06-30",
+          "days": 112,
+          "link_title": "Cara nabung zaman sekarang"
+        },
+        {
+          "ad_id": "825721117141099",
+          "ad_url": "https://www.facebook.com/ads/library/?id=825721117141099",
+          "start": "2026-06-30",
+          "days": 112,
+          "link_title": "Cara nabung zaman sekarang"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "37 iklan aktif, scaling dengan banyak varian hook pain-point (tagihan kaget, utang)."
+    },
+    {
+      "page_name": "NegoUtang.id",
+      "page_id": "1295380423655907",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=1295380423655907",
+      "product": "Ebook Edukasi Restrukturisasi Hutang: Lunasi Hutang Pinjol/KTA/Kartu Kredit",
+      "format": "ebook",
+      "price_seen": null,
+      "active_ads": 1,
+      "oldest_active_start": "2026-08-05",
+      "max_days_running": 76,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "1376076817866469",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1376076817866469",
+          "start": "2026-08-05",
+          "days": 76,
+          "link_title": "Lunasi Hutang Pinjol/KTA/CC dengan Trik Ampuh Restrukturisasi - Ebook Edukasi Restrukturisasi Hutang"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Domain negoutang.id tidak resolve saat dicek."
+    },
+    {
+      "page_name": "Catatan Finansial",
+      "page_id": "1201067976427737",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=1201067976427737",
+      "product": "Ebook Panduan Praktis Bebas Pinjol",
+      "format": "ebook",
+      "price_seen": null,
+      "active_ads": 5,
+      "oldest_active_start": "2026-08-08",
+      "max_days_running": 74,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "2097677467624175",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2097677467624175",
+          "start": "2026-08-08",
+          "days": 74,
+          "link_title": "Download Ebook-nya Sekarang, Panduan Praktis Bebas Pinjol"
+        },
+        {
+          "ad_id": "27385721027791431",
+          "ad_url": "https://www.facebook.com/ads/library/?id=27385721027791431",
+          "start": "2026-08-08",
+          "days": 74,
+          "link_title": "Download Ebook-nya Sekarang, Panduan Praktis Bebas Pinjol"
+        },
+        {
+          "ad_id": "2288173381931986",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2288173381931986",
+          "start": "2026-08-08",
+          "days": 74,
+          "link_title": "Download Ebook-nya Sekarang, Panduan Praktis Bebas Pinjol"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "5 iklan dengan judul sama, semuanya ~2,5 bulan."
+    },
+    {
+      "page_name": "Kuaze.id",
+      "page_id": "1246619891867004",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=1246619891867004",
+      "product": "Aplikasi financial planner multi-perangkat dengan AI pencatat keuangan, sekali bayar akses selamanya",
+      "format": "aplikasi/web app",
+      "price_seen": null,
+      "active_ads": 7,
+      "oldest_active_start": "2026-08-18",
+      "max_days_running": 63,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "2030285194282605",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2030285194282605",
+          "start": "2026-08-18",
+          "days": 63,
+          "link_title": "Sekali Bayar Akses Selamanya!"
+        },
+        {
+          "ad_id": "1474979271106650",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1474979271106650",
+          "start": "2026-08-19",
+          "days": 63,
+          "link_title": "Ngatur Keuangan Nggak Harus Ribet"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Hook 'Males Nyatet? Biar AI Aja!'. Domain kuaze.id tidak resolve saat dicek."
+    },
+    {
+      "page_name": "Al-Munawwarah",
+      "page_id": "843049118894818",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=843049118894818",
+      "product": "Ebook 'Formula Kaya ala Rasulullah' (keuangan islami, rezeki)",
+      "format": "ebook",
+      "price_seen": null,
+      "active_ads": 8,
+      "oldest_active_start": "2026-09-22",
+      "max_days_running": 29,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "2131269140829899",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2131269140829899",
+          "start": "2026-09-22",
+          "days": 29,
+          "link_title": "TERBONGKAR! FORMULA KAYA ALA RASULULLAH"
+        },
+        {
+          "ad_id": "1110447138113001",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1110447138113001",
+          "start": "2026-09-22",
+          "days": 29,
+          "link_title": "TERBONGKAR! FORMULA KAYA ALA RASULULLAH"
+        },
+        {
+          "ad_id": "1564857952334284",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1564857952334284",
+          "start": "2026-10-20",
+          "days": 0,
+          "link_title": "Gaji Naik, Kok Tetap Habis?"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Hook: 'Gaji Naik, Kok Tetap Habis?', 'Bukan takdir, wadahnya yang bocor'."
+    },
+    {
+      "page_name": "HR Ebook1380",
+      "page_id": "1244284962107519",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=1244284962107519",
+      "product": "Ebook (hook 'Kenapa Aku Baru Tahu?'); muncul di pencarian 'ebook pinjol'",
+      "format": "ebook",
+      "price_seen": null,
+      "active_ads": 1,
+      "oldest_active_start": "2026-09-22",
+      "max_days_running": 28,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "1094263046443860",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1094263046443860",
+          "start": "2026-09-22",
+          "days": 28,
+          "link_title": "Kenapa Aku Baru Tahu?"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Hampir 30 hari."
+    },
+    {
+      "page_name": "Iksanarsana",
+      "page_id": "392597004852586",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=392597004852586",
+      "product": "Budget planner & habit tracker estetik (target nabung, catat keuangan)",
+      "format": "template digital",
+      "price_seen": null,
+      "active_ads": 14,
+      "oldest_active_start": "2026-09-25",
+      "max_days_running": 25,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "2051197109094888",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2051197109094888",
+          "start": "2026-09-25",
+          "days": 25,
+          "link_title": "Fokus Perbaiki Diri Mulai Hari Ini"
+        },
+        {
+          "ad_id": "1082131078158305",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1082131078158305",
+          "start": "2026-09-25",
+          "days": 25,
+          "link_title": "Mulai Lebih Aware Sama Keuanganmu"
+        },
+        {
+          "ad_id": "1888875012093490",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1888875012093490",
+          "start": "2026-09-25",
+          "days": 25,
+          "link_title": "Bikin Target Nabung Jadi Lebih Jelas"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "14 iklan aktif. Salah satu judul memakai klaim '3,000 5 star reviews, 30-day money back'."
+    },
+    {
+      "page_name": "Alva Digital",
+      "page_id": "1243626622162772",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=1243626622162772",
+      "product": "Ebook Solusi Lunas Pinjol: 'JANGAN Bayar Denda Pinjol Sebelum Baca Ebook Ini!'",
+      "format": "ebook",
+      "price_seen": "Rp35.000",
+      "active_ads": 2,
+      "oldest_active_start": "2026-09-30",
+      "max_days_running": 21,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "1111507081316363",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1111507081316363",
+          "start": "2026-09-30",
+          "days": 21,
+          "link_title": "JANGAN Bayar Denda Pinjol Sebelum Baca Ebook Ini! (Rp35rb)"
+        },
+        {
+          "ad_id": "1003413559451474",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1003413559451474",
+          "start": "2026-09-30",
+          "days": 21,
+          "link_title": "Bebas Teror Pinjol Sekarang! Ebook Solusi Lunas Rp35 Ribu"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": ""
+    },
+    {
+      "page_name": "KasRumah",
+      "page_id": "1193964840471007",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=1193964840471007",
+      "product": "KasRumah: aplikasi/sistem catat keuangan rumah tangga, catat 5 detik rekap otomatis",
+      "format": "aplikasi/template",
+      "price_seen": "Rp99.000",
+      "active_ads": 137,
+      "oldest_active_start": "2026-10-16",
+      "max_days_running": 4,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "2120846295470791",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2120846295470791",
+          "start": "2026-10-16",
+          "days": 4,
+          "link_title": "Hanya 99ribu, Catat 5 Detik, Rekap Jadi Sendiri"
+        },
+        {
+          "ad_id": "1624758526098382",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1624758526098382",
+          "start": "2026-10-16",
+          "days": 4,
+          "link_title": "Hanya 99ribu, Catat 5 Detik, Rekap Jadi Sendiri"
+        },
+        {
+          "ad_id": "1699172318291688",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1699172318291688",
+          "start": "2026-10-16",
+          "days": 4,
+          "link_title": "Hanya 99ribu, Catat 5 Detik, Rekap Jadi Sendiri"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Volume iklan tertinggi di niche (137 aktif). Catatan: 137 iklan aktif, API hanya menampilkan 50 terbaru; umur tertua yang terlihat adalah batas bawah (iklan lebih tua kemungkinan ada)."
+    },
+    {
+      "page_name": "Ruang Insight",
+      "page_id": "1036278172906102",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=1036278172906102",
+      "product": "Ebook 'Rahasia Istri Pelipat Ganda Rezeki Suami' & 'Jalan Pintas Meretas Rezeki Miliaran'",
+      "format": "ebook",
+      "price_seen": null,
+      "active_ads": 15,
+      "oldest_active_start": "2026-10-20",
+      "max_days_running": 0,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "1860072645436214",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1860072645436214",
+          "start": "2026-10-20",
+          "days": 0,
+          "link_title": "Jalan Pintas Meretas Rezeki Miliaran"
+        },
+        {
+          "ad_id": "2580481972426182",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2580481972426182",
+          "start": "2026-10-20",
+          "days": 0,
+          "link_title": "Rahasia Istri Pelipat Ganda Rezeki Suami"
+        },
+        {
+          "ad_id": "1121841120571407",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1121841120571407",
+          "start": "2026-10-20",
+          "days": 0,
+          "link_title": "Rahasia Istri Pelipat Ganda Rezeki Suami"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "15 iklan baru diluncurkan bersamaan (testing kreatif)."
+    },
+    {
+      "page_name": "Ngomongin Uang Indonesia",
+      "page_id": "200094709860911",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=200094709860911",
+      "product": "Bundling ebook + spreadsheet: Kabur Aja Dulu ke Luar Negeri, Freelancer Era AI, Blueprint Bisnis dari Nol",
+      "format": "ebook + spreadsheet",
+      "price_seen": null,
+      "active_ads": 6,
+      "oldest_active_start": "2026-10-07",
+      "max_days_running": 13,
+      "status": "BARU",
+      "winning_ads": [
+        {
+          "ad_id": "1082013347969061",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1082013347969061",
+          "start": "2026-10-07",
+          "days": 13,
+          "link_title": "PANDUAN LENGKAP KABUR AJA DULU KE LUAR NEGERI | SPECIAL BUNDLING e-Book & Spreadsheet"
+        },
+        {
+          "ad_id": "1972562676717740",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1972562676717740",
+          "start": "2026-10-07",
+          "days": 13,
+          "link_title": "BLUEPRINT BANGUN BISNIS DARI NOL | SPECIAL BUNDLING e-Book & Spreadsheet"
+        },
+        {
+          "ad_id": "1121948523686967",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1121948523686967",
+          "start": "2026-10-07",
+          "days": 13,
+          "link_title": "PANDUAN FREELANCER BERPENGHASILAN TINGGI (Era AI) | SPECIAL BUNDLING e-Book & Spreadsheet"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Kreator finansial (Ngomu). Produk melebar ke karier/bisnis."
+    },
+    {
+      "page_name": "Kompas Cuan",
+      "page_id": "1310301298834856",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=1310301298834856",
+      "product": "Tool hitung urutan bayar & bulan lunas cicilan (pinjol/paylater/kartu kredit)",
+      "format": "template/tool",
+      "price_seen": "Rp50.000",
+      "active_ads": 8,
+      "oldest_active_start": "2026-10-20",
+      "max_days_running": 0,
+      "status": "BARU",
+      "winning_ads": [
+        {
+          "ad_id": "1589625202410066",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1589625202410066",
+          "start": "2026-10-20",
+          "days": 0,
+          "link_title": "Karyawan: Berhenti Buang 2,5 Jam Seminggu Cuma Buat Laporan"
+        },
+        {
+          "ad_id": "915374801512675",
+          "ad_url": "https://www.facebook.com/ads/library/?id=915374801512675",
+          "start": "2026-10-21",
+          "days": 0,
+          "link_title": "Pinjol, Paylater, Kartu Kredit: Mana yang Dibayar Duluan? Hitung dalam 15 Menit"
+        },
+        {
+          "ad_id": "934945902800172",
+          "ad_url": "https://www.facebook.com/ads/library/?id=934945902800172",
+          "start": "2026-10-21",
+          "days": 0,
+          "link_title": "Pemegang Keuangan Keluarga: Lihat Urutan Bayar & Bulan Lunas Cicilan, Rp50 Ribu"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Juga menjual tool laporan kerja untuk karyawan."
+    }
+  ],
+  "insights": {
+    "price_range": "Rp19.000 - Rp99.000 (planner spreadsheet Rp19rb, ebook pinjol Rp35rb, template budget Rp39rb, tool cicilan Rp50rb, aplikasi catat keuangan Rp99rb sekali bayar)",
+    "angles": [
+      "Pain hutang/pinjol: 'Bebas teror pinjol', 'Jangan bayar denda sebelum baca ini', 'Tahu bulan berapa kamu bebas'",
+      "Gaji habis / numpang lewat: 'Uangmu lari ke mana?', 'Pengeluaran kecil ternyata numpuk'",
+      "Reframing: 'Bukan kamu yang boros, sistemnya yang salah'",
+      "Harga murah sebagai hook: 'Cuma seharga kopi susu', 'Sekali bayar akses selamanya'",
+      "Islami/spiritual: lepas hutang riba, formula kaya ala Rasulullah, nabung umroh gaji UMR",
+      "AI otomatis: 'Males nyatet? Biar AI aja'"
+    ],
+    "formats": [
+      "template spreadsheet / budget planner",
+      "ebook panduan lunas hutang/pinjol",
+      "aplikasi catat keuangan sekali bayar",
+      "ebook keuangan islami"
+    ],
+    "summary": "Niche didominasi dua cluster: (1) tools pencatatan/budgeting murah (spreadsheet Rp19-39rb, app sekali bayar Rp99rb) dan (2) ebook lunas hutang/pinjol. Pengiklan paling tahan lama justru akun kecil dengan 1-6 iklan evergreen (ebook pinjol, nabung umroh), sementara Gio Planner, AngyMoola, dan KasRumah adalah yang paling agresif scaling kreatif."
+  }
+}

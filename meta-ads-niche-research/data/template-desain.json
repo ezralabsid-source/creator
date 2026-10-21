@@ -1,0 +1,734 @@
+{
+  "niche": "Template, Desain & Preset",
+  "slug": "template-desain",
+  "keywords": [
+    {
+      "term": "template canva",
+      "active_ads_id": 1694
+    },
+    {
+      "term": "undangan digital",
+      "active_ads_id": 1111
+    },
+    {
+      "term": "template siap edit",
+      "active_ads_id": 908
+    },
+    {
+      "term": "preset lightroom",
+      "active_ads_id": 187
+    },
+    {
+      "term": "template feed instagram",
+      "active_ads_id": 105
+    },
+    {
+      "term": "kelas desain grafis",
+      "active_ads_id": 100
+    }
+  ],
+  "advertisers": [
+    {
+      "page_name": "desainmurah.co",
+      "page_id": "101102005074590",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=101102005074590",
+      "product": "desainmurah.co - 'Promo PRODUK PLUS' (toko template/desain)",
+      "format": "template desain",
+      "price_seen": null,
+      "active_ads": 1,
+      "oldest_active_start": "2025-09-06",
+      "max_days_running": 409,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "1434945067806525",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1434945067806525",
+          "start": "2025-09-06",
+          "days": 409,
+          "link_title": "Promo – PRODUK PLUS"
+        }
+      ],
+      "lp_url": "https://desainmurah.co",
+      "lp_source": "domain_hint",
+      "notes": "1 iklan evergreen sejak Sep 2025 (~409 hari). Produk persis tidak terbaca dari judul. URL diturunkan dari nama halaman/judul link (domain), belum diverifikasi - WebFetch tidak berfungsi di environment ini."
+    },
+    {
+      "page_name": "Bayu Store",
+      "page_id": "649300388533168",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=649300388533168",
+      "product": "10.000 Template Canva Siap Jual (hak jual ulang)",
+      "format": "bundle template Canva (PLR)",
+      "price_seen": null,
+      "active_ads": 3,
+      "oldest_active_start": "2026-05-15",
+      "max_days_running": 158,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "1286668880303353",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1286668880303353",
+          "start": "2026-05-15",
+          "days": 158,
+          "link_title": "10.000 Template Canva Siap Jual!"
+        },
+        {
+          "ad_id": "2202495397254559",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2202495397254559",
+          "start": "2026-05-15",
+          "days": 158,
+          "link_title": "10.000 Template Canva Siap Jual!"
+        },
+        {
+          "ad_id": "977122374910294",
+          "ad_url": "https://www.facebook.com/ads/library/?id=977122374910294",
+          "start": "2026-05-15",
+          "days": 158,
+          "link_title": "10.000 Template Canva Siap Jual!"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "3 iklan sejak Mei 2026. Overlap dengan niche PLR."
+    },
+    {
+      "page_name": "viding.co",
+      "page_id": "112529260652876",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=112529260652876",
+      "product": "Viding - platform undangan pernikahan digital (web invitation, e-guestbook, e-angpao)",
+      "format": "undangan digital / SaaS",
+      "price_seen": null,
+      "active_ads": 53,
+      "oldest_active_start": "2026-06-02",
+      "max_days_running": 140,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "953540351016063",
+          "ad_url": "https://www.facebook.com/ads/library/?id=953540351016063",
+          "start": "2026-06-02",
+          "days": 140,
+          "link_title": "Digitize Your Wedday!"
+        },
+        {
+          "ad_id": "1012511141189209",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1012511141189209",
+          "start": "2026-06-30",
+          "days": 112,
+          "link_title": "(tanpa judul)"
+        },
+        {
+          "ad_id": "1616118313301725",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1616118313301725",
+          "start": "2026-08-04",
+          "days": 77,
+          "link_title": "(tanpa judul)"
+        }
+      ],
+      "lp_url": "https://viding.co",
+      "lp_source": "domain_hint",
+      "notes": "53 iklan aktif; hanya 50 terbaru terlihat, jadi umur tertua kemungkinan > 140 hari. Brand undangan digital mapan (diluncurkan 2020). URL diturunkan dari nama halaman/judul link (domain), belum diverifikasi - WebFetch tidak berfungsi di environment ini."
+    },
+    {
+      "page_name": "Explore Digital",
+      "page_id": "1056353334220959",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=1056353334220959",
+      "product": "Template PPT estetik ('Bikin PPT Estetik Tanpa Jago Desain') - toko multi-produk (juga draf khotbah, 20.000+ file MIDI, script arsip PHP, invoice otomatis)",
+      "format": "template presentasi + produk digital lain",
+      "price_seen": null,
+      "active_ads": 97,
+      "oldest_active_start": "2026-07-10",
+      "max_days_running": 103,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "1036466599115650",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1036466599115650",
+          "start": "2026-07-10",
+          "days": 103,
+          "link_title": "Bikin PPT Estetik Tanpa Jago Desain!"
+        },
+        {
+          "ad_id": "1125593470340598",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1125593470340598",
+          "start": "2026-07-10",
+          "days": 103,
+          "link_title": "Bikin PPT Estetik Tanpa Jago Desain!"
+        },
+        {
+          "ad_id": "1305862231762692",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1305862231762692",
+          "start": "2026-07-11",
+          "days": 101,
+          "link_title": "Bikin PPT Estetik Tanpa Jago Desain!"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "97 iklan aktif di berbagai produk; iklan PPT estetik jalan sejak Jul 2026 (~103 hari)."
+    },
+    {
+      "page_name": "Terlahir Kreatif",
+      "page_id": "172191395988557",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=172191395988557",
+      "product": "Megapack Canva 17-an (template panitia/acara 17 Agustus)",
+      "format": "template Canva musiman",
+      "price_seen": "Rp39.000",
+      "active_ads": 2,
+      "oldest_active_start": "2026-07-23",
+      "max_days_running": 90,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "4486041875017119",
+          "ad_url": "https://www.facebook.com/ads/library/?id=4486041875017119",
+          "start": "2026-07-23",
+          "days": 90,
+          "link_title": "Megapack Canva 17-an Lengkap - Cuma 39rb!"
+        },
+        {
+          "ad_id": "1364775645802203",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1364775645802203",
+          "start": "2026-07-23",
+          "days": 90,
+          "link_title": "Rahasia Panitia 17-an Cepat & Anti Pusing!"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Template musiman yang iklannya masih aktif ~90 hari."
+    },
+    {
+      "page_name": "BM Flowforge",
+      "page_id": "1159407650599566",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=1159407650599566",
+      "product": "Toko bundle: 1000+ template sosmed Canva, 640+ mockup Canva, 800-1000+ preset Lightroom, bundle After Effects, template PPT bisnis + 4.500 icon; juga template Excel (keuangan, guru) & 150 rumus Excel",
+      "format": "bundle template/preset/mockup",
+      "price_seen": null,
+      "active_ads": 10,
+      "oldest_active_start": "2026-08-05",
+      "max_days_running": 77,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "1624086292669346",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1624086292669346",
+          "start": "2026-08-05",
+          "days": 77,
+          "link_title": "20+ Template Excel Guru & Siswa Lengkap"
+        },
+        {
+          "ad_id": "2016771633044427",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2016771633044427",
+          "start": "2026-08-05",
+          "days": 77,
+          "link_title": "Kumpulan 150 Rumus Excel Lengkap + Aplikasi Perhitungan Pesangon"
+        },
+        {
+          "ad_id": "1324576152765645",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1324576152765645",
+          "start": "2026-08-05",
+          "days": 76,
+          "link_title": "1000+ Social Media Template Canva Premium"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "10 iklan, semua sejak awal Agt 2026 (~77 hari). Overlap dengan niche Excel."
+    },
+    {
+      "page_name": "Tone & Touch",
+      "page_id": "485252248008395",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=485252248008395",
+      "product": "Tone & Touch - Premium Presets With One Touch (preset foto/Lightroom)",
+      "format": "preset Lightroom",
+      "price_seen": null,
+      "active_ads": 112,
+      "oldest_active_start": "2026-08-08",
+      "max_days_running": 73,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "4613568135590152",
+          "ad_url": "https://www.facebook.com/ads/library/?id=4613568135590152",
+          "start": "2026-08-08",
+          "days": 73,
+          "link_title": "(tanpa judul)"
+        },
+        {
+          "ad_id": "1054307613749488",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1054307613749488",
+          "start": "2026-08-08",
+          "days": 73,
+          "link_title": "(tanpa judul)"
+        },
+        {
+          "ad_id": "1061525183401044",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1061525183401044",
+          "start": "2026-08-21",
+          "days": 60,
+          "link_title": "(tanpa judul)"
+        }
+      ],
+      "lp_url": "https://toneandtouch.xyz",
+      "lp_source": "domain_hint",
+      "notes": "112 iklan aktif (volume terbesar di niche ini); hanya 50 terbaru terlihat, umur tertua kemungkinan > 73 hari. Domain toneandtouch.xyz tertulis di judul link. URL diturunkan dari nama halaman/judul link (domain), belum diverifikasi - WebFetch tidak berfungsi di environment ini."
+    },
+    {
+      "page_name": "Thirty in Three",
+      "page_id": "1320380897823703",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=1320380897823703",
+      "product": "Thirty in Three - 30 template Canva siap pakai (15 feed + 15 story) untuk bisnis",
+      "format": "template feed/story Instagram (Canva)",
+      "price_seen": null,
+      "active_ads": 2,
+      "oldest_active_start": "2026-08-19",
+      "max_days_running": 62,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "1556938012832641",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1556938012832641",
+          "start": "2026-08-19",
+          "days": 62,
+          "link_title": "Satu template Canva, puluhan desain siap pakai."
+        },
+        {
+          "ad_id": "2794272270942922",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2794272270942922",
+          "start": "2026-08-20",
+          "days": 62,
+          "link_title": "30 template siap pakai (15 Feed + 15 Story) yang didesain khusus buat bisnis kalian!"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "2 iklan sejak Agt 2026 (~62 hari)."
+    },
+    {
+      "page_name": "Inviteen.id",
+      "page_id": "726327977239791",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=726327977239791",
+      "product": "Inviteen.id - undangan digital (promo)",
+      "format": "undangan digital",
+      "price_seen": null,
+      "active_ads": 3,
+      "oldest_active_start": "2026-09-13",
+      "max_days_running": 38,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "1654314266088161",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1654314266088161",
+          "start": "2026-09-13",
+          "days": 38,
+          "link_title": "(tanpa judul)"
+        },
+        {
+          "ad_id": "1651316123279585",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1651316123279585",
+          "start": "2026-10-21",
+          "days": 0,
+          "link_title": "Klik Tombol Untuk Ambil Promo"
+        }
+      ],
+      "lp_url": "https://inviteen.id",
+      "lp_source": "domain_hint",
+      "notes": "3 iklan; tertua ~38 hari. URL diturunkan dari nama halaman/judul link (domain), belum diverifikasi - WebFetch tidak berfungsi di environment ini."
+    },
+    {
+      "page_name": "Cumill Official",
+      "page_id": "1398248623362565",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=1398248623362565",
+      "product": "Template Canva Bisnis Digital + E-Book + Template Premium",
+      "format": "template Canva + ebook",
+      "price_seen": null,
+      "active_ads": 1,
+      "oldest_active_start": "2026-09-17",
+      "max_days_running": 33,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "1763394481360425",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1763394481360425",
+          "start": "2026-09-17",
+          "days": 33,
+          "link_title": "Template Canva Bisnis Digital E-Book + Template Premium"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "1 iklan, ~33 hari (CTA chat)."
+    },
+    {
+      "page_name": "Vanesha Presets",
+      "page_id": "270060752858048",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=270060752858048",
+      "product": "Vanesha Presets - preset foto (NOIRX, YUNX, AREUM, Analog, Complete Bundle 'Unlimited Vibes')",
+      "format": "preset Lightroom",
+      "price_seen": null,
+      "active_ads": 15,
+      "oldest_active_start": "2026-09-26",
+      "max_days_running": 24,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "1803946204069646",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1803946204069646",
+          "start": "2026-09-26",
+          "days": 24,
+          "link_title": "NOIRX"
+        },
+        {
+          "ad_id": "1434483711873184",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1434483711873184",
+          "start": "2026-09-26",
+          "days": 24,
+          "link_title": "YOUNGX & YUNX a Super Bright, Calming And Comforting"
+        },
+        {
+          "ad_id": "1450552043627883",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1450552043627883",
+          "start": "2026-10-07",
+          "days": 13,
+          "link_title": "Maximum Bright and Beauty"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "15 iklan, tertua ~24 hari - hampir WINNING."
+    },
+    {
+      "page_name": "Audi - Canva Template",
+      "page_id": "1458232944032484",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=1458232944032484",
+      "product": "Bundel 350 Poster F&B UMKM siap edit (Canva)",
+      "format": "template Canva poster",
+      "price_seen": "Rp57.000",
+      "active_ads": 10,
+      "oldest_active_start": "2026-10-16",
+      "max_days_running": 4,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "974347825738307",
+          "ad_url": "https://www.facebook.com/ads/library/?id=974347825738307",
+          "start": "2026-10-16",
+          "days": 4,
+          "link_title": "Bundel Poster F&B UMKM, Rp57.000"
+        },
+        {
+          "ad_id": "2267665417109485",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2267665417109485",
+          "start": "2026-10-16",
+          "days": 4,
+          "link_title": "Bundel Poster F&B UMKM, Rp57.000"
+        },
+        {
+          "ad_id": "1629304005400201",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1629304005400201",
+          "start": "2026-10-16",
+          "days": 4,
+          "link_title": "Bundel Poster F&B UMKM, Rp57.000"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "10 iklan, semua < 5 hari."
+    },
+    {
+      "page_name": "IFocus Mastery",
+      "page_id": "1026245927227248",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=1026245927227248",
+      "product": "iFocus Mastery - kelas foto iPhone ('Kamu cuma pakai 20% potensi kamera iPhone-mu')",
+      "format": "e-course fotografi HP",
+      "price_seen": null,
+      "active_ads": 7,
+      "oldest_active_start": "2026-09-28",
+      "max_days_running": 22,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "1424473429775742",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1424473429775742",
+          "start": "2026-09-28",
+          "days": 22,
+          "link_title": "Kamu Cuma Pakai 20% Potensi Kamera iPhone-mu"
+        },
+        {
+          "ad_id": "1767947507662971",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1767947507662971",
+          "start": "2026-09-28",
+          "days": 22,
+          "link_title": "iFocus Mastery"
+        },
+        {
+          "ad_id": "1009928128790456",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1009928128790456",
+          "start": "2026-09-29",
+          "days": 22,
+          "link_title": "Satu Ketukan Jari, Foto Kayak Pro"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "7 iklan, tertua ~22 hari."
+    },
+    {
+      "page_name": "Preset Lightroom Tama's Studiop",
+      "page_id": "1138363649365896",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=1138363649365896",
+      "product": "Cinematic Preset Lightroom & LUTs video filter, Fujifilm preset",
+      "format": "preset Lightroom + LUT",
+      "price_seen": null,
+      "active_ads": 3,
+      "oldest_active_start": "2026-09-29",
+      "max_days_running": 21,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "2185851542366616",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2185851542366616",
+          "start": "2026-09-29",
+          "days": 21,
+          "link_title": "BISA CEK DI SINI"
+        },
+        {
+          "ad_id": "1762320885288663",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1762320885288663",
+          "start": "2026-10-13",
+          "days": 8,
+          "link_title": "Fujifilm Preset"
+        },
+        {
+          "ad_id": "29921414174114485",
+          "ad_url": "https://www.facebook.com/ads/library/?id=29921414174114485",
+          "start": "2026-10-15",
+          "days": 5,
+          "link_title": "Cinematic Preset Lightroom & LUTs Video Filter"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "3 iklan, tertua ~21 hari."
+    },
+    {
+      "page_name": "Preset by Kampus Visual",
+      "page_id": "1050476574807707",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=1050476574807707",
+      "product": "Preset by Kampus Visual - 'Feed Estetik Tanpa Jago Ngedit'",
+      "format": "preset Lightroom",
+      "price_seen": null,
+      "active_ads": 9,
+      "oldest_active_start": "2026-10-14",
+      "max_days_running": 7,
+      "status": "BARU",
+      "winning_ads": [
+        {
+          "ad_id": "2691941611220234",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2691941611220234",
+          "start": "2026-10-14",
+          "days": 7,
+          "link_title": "Feed Estetik Tanpa Jago Ngedit"
+        },
+        {
+          "ad_id": "2890401531345976",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2890401531345976",
+          "start": "2026-10-14",
+          "days": 7,
+          "link_title": "Feed Estetik Tanpa Jago Ngedit"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "9 iklan, ~7 hari."
+    },
+    {
+      "page_name": "Hanami visuals",
+      "page_id": "1129734450217505",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=1129734450217505",
+      "product": "1000+ Preset Premium",
+      "format": "preset Lightroom",
+      "price_seen": null,
+      "active_ads": 9,
+      "oldest_active_start": "2026-10-16",
+      "max_days_running": 4,
+      "status": "BARU",
+      "winning_ads": [
+        {
+          "ad_id": "1091862266943482",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1091862266943482",
+          "start": "2026-10-16",
+          "days": 4,
+          "link_title": "1000+ Preset Premium"
+        },
+        {
+          "ad_id": "2384429015423921",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2384429015423921",
+          "start": "2026-10-16",
+          "days": 4,
+          "link_title": "1000+ Preset Premium"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "9 iklan, ~4 hari."
+    },
+    {
+      "page_name": "ArtistryTone Preset",
+      "page_id": "1151946738009751",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=1151946738009751",
+      "product": "ArtistryTone Preset (promo gajian 30%, kode GAJIAN30)",
+      "format": "preset Lightroom",
+      "price_seen": null,
+      "active_ads": 8,
+      "oldest_active_start": "2026-10-16",
+      "max_days_running": 4,
+      "status": "BARU",
+      "winning_ads": [
+        {
+          "ad_id": "1112111938448260",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1112111938448260",
+          "start": "2026-10-16",
+          "days": 4,
+          "link_title": "Promo Gajian 30%! CODE: GAJIAN30"
+        },
+        {
+          "ad_id": "1085040844340931",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1085040844340931",
+          "start": "2026-10-16",
+          "days": 4,
+          "link_title": "Promo Gajian 30%! CODE: GAJIAN30"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "8 iklan, ~5 hari. Angle promo gajian/kode diskon."
+    },
+    {
+      "page_name": "Cerdas Digital",
+      "page_id": "659215283931386",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=659215283931386",
+      "product": "Kelas 'Belajar Canva dari Nol dalam 14 Hari'",
+      "format": "e-course Canva",
+      "price_seen": null,
+      "active_ads": 6,
+      "oldest_active_start": "2026-10-16",
+      "max_days_running": 4,
+      "status": "BARU",
+      "winning_ads": [
+        {
+          "ad_id": "2182425945816140",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2182425945816140",
+          "start": "2026-10-16",
+          "days": 4,
+          "link_title": "Promo terbatas! Klik tombol Beli Sekarang dan mulai kuasai Canva hari ini."
+        },
+        {
+          "ad_id": "1702538811590003",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1702538811590003",
+          "start": "2026-10-17",
+          "days": 4,
+          "link_title": "Belajar sekali, skill bisa dipakai berkali-kali."
+        },
+        {
+          "ad_id": "2300683930666676",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2300683930666676",
+          "start": "2026-10-17",
+          "days": 4,
+          "link_title": "Dulu Tidak Bisa Desain, Sekarang Bisa Bikin Sendiri"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "6 iklan, ~4 hari."
+    },
+    {
+      "page_name": "Canva Supply Template",
+      "page_id": "539712132555470",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=539712132555470",
+      "product": "500+ template Canva (feed IG bisnis, konten jualan)",
+      "format": "template Canva",
+      "price_seen": "Rp99.000",
+      "active_ads": 6,
+      "oldest_active_start": "2026-10-19",
+      "max_days_running": 1,
+      "status": "BARU",
+      "winning_ads": [
+        {
+          "ad_id": "1130713566091719",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1130713566091719",
+          "start": "2026-10-19",
+          "days": 1,
+          "link_title": "Bikin Konten Cuma 3 Menit"
+        },
+        {
+          "ad_id": "1427715212810451",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1427715212810451",
+          "start": "2026-10-20",
+          "days": 1,
+          "link_title": "Template Canva buat kamu yang pegang banyak klien"
+        },
+        {
+          "ad_id": "4843722489181200",
+          "ad_url": "https://www.facebook.com/ads/library/?id=4843722489181200",
+          "start": "2026-10-20",
+          "days": 0,
+          "link_title": "500 lebih template Canva, cukup Rp99 ribu"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "6 iklan, ~1 hari."
+    },
+    {
+      "page_name": "Preset Photo",
+      "page_id": "381043621983742",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ID&view_all_page_id=381043621983742",
+      "product": "Preset Photo (preset foto)",
+      "format": "preset",
+      "price_seen": null,
+      "active_ads": 5,
+      "oldest_active_start": "2026-10-16",
+      "max_days_running": 4,
+      "status": "BARU",
+      "winning_ads": [
+        {
+          "ad_id": "1119286584083337",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1119286584083337",
+          "start": "2026-10-16",
+          "days": 4,
+          "link_title": "(tanpa judul)"
+        },
+        {
+          "ad_id": "1088008770680131",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1088008770680131",
+          "start": "2026-10-19",
+          "days": 2,
+          "link_title": "(tanpa judul)"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "5 iklan tanpa judul link, ~5 hari."
+    }
+  ],
+  "insights": {
+    "price_range": "Rp11.000 - Rp99.000 (terlihat: Canva 17-an Rp39K, Nestetika feed estetik Rp49K, poster F&B Rp57K, 500+ template Canva Rp99K; undangan digital mulai Rp20K-Rp49K).",
+    "angles": [
+      "'Gak bisa desain? Pakai template' / 'Feed estetik tanpa jago ngedit'",
+      "Volume: 350 poster, 500+/1000+/10.000 template, 1000+ preset",
+      "Template per vertikal: F&B UMKM, bisnis, panitia 17-an (musiman)",
+      "Preset dengan nama 'look' (NOIRX, Analog, Fujifilm, Apple-style) + promo gajian/kode diskon",
+      "Undangan digital murah & cepat jadi ('Mulai Rp49.000, jadi 1 hari') dan peluang buka jasa undangan digital",
+      "Template Canva siap jual ulang (overlap PLR)"
+    ],
+    "formats": [
+      "Template Canva (feed/story, poster, presentasi)",
+      "Preset Lightroom / LUT",
+      "Undangan digital (web invitation)",
+      "Bundle mockup/After Effects",
+      "Kelas Canva / desain"
+    ],
+    "summary": "Kata kunci 'template canva' (1.694) dan 'undangan digital' (1.111) bervolume tinggi, tapi banyak hasilnya adalah jasa offline/WO, aplikasi asing atau dokumen kerja. Pemain dengan volume iklan terbesar: Tone & Touch (112 iklan preset) dan viding.co (53 iklan undangan digital). Iklan template umumnya umur pendek (banyak tester baru < 7 hari: Hanami, Kampus Visual, ArtistryTone, Canva Supply). Yang evergreen: desainmurah.co (409 hari), Bayu Store (10.000 template Canva siap jual, 159 hari), Explore Digital (template PPT, 103 hari), BM Flowforge (multi-bundle, 77 hari). Contoh LP pesaing dari pencarian (bukan dari pengiklan di atas): lynk.id/stiv.vnn/mq1y28gzp7kv (10.000+ template Canva ~Rp11K), lynk.id/aqshodigital/67GK1nr (template Canva PLR), lynk.id/rizfrey/dmqd3py29772 (10.000++ template Canva Rp12.599). Catatan LP: WebFetch tidak berfungsi di environment ini dan lynk.id diblokir, jadi LP tidak bisa diverifikasi."
+  }
+}

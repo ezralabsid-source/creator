@@ -1,0 +1,183 @@
+<title>Peta Niche Produk Digital</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=Source+Sans+3:wght@400;600;700&family=JetBrains+Mono:wght@400;600&display=swap">
+<style>
+/* Layout: research ledger — summary ranking up top, then one section per niche with its advertiser table */
+:root {
+  --bg: #f4f6f8;
+  --surface: #ffffff;
+  --fg: #16202b;
+  --muted: #5d6b79;
+  --line: #d9e0e7;
+  --accent: #1f5fc4;
+  --accent-soft: #e3ecfb;
+  --win: #157347;
+  --win-bg: #def3e7;
+  --pot: #94600a;
+  --pot-bg: #fbefd6;
+  --new: #5d6b79;
+  --new-bg: #e9edf1;
+  --font-display: "Bricolage Grotesque", "Segoe UI", system-ui, sans-serif;
+  --font-body: "Source Sans 3", "Segoe UI", system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, Menlo, monospace;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg: #0f151c; --surface: #17202a; --fg: #e6ecf2; --muted: #95a3b2; --line: #2a3644;
+  --accent: #7fa8ee; --accent-soft: #1c2c45; --win: #6fd29d; --win-bg: #173527; --pot: #f0c26b; --pot-bg: #3a2c12;
+  --new: #a4b0bd; --new-bg: #243040; color-scheme: dark } }
+:root[data-theme="dark"] {
+  --bg: #0f151c; --surface: #17202a; --fg: #e6ecf2; --muted: #95a3b2; --line: #2a3644;
+  --accent: #7fa8ee; --accent-soft: #1c2c45; --win: #6fd29d; --win-bg: #173527; --pot: #f0c26b; --pot-bg: #3a2c12;
+  --new: #a4b0bd; --new-bg: #243040; color-scheme: dark }
+
+body { background: var(--bg); color: var(--fg); font-family: var(--font-body); font-size: 15px; line-height: 1.5; }
+.wrap { max-width: 1280px; margin: 0 auto; padding-block: 32px 64px; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); display: grid; gap: 40px; }
+.wrap > *, .niche > * { min-width: 0; }
+a { color: var(--accent); text-decoration: none; }
+a:hover { text-decoration: underline; }
+a:focus-visible, button:focus-visible, input:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+h1, h2, h3 { font-family: var(--font-display); text-wrap: balance; margin: 0; }
+h1 { font-size: clamp(1.9rem, 4vw, 2.8rem); font-weight: 800; letter-spacing: -0.02em; line-height: 1.1; }
+h2 { font-size: 1.6rem; font-weight: 800; letter-spacing: -0.01em; }
+h3 { font-size: 1rem; font-weight: 600; }
+.num { font-family: var(--font-mono); font-variant-numeric: tabular-nums; font-size: 0.86em; }
+.muted { color: var(--muted); }
+.eyebrow { font-family: var(--font-mono); font-size: 0.72rem; letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); }
+
+.intro { display: grid; gap: 14px; max-width: 75ch; }
+.intro p { margin: 0; color: var(--muted); }
+.kpis { display: flex; flex-wrap: wrap; gap: 28px; margin-top: 6px; }
+.kpis div { display: grid; }
+.kpis b { font-family: var(--font-display); font-size: 1.8rem; font-weight: 800; line-height: 1; }
+.kpis span { font-size: 0.82rem; color: var(--muted); }
+
+.method { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 18px 20px; display: grid; gap: 8px; max-width: 90ch; }
+.method ul { margin: 0; padding-left: 1.2em; display: grid; gap: 4px; }
+.pill { display: inline-block; font-family: var(--font-mono); font-size: 0.7rem; font-weight: 600; letter-spacing: 0.04em; padding: 2px 8px; border-radius: 999px; white-space: nowrap; }
+.pill-winning { color: var(--win); background: var(--win-bg); }
+.pill-potensial { color: var(--pot); background: var(--pot-bg); }
+.pill-baru { color: var(--new); background: var(--new-bg); }
+
+.table-wrap { overflow-x: auto; border: 1px solid var(--line); border-radius: 10px; background: var(--surface); }
+table { border-collapse: collapse; width: 100%; }
+th, td { text-align: left; vertical-align: top; padding: 10px 12px; border-bottom: 1px solid var(--line); }
+th { font-family: var(--font-mono); font-size: 0.7rem; letter-spacing: 0.06em; text-transform: uppercase; color: var(--muted); font-weight: 600; background: var(--bg); position: sticky; top: 0; }
+tbody tr:last-child td { border-bottom: 0; }
+.rank-table td { vertical-align: middle; }
+.bar-cell { min-width: 200px; }
+.bar-line { display: flex; align-items: center; gap: 10px; }
+.bar { flex: 1; height: 8px; background: var(--accent-soft); border-radius: 4px; overflow: hidden; }
+.bar span { display: block; height: 100%; background: var(--accent); }
+
+.nav { display: flex; flex-wrap: wrap; gap: 6px; }
+.nav a { font-size: 0.85rem; padding: 4px 10px; border: 1px solid var(--line); border-radius: 999px; background: var(--surface); color: var(--fg); }
+.nav a:hover { border-color: var(--accent); text-decoration: none; }
+
+.toolbar { display: flex; flex-wrap: wrap; gap: 12px; align-items: center; position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5; background: var(--bg); padding-block: 10px; border-bottom: 1px solid var(--line); }
+body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); z-index: 10; background: var(--bg); }
+.toolbar input[type="search"] { flex: 1 1 220px; min-width: 0; font: inherit; padding: 7px 12px; border: 1px solid var(--line); border-radius: 8px; background: var(--surface); color: var(--fg); }
+.toolbar label { display: flex; gap: 6px; align-items: center; font-size: 0.9rem; cursor: pointer; }
+
+.niche { display: grid; gap: 16px; scroll-margin-top: 70px; }
+.niche-head { display: grid; gap: 6px; }
+.stats { display: flex; flex-wrap: wrap; gap: 6px 20px; font-size: 0.9rem; color: var(--muted); }
+.stats b { color: var(--fg); font-family: var(--font-mono); }
+.insight { display: grid; gap: 10px; max-width: 95ch; }
+.insight p { margin: 0; }
+.insight dl { margin: 0; display: grid; gap: 4px; }
+.insight dl div { display: grid; grid-template-columns: 130px 1fr; gap: 10px; }
+.insight dt { color: var(--muted); font-size: 0.88rem; }
+.insight dd { margin: 0; min-width: 0; }
+.angles { margin: 0; padding-left: 1.2em; display: grid; gap: 2px; }
+
+.adv-table { min-width: 1100px; font-size: 0.9rem; }
+.adv { font-weight: 700; color: var(--fg); }
+.pid, .meta, .note { display: block; font-size: 0.76rem; color: var(--muted); }
+.pid { font-family: var(--font-mono); }
+.note { font-style: italic; margin-top: 2px; }
+.ads { margin: 0; padding: 0; list-style: none; display: grid; gap: 6px; }
+.ads a { font-family: var(--font-mono); font-size: 0.8rem; }
+.ads .days { font-family: var(--font-mono); font-size: 0.72rem; color: var(--win); font-weight: 600; }
+.ads .t { font-size: 0.76rem; color: var(--muted); }
+.lp a, .lp .hint { word-break: break-all; font-size: 0.85rem; }
+.hint { font-family: var(--font-mono); color: var(--fg); }
+.src { display: block; font-family: var(--font-mono); font-size: 0.66rem; letter-spacing: 0.04em; text-transform: uppercase; margin-top: 2px; color: var(--muted); }
+.src-verified { color: var(--win); }
+.niche.empty { display: none; }
+
+@media (max-width: 560px) {
+  .insight dl div { grid-template-columns: 1fr; gap: 0; }
+  .kpis { gap: 18px; }
+}
+@media (prefers-reduced-motion: no-preference) { html { scroll-behavior: smooth; } }
+</style>
+
+<div class="wrap">
+  <header class="intro">
+    <span class="eyebrow">Meta Ad Library · Indonesia · iklan aktif per 21 Okt 2026</span>
+    <h1>Peta Niche Produk Digital di Meta Ads Indonesia</h1>
+    <p>Riset {{N_NICHE}} niche produk digital yang paling ramai diiklankan di Facebook &amp; Instagram untuk pasar Indonesia. Tiap niche berisi pengiklan, produk yang dijual, umur iklan aktif terlama, link iklan di Ad Library, dan landing page bila berhasil ditemukan.</p>
+    <div class="kpis">
+      <div><b>{{N_NICHE}}</b><span>niche</span></div>
+      <div><b>{{TOTAL_ADV}}</b><span>pengiklan dicek</span></div>
+      <div><b>{{TOTAL_WIN}}</b><span>berstatus WINNING</span></div>
+      <div><b>{{TOTAL_LP}}</b><span>petunjuk domain LP (belum dicek)</span></div>
+    </div>
+  </header>
+
+  <section class="method">
+    <h3>Cara membaca report ini</h3>
+    <ul>
+      <li><span class="pill pill-winning">WINNING</span> punya iklan yang masih aktif setelah 30 hari atau lebih. Iklan yang rugi biasanya dimatikan dalam 1–2 minggu, jadi iklan yang bertahan lama adalah sinyal paling kuat bahwa iklan itu profit.</li>
+      <li><span class="pill pill-potensial">POTENSIAL</span> iklan aktif tertua 14–29 hari, atau sedang scale dengan 10+ iklan aktif.</li>
+      <li><span class="pill pill-baru">BARU</span> semua iklan di bawah 14 hari. Dicantumkan hanya bila pengiklan WINNING di niche itu kurang dari 10.</li>
+      <li><b>Iklan aktif</b> adalah jumlah iklan aktif halaman itu di Indonesia. Banyak iklan aktif berarti pengiklan sedang menambah budget dan menguji kreatif.</li>
+      <li><b>Peringkat niche</b> diurutkan dari total iklan aktif milik pengiklan produk digital yang tercantum di niche itu. <b>Keyword teratas</b> adalah jumlah iklan aktif untuk keyword dengan hasil terbanyak; angka ini perkiraan Meta dan masih tercampur iklan non-digital (produk fisik, kursus offline), jadi dipakai sebagai pembanding saja.</li>
+      <li>Nama pengiklan membuka semua iklan aktif halaman itu di Ad Library. Kolom iklan winning membuka iklan spesifik. Klik tombol CTA di iklan untuk melihat LP bila kolom LP masih kosong.</li>
+    </ul>
+  </section>
+
+  <section class="niche" id="peringkat">
+    <h2>Peringkat niche berdasarkan jumlah iklan aktif</h2>
+    <div class="table-wrap"><table class="rank-table">
+      <thead><tr><th>#</th><th>Niche</th><th>Iklan aktif pengiklan</th><th>Keyword teratas</th><th>Pengiklan</th><th>WINNING</th><th>Hari terlama</th></tr></thead>
+      <tbody>
+{{RANK_ROWS}}
+      </tbody>
+    </table></div>
+  </section>
+
+  <div class="toolbar">
+    <input type="search" id="q" placeholder="Cari pengiklan atau produk…" aria-label="Cari pengiklan atau produk">
+    <label for="winOnly"><input type="checkbox" id="winOnly"> Hanya WINNING</label>
+  </div>
+  <nav class="nav" aria-label="Lompat ke niche">{{NAV}}</nav>
+
+{{SECTIONS}}
+
+  <footer class="muted" style="font-size:0.85rem;max-width:90ch">
+    Sumber: Meta Ad Library (ads_library_search, negara ID, status aktif), diambil 21 Oktober 2026. Ad Library tidak menampilkan spend atau penjualan, jadi status WINNING disimpulkan dari umur iklan dan jumlah iklan aktif. Link LP dicari lewat pencarian web dan ditandai sumbernya; LP bisa berubah sewaktu-waktu.
+  </footer>
+</div>
+
+<script>
+(function () {
+  var q = document.getElementById('q');
+  var win = document.getElementById('winOnly');
+  function apply() {
+    var term = (q.value || '').toLowerCase();
+    document.querySelectorAll('section.niche[id]:not(#peringkat)').forEach(function (sec) {
+      var shown = 0;
+      sec.querySelectorAll('tbody tr').forEach(function (tr) {
+        var ok = (!win.checked || tr.dataset.status === 'WINNING') && (!term || tr.textContent.toLowerCase().indexOf(term) !== -1);
+        tr.hidden = !ok;
+        if (ok) shown++;
+      });
+      sec.classList.toggle('empty', shown === 0);
+    });
+  }
+  q.addEventListener('input', apply);
+  win.addEventListener('change', apply);
+})();
+</script>

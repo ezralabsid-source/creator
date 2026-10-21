@@ -1,0 +1,632 @@
+{
+  "niche": "Natural Remedies & Herbalism (buku remedies, kursus herbal, foraging)",
+  "slug": "natural-remedies",
+  "keywords": [
+    {
+      "term": "herbal remedies",
+      "active_ads_id": 7093
+    },
+    {
+      "term": "herbalism",
+      "active_ads_id": 3358
+    },
+    {
+      "term": "herbalist",
+      "active_ads_id": 4425
+    },
+    {
+      "term": "natural remedies book",
+      "active_ads_id": 2102
+    },
+    {
+      "term": "medicinal plants",
+      "active_ads_id": 1559
+    },
+    {
+      "term": "home remedies",
+      "active_ads_id": 6681
+    },
+    {
+      "term": "remedios caseros",
+      "active_ads_id": 215
+    },
+    {
+      "term": "wild edibles",
+      "active_ads_id": 114
+    },
+    {
+      "term": "foraging",
+      "active_ads_id": 890
+    },
+    {
+      "term": "herbal course",
+      "active_ads_id": 2300
+    }
+  ],
+  "advertisers": [
+    {
+      "page_name": "The Forager's Guide to Wild Foods",
+      "page_id": "152225927976428",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=152225927976428",
+      "product": "The Forager's Guide to Wild Foods (Nicole Apelian) — panduan 400+ tanaman liar edible & medicinal (peta, look-alike beracun, resep)",
+      "format": "book (fisik + digital)",
+      "price_seen": null,
+      "active_ads": 50,
+      "oldest_active_start": "2026-05-28",
+      "max_days_running": 145,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "1219249576844773",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1219249576844773",
+          "start": "2026-05-28",
+          "days": 145,
+          "link_title": "400+ Edible & Medicinal Plants Most People Walk Past"
+        },
+        {
+          "ad_id": "1025151537134329",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1025151537134329",
+          "start": "2026-06-01",
+          "days": 142,
+          "link_title": "400+ Edible & Medicinal Plants most People Walk Past"
+        },
+        {
+          "ad_id": "1616857270003293",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1616857270003293",
+          "start": "2026-06-02",
+          "days": 140,
+          "link_title": "If you know about this plant, you'll never pass it up"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Iklan tertua ~5 bulan; tepat 50 iklan aktif (semua terlihat). Hook 'They Should Teach This in Schools', 'This Book Can Save Your Life in A Crisis'. Satu jaringan dengan Lost Book of Herbal Remedies (Apelian/Claude Davis). Situs resmi tidak ditemukan via search."
+    },
+    {
+      "page_name": "Herbal Academy",
+      "page_id": "274302752658165",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=274302752658165",
+      "product": "The Herbal Academy — Introductory Herbal Course (self-paced online) + lead magnet ebook gratis & FREE Online Herbal Summit (3 Days, 12 Plants)",
+      "format": "online course + free summit/ebook",
+      "price_seen": "mulai $58.50/bln (Introductory Herbal Course)",
+      "active_ads": 31,
+      "oldest_active_start": "2026-07-14",
+      "max_days_running": 99,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "1496961115081036",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1496961115081036",
+          "start": "2026-07-14",
+          "days": 99,
+          "link_title": "Download your free copy today!"
+        },
+        {
+          "ad_id": "1538278161407473",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1538278161407473",
+          "start": "2026-07-22",
+          "days": 90,
+          "link_title": "Download your free copy today!"
+        },
+        {
+          "ad_id": "1890194348810525",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1890194348810525",
+          "start": "2026-09-21",
+          "days": 29,
+          "link_title": "Begin Your Herbalism Journey"
+        }
+      ],
+      "lp_url": "https://theherbalacademy.com/?p=337448",
+      "lp_source": "search",
+      "notes": "Funnel klasik: free ebook/summit → kursus berbayar. Iklan lead magnet aktif ~3 bulan."
+    },
+    {
+      "page_name": "The Lost Skills Academy",
+      "page_id": "163974800139975",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=163974800139975",
+      "product": "'+150 Plants and Powerful Remedies You Should Know' — buku/ebook tanaman obat",
+      "format": "book/ebook",
+      "price_seen": null,
+      "active_ads": 11,
+      "oldest_active_start": "2026-08-13",
+      "max_days_running": 68,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "2187582435357153",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2187582435357153",
+          "start": "2026-08-13",
+          "days": 68,
+          "link_title": "+150 Plants and Powerful Remedies You Should Know 🌿"
+        },
+        {
+          "ad_id": "1316358447110982",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1316358447110982",
+          "start": "2026-08-14",
+          "days": 68,
+          "link_title": "+150 Plants and Powerful Remedies You Should Know 🌿"
+        },
+        {
+          "ad_id": "1094450382970265",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1094450382970265",
+          "start": "2026-09-18",
+          "days": 32,
+          "link_title": "150 Plants and Powerful Remedies You Should Know🌿"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Satu kreatif utama dipakai >2 bulan. Search tidak menemukan situs; kemungkinan bagian ekosistem 'Lost Remedies/Lost Skills'."
+    },
+    {
+      "page_name": "The Lost Book of Herbal Remedies",
+      "page_id": "164720644174464",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=164720644174464",
+      "product": "The Lost Book of Herbal Remedies (Nicole Apelian & Claude Davis) — 800+ tanaman & remedies + bonus medicinal garden",
+      "format": "book (fisik + digital) / ebook",
+      "price_seen": "$14.99 (listing Gumroad pihak ketiga); promo 'Up to 71% Off + 3 FREE Gifts'",
+      "active_ads": 100,
+      "oldest_active_start": "2026-08-26",
+      "max_days_running": 56,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "1641739017683085",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1641739017683085",
+          "start": "2026-08-26",
+          "days": 56,
+          "link_title": "800+ Medicinal Plants and Remedies You Should Know"
+        },
+        {
+          "ad_id": "1068260945716525",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1068260945716525",
+          "start": "2026-08-26",
+          "days": 56,
+          "link_title": "800+ Medicinal Plants and Remedies You Should Know"
+        },
+        {
+          "ad_id": "1414928117270226",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1414928117270226",
+          "start": "2026-08-26",
+          "days": 55,
+          "link_title": "Get An Easy To Grow Medicinal Garden"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "100 iklan aktif (>50 → usia 56 hari = batas bawah). Angle 'Nature's Most Effective Aspirin', 'Turn Common Backyard Plants into Powerful Remedies'. Ada listing Gumroad 'officialbookstore' (tidak terverifikasi milik advertiser, tidak dicatat sebagai LP)."
+    },
+    {
+      "page_name": "Botanical Beauty Craft",
+      "page_id": "1255893900947301",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1255893900947301",
+      "product": "Complete Botanical Beauty Formula Book — resep skincare/body care herbal DIY",
+      "format": "ebook",
+      "price_seen": null,
+      "active_ads": 11,
+      "oldest_active_start": "2026-10-05",
+      "max_days_running": 15,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "1122225953700203",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1122225953700203",
+          "start": "2026-10-05",
+          "days": 15,
+          "link_title": "Complete Botanical Beauty Formula Book"
+        },
+        {
+          "ad_id": "1624416099026621",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1624416099026621",
+          "start": "2026-10-05",
+          "days": 15,
+          "link_title": "Complete Botanical Beauty Formula Book"
+        },
+        {
+          "ad_id": "1108171935243830",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1108171935243830",
+          "start": "2026-10-12",
+          "days": 8,
+          "link_title": "Complete Botanical Beauty Formula Book"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Sub-niche herbal DIY beauty; 11 iklan, tertua ~15 hari."
+    },
+    {
+      "page_name": "Homesteading Family",
+      "page_id": "313366399043736",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=313366399043736",
+      "product": "100% FREE: 4-Part Herbal Remedies Training (lead magnet) → Homestead Kitchen Membership/kursus",
+      "format": "free training → membership/course",
+      "price_seen": null,
+      "active_ads": 77,
+      "oldest_active_start": "2026-10-09",
+      "max_days_running": 11,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "2255223445039603",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2255223445039603",
+          "start": "2026-10-09",
+          "days": 11,
+          "link_title": "Homestead Kitchen Magazine: Print + Digital"
+        },
+        {
+          "ad_id": "1093924490095028",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1093924490095028",
+          "start": "2026-10-20",
+          "days": 1,
+          "link_title": "100% FREE: 4-Part Herbal Remedies Training🌿"
+        },
+        {
+          "ad_id": "1630436858866044",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1630436858866044",
+          "start": "2026-10-20",
+          "days": 1,
+          "link_title": "100% FREE: 4-Part Herbal Remedies Training🌿"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Juga tercatat di niche survival. Iklan herbal baru ~1 hari; iklan tertua page (magazine) ~12 hari; 77 iklan (>50, batas bawah)."
+    },
+    {
+      "page_name": "Ecoversity",
+      "page_id": "100749221614979",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=100749221614979",
+      "product": "Ecoversity — 100-Hour Herbalism Program (live online, sertifikat) + FREE Online Herbalism Summit (21–24 Okt)",
+      "format": "online course + free summit",
+      "price_seen": "$269 (program); replay summit $27",
+      "active_ads": 12,
+      "oldest_active_start": "2026-10-16",
+      "max_days_running": 5,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "1132877356094918",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1132877356094918",
+          "start": "2026-10-16",
+          "days": 5,
+          "link_title": "Book Your Free Herbal Learning Call"
+        },
+        {
+          "ad_id": "1669718458160353",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1669718458160353",
+          "start": "2026-10-17",
+          "days": 4,
+          "link_title": "Start Your Herbalism Journey Today!"
+        },
+        {
+          "ad_id": "1889816548681275",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1889816548681275",
+          "start": "2026-10-20",
+          "days": 1,
+          "link_title": "Missed the Herbalism Summit?"
+        }
+      ],
+      "lp_url": "https://www.ecoversity.org/herbalism-summit",
+      "lp_source": "search",
+      "notes": "Funnel summit gratis → call → program 100 jam; ada program afiliasi."
+    },
+    {
+      "page_name": "Old Ways Remedies",
+      "page_id": "693253260544242",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=693253260544242",
+      "product": "'100% Natural Healing Book' / '175+ Hand-Picked Herbal Remedies for Your Health'",
+      "format": "book/ebook",
+      "price_seen": null,
+      "active_ads": 491,
+      "oldest_active_start": "2026-10-16",
+      "max_days_running": 4,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "1160070893009804",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1160070893009804",
+          "start": "2026-10-16",
+          "days": 4,
+          "link_title": "God Stocked the Pharmacy First"
+        },
+        {
+          "ad_id": "1815709312914958",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1815709312914958",
+          "start": "2026-10-16",
+          "days": 4,
+          "link_title": "Get Your's Before It's Gone"
+        },
+        {
+          "ad_id": "2162425157715995",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2162425157715995",
+          "start": "2026-10-19",
+          "days": 1,
+          "link_title": "100% Natural Healing Book"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "491 iklan aktif (EUR) — volume sangat besar, usia batas bawah. Angle religius 'God Stocked the Pharmacy First' + scarcity 'Get Your's Before It's Gone'."
+    },
+    {
+      "page_name": "The Forgotten Home Apothecary",
+      "page_id": "376924548841611",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=376924548841611",
+      "product": "Forgotten Home Apothecary — 250 Powerful Remedies at Your Fingertips (Nicole Apelian), 288 hlm berwarna",
+      "format": "book (fisik + digital)",
+      "price_seen": null,
+      "active_ads": 228,
+      "oldest_active_start": "2026-10-19",
+      "max_days_running": 1,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "1375380301107347",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1375380301107347",
+          "start": "2026-10-19",
+          "days": 1,
+          "link_title": "🌿The Forgotten Home Apothecary"
+        },
+        {
+          "ad_id": "2176127393247822",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2176127393247822",
+          "start": "2026-10-19",
+          "days": 1,
+          "link_title": "🌿The Forgotten Home Apothecary"
+        },
+        {
+          "ad_id": "2165528104391968",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2165528104391968",
+          "start": "2026-10-19",
+          "days": 1,
+          "link_title": "🌿The Forgotten Home Apothecary"
+        }
+      ],
+      "lp_url": "https://forgottenhomeapothecary.com",
+      "lp_source": "search",
+      "notes": "228 iklan aktif (>50; usia hanya batas bawah). Hook '30 Years of Healing Plant Knowledge in One Book', '250 Natural Remedies You Should Keep on Hand'. Domain dari profil Trustpilot produk."
+    },
+    {
+      "page_name": "La botica casera olvidada",
+      "page_id": "836206506247031",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=836206506247031",
+      "product": "La botica casera olvidada — 250 remedios naturales (versi Spanyol ala Forgotten Home Apothecary), target Hispanik US",
+      "format": "book/ebook (Spanyol)",
+      "price_seen": null,
+      "active_ads": 118,
+      "oldest_active_start": "2026-10-20",
+      "max_days_running": 1,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "975833832241231",
+          "ad_url": "https://www.facebook.com/ads/library/?id=975833832241231",
+          "start": "2026-10-20",
+          "days": 1,
+          "link_title": "🌿 250 remedios naturales que deberías tener siempre a mano"
+        },
+        {
+          "ad_id": "1715813229519452",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1715813229519452",
+          "start": "2026-10-20",
+          "days": 1,
+          "link_title": "🌿 250 remedios naturales que deberías tener siempre a mano"
+        },
+        {
+          "ad_id": "1081097754927168",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1081097754927168",
+          "start": "2026-10-20",
+          "days": 0,
+          "link_title": "La botica casera olvidada | 🌿 250 remedios naturales"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "118 iklan (>50, batas bawah). Menunjukkan peluang lokalisasi bahasa Spanyol untuk pasar Hispanik US."
+    },
+    {
+      "page_name": "Gabriel Ferrari",
+      "page_id": "1323597044167133",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1323597044167133",
+      "product": "Bundle '4 libros por el precio de 1 · 76% OFF' (ebook remedios caseros, Spanyol)",
+      "format": "ebook bundle (Spanyol)",
+      "price_seen": "76% OFF (4 buku harga 1)",
+      "active_ads": 16,
+      "oldest_active_start": "2026-10-20",
+      "max_days_running": 0,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "1111895848209306",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1111895848209306",
+          "start": "2026-10-20",
+          "days": 0,
+          "link_title": "4 libros por el precio de 1 · 76 % OFF"
+        },
+        {
+          "ad_id": "947126304777812",
+          "ad_url": "https://www.facebook.com/ads/library/?id=947126304777812",
+          "start": "2026-10-20",
+          "days": 0,
+          "link_title": "4 libros por el precio de 1 · 76 % OFF"
+        },
+        {
+          "ad_id": "3073346363016261",
+          "ad_url": "https://www.facebook.com/ads/library/?id=3073346363016261",
+          "start": "2026-10-20",
+          "days": 0,
+          "link_title": "4 libros por el precio de 1 · 76 % OFF"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Persona page; muncul di pencarian 'remedios caseros'. Topik persis buku tidak terlihat dari judul link."
+    },
+    {
+      "page_name": "La Botica de Marta",
+      "page_id": "1367530613112773",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1367530613112773",
+      "product": "Produk remedies berbahasa Spanyol (judul link hanya rating '⭐⭐⭐⭐⭐ 4.9/5')",
+      "format": "ebook (Spanyol, belum pasti)",
+      "price_seen": null,
+      "active_ads": 9,
+      "oldest_active_start": "2026-10-18",
+      "max_days_running": 3,
+      "status": "BARU",
+      "winning_ads": [
+        {
+          "ad_id": "2600533810373585",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2600533810373585",
+          "start": "2026-10-18",
+          "days": 3,
+          "link_title": "⭐⭐⭐⭐⭐ 4.9/5"
+        },
+        {
+          "ad_id": "1993511061325287",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1993511061325287",
+          "start": "2026-10-18",
+          "days": 3,
+          "link_title": "⭐⭐⭐⭐⭐ 4.9/5"
+        },
+        {
+          "ad_id": "1754815308956644",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1754815308956644",
+          "start": "2026-10-18",
+          "days": 3,
+          "link_title": "⭐⭐⭐⭐⭐ 4.9/5"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Produk akhir tidak terlihat dari Ad Library; muncul di pencarian 'remedios caseros'."
+    },
+    {
+      "page_name": "Dr. Elderberry",
+      "page_id": "263467464440163",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=263467464440163",
+      "product": "Program herbalism/naturopathy online 2 tahun terakreditasi ('2 years. Accredited. Remote.')",
+      "format": "online program",
+      "price_seen": null,
+      "active_ads": 5,
+      "oldest_active_start": "2026-10-20",
+      "max_days_running": 1,
+      "status": "BARU",
+      "winning_ads": [
+        {
+          "ad_id": "1452484553680310",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1452484553680310",
+          "start": "2026-10-20",
+          "days": 1,
+          "link_title": "2 years. Accredited. Remote."
+        },
+        {
+          "ad_id": "2598189597311938",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2598189597311938",
+          "start": "2026-10-20",
+          "days": 1,
+          "link_title": "2 years. Accredited. Remote."
+        },
+        {
+          "ad_id": "1650530980036607",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1650530980036607",
+          "start": "2026-10-20",
+          "days": 1,
+          "link_title": "2 years. Accredited. Remote."
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Program panjang (high-ticket) — beda model dengan buku impuls."
+    },
+    {
+      "page_name": "worldherblibrary",
+      "page_id": "106982099114880",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=106982099114880",
+      "product": "World Herbal Library — direktori edukasi & sekolah herbal",
+      "format": "resource/directory",
+      "price_seen": null,
+      "active_ads": 1,
+      "oldest_active_start": "2026-10-19",
+      "max_days_running": 1,
+      "status": "BARU",
+      "winning_ads": [
+        {
+          "ad_id": "1480469883898720",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1480469883898720",
+          "start": "2026-10-19",
+          "days": 1,
+          "link_title": "World Herbal Library | Herbal Education, Herbal Schools & Herbalism Resources"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Baru 1 iklan."
+    },
+    {
+      "page_name": "Herbal Medics Academy / The Human Path",
+      "page_id": "177585743836",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=177585743836",
+      "product": "Clinical Herbalism, Advanced Herbal Medicine Making & Wilderness Medicine — kelas online & on-site",
+      "format": "online + on-site course",
+      "price_seen": null,
+      "active_ads": 1,
+      "oldest_active_start": "2026-10-20",
+      "max_days_running": 0,
+      "status": "BARU",
+      "winning_ads": [
+        {
+          "ad_id": "29584828424452860",
+          "ad_url": "https://www.facebook.com/ads/library/?id=29584828424452860",
+          "start": "2026-10-20",
+          "days": 0,
+          "link_title": "Herbal Medics Academy - Clinical Herbalism, Advanced Herbal Medicine Making and Wilderness Medicine, Online and On-Site Classes!"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Baru 1 iklan."
+    },
+    {
+      "page_name": "Columbines School of Botanical Studies",
+      "page_id": "218950524787198",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=218950524787198",
+      "product": "Sekolah botanical/herbal studies (program belajar herbal)",
+      "format": "course/school",
+      "price_seen": null,
+      "active_ads": 1,
+      "oldest_active_start": "2026-10-21",
+      "max_days_running": 0,
+      "status": "BARU",
+      "winning_ads": [
+        {
+          "ad_id": "1103716992421345",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1103716992421345",
+          "start": "2026-10-21",
+          "days": 0,
+          "link_title": ""
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Baru 1 iklan, judul kosong."
+    }
+  ],
+  "insights": {
+    "price_range": "Buku/ebook remedies $14.99–$39 dengan diskon besar ('Up to 71% Off + 3 FREE Gifts', '76% OFF 4 libros'); kursus herbal $58.50/bln (Herbal Academy) hingga program $269 (Ecoversity); program akreditasi 2 tahun (high-ticket).",
+    "angles": [
+      "'Lost/Forgotten' — pengetahuan nenek moyang yang hilang ('God Stocked the Pharmacy First', '30 Years of Healing Plant Knowledge in One Book')",
+      "Angka besar sebagai hook: 150 / 175 / 250 / 400 / 800+ plants & remedies",
+      "Krisis/kemandirian: 'This Book Can Save Your Life in A Crisis'",
+      "Halaman belakang rumah: 'Turn Common Backyard Plants into Powerful Remedies', medicinal garden",
+      "Free summit/free ebook → kursus (Herbal Academy, Ecoversity)",
+      "Lokalisasi Spanyol untuk Hispanik US (La botica casera olvidada, Gabriel Ferrari)"
+    ],
+    "formats": [
+      "Buku fisik + digital bundle (franchise Nicole Apelian/Claude Davis)",
+      "Ebook remedies & bundle multi-buku",
+      "Kursus online self-paced/live + summit gratis",
+      "Program sertifikasi/akreditasi online"
+    ],
+    "summary": "Niche herbal remedies di US didominasi ekosistem buku 'Lost Remedies' (Lost Book of Herbal Remedies, Forgotten Home Apothecary, Forager's Guide, Old Ways Remedies) dengan ratusan iklan aktif dan kreatif yang bertahan 2–5 bulan. Sekolah herbal online (Herbal Academy, Ecoversity) memakai funnel free summit/ebook. Banyak advertiser 'herbal' lain sebenarnya menjual suplemen fisik (Royal Jelly, Ceylon Cinnamon, mullein, tincture) dan sengaja dikeluarkan."
+  }
+}

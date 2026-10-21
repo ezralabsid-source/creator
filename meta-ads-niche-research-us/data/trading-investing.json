@@ -1,0 +1,799 @@
+{
+  "niche": "Trading & Investing Education (kursus saham/opsi/futures/forex/kripto, indikator TradingView, komunitas trading)",
+  "slug": "trading-investing",
+  "keywords": [
+    {
+      "term": "options trading (noise: broker/app)",
+      "active_ads_id": 3510
+    },
+    {
+      "term": "day trading course (noise: drama/novel apps)",
+      "active_ads_id": 3425
+    },
+    {
+      "term": "options trading course (noise)",
+      "active_ads_id": 529
+    },
+    {
+      "term": "trading indicator",
+      "active_ads_id": 444
+    },
+    {
+      "term": "futures trading course",
+      "active_ads_id": 203
+    },
+    {
+      "term": "crypto trading course",
+      "active_ads_id": 76
+    },
+    {
+      "term": "TradingView indicator",
+      "active_ads_id": 63
+    },
+    {
+      "term": "forex trading course",
+      "active_ads_id": 49
+    }
+  ],
+  "advertisers": [
+    {
+      "page_name": "Flux Charts",
+      "page_id": "127983353618248",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=127983353618248",
+      "product": "Indikator TradingView premium: Price Action Toolkit, SFX Algo (AI Buy/Sell Indicator), strategi scalping/pullback",
+      "format": "indikator TradingView (langganan)",
+      "price_seen": null,
+      "active_ads": 34,
+      "oldest_active_start": "2025-12-31",
+      "max_days_running": 293,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "1588096919048025",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1588096919048025",
+          "start": "2025-12-31",
+          "days": 293,
+          "link_title": "{{product.name}}"
+        },
+        {
+          "ad_id": "1561434984982340",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1561434984982340",
+          "start": "2025-12-31",
+          "days": 293,
+          "link_title": "{{product.name}}"
+        },
+        {
+          "ad_id": "956316567229351",
+          "ad_url": "https://www.facebook.com/ads/library/?id=956316567229351",
+          "start": "2026-05-29",
+          "days": 144,
+          "link_title": "Should You Buy Flux Charts? Watch This Review First"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Pengiklan paling evergreen di niche ini: 34 iklan aktif, iklan katalog dinamis ({{product.name}}) jalan ~9,7 bulan, plus batch kreatif ~5 bulan ('Should You Buy Flux Charts? Watch This Review First', 'How This Strategy Made $7,200 in Profit', 'Rated 5 stars by Active Traders'). Angle: review/social proof, 'Stupid Simple Strategy', fokus payout prop firm. LP tidak dicari (kuota web search habis)."
+    },
+    {
+      "page_name": "Always A Student",
+      "page_id": "1108018972386717",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1108018972386717",
+      "product": "Edukasi trading (judul iklan kosong; ditemukan lewat keyword trading)",
+      "format": "tidak teridentifikasi (kemungkinan course/komunitas)",
+      "price_seen": null,
+      "active_ads": 3,
+      "oldest_active_start": "2026-04-22",
+      "max_days_running": 181,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "1014740958400222",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1014740958400222",
+          "start": "2026-04-22",
+          "days": 181,
+          "link_title": ""
+        },
+        {
+          "ad_id": "1728756678119530",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1728756678119530",
+          "start": "2026-05-29",
+          "days": 144,
+          "link_title": ""
+        },
+        {
+          "ad_id": "4728294077403287",
+          "ad_url": "https://www.facebook.com/ads/library/?id=4728294077403287",
+          "start": "2026-06-10",
+          "days": 132,
+          "link_title": ""
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "3 iklan aktif, tertua ~6 bulan, semua tanpa link title sehingga produk persisnya tidak bisa dipastikan dari data Ad Library. Perlu cek visual lewat link iklan."
+    },
+    {
+      "page_name": "Flux Charts Trading",
+      "page_id": "885163328018948",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=885163328018948",
+      "product": "Page kedua Flux Charts: indikator price action, supply & demand, backtesting",
+      "format": "indikator TradingView (langganan)",
+      "price_seen": null,
+      "active_ads": 9,
+      "oldest_active_start": "2026-06-02",
+      "max_days_running": 141,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "2051357222448145",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2051357222448145",
+          "start": "2026-06-02",
+          "days": 141,
+          "link_title": "Simplify Your Trading and Focus on Payouts"
+        },
+        {
+          "ad_id": "1012858921423886",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1012858921423886",
+          "start": "2026-06-02",
+          "days": 141,
+          "link_title": "Trade Pullbacks—Not Tops and Bottoms."
+        },
+        {
+          "ad_id": "1305811441640886",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1305811441640886",
+          "start": "2026-06-02",
+          "days": 140,
+          "link_title": "Simplify Your Trading and Focus on Payouts"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "9 iklan aktif, semua ~5 bulan. Brand yang sama memakai 2 page (scale lewat beberapa page). Hook: 'Stop Hoping—Start Backtesting', 'If You Trade Price Action Without This, You're at a Disadvantage'."
+    },
+    {
+      "page_name": "QuantVue",
+      "page_id": "109827095027833",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=109827095027833",
+      "product": "Automasi trading futures/prop firm ('Automate your prop trading', 'Pass Your Challenges')",
+      "format": "algo/bot + indikator (langganan)",
+      "price_seen": null,
+      "active_ads": 41,
+      "oldest_active_start": "2026-06-29",
+      "max_days_running": 113,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "1029794169448778",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1029794169448778",
+          "start": "2026-06-29",
+          "days": 113,
+          "link_title": "Automate your prop trading ✅"
+        },
+        {
+          "ad_id": "29342814642072900",
+          "ad_url": "https://www.facebook.com/ads/library/?id=29342814642072900",
+          "start": "2026-10-20",
+          "days": 1,
+          "link_title": "Pass Your Challenges ✅"
+        },
+        {
+          "ad_id": "1097031636657444",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1097031636657444",
+          "start": "2026-10-20",
+          "days": 1,
+          "link_title": "Pass Your Challenges ✅"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Minimal 41 iklan aktif (batas bawah). Satu iklan evergreen ~3,8 bulan, lalu 40+ varian baru 'Pass Your Challenges' (lolos evaluasi prop firm). Angle prop firm sedang sangat panas di US."
+    },
+    {
+      "page_name": "Launchpad A.I.",
+      "page_id": "1070971539432884",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1070971539432884",
+      "product": "Indikator AI 'One Color Bar. 26 Signals.' / 'Flip The Lights On Your Charts'",
+      "format": "indikator trading (langganan)",
+      "price_seen": null,
+      "active_ads": 20,
+      "oldest_active_start": "2026-08-04",
+      "max_days_running": 78,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "3144779002400100",
+          "ad_url": "https://www.facebook.com/ads/library/?id=3144779002400100",
+          "start": "2026-08-04",
+          "days": 78,
+          "link_title": "Flip The Lights On Your Charts"
+        },
+        {
+          "ad_id": "1522493766292090",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1522493766292090",
+          "start": "2026-08-04",
+          "days": 78,
+          "link_title": "Flip The Lights On Your Charts"
+        },
+        {
+          "ad_id": "880638158140262",
+          "ad_url": "https://www.facebook.com/ads/library/?id=880638158140262",
+          "start": "2026-08-04",
+          "days": 78,
+          "link_title": "Flip The Lights On Your Charts"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Minimal 20 iklan aktif (batas bawah, pengecekan gabungan melebihi 50). Kreatif 'Flip The Lights On Your Charts' jalan ~2,6 bulan, lalu batch 'One Color Bar. 26 Signals.' ~28 hari. Angle: penyederhanaan chart menjadi 1 warna."
+    },
+    {
+      "page_name": "LuxAlgo",
+      "page_id": "101499821517270",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=101499821517270",
+      "product": "Platform indikator/charting + 'Quant' AI strategy builder & backtesting",
+      "format": "indikator + tools (langganan)",
+      "price_seen": null,
+      "active_ads": 27,
+      "oldest_active_start": "2026-08-21",
+      "max_days_running": 60,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "2156329611926596",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2156329611926596",
+          "start": "2026-08-21",
+          "days": 60,
+          "link_title": ""
+        },
+        {
+          "ad_id": "1071949411938247",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1071949411938247",
+          "start": "2026-08-21",
+          "days": 60,
+          "link_title": "Wall Street Trades on Algorithms. Now You Can Too."
+        },
+        {
+          "ad_id": "1072882048822095",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1072882048822095",
+          "start": "2026-08-21",
+          "days": 60,
+          "link_title": "Describe Your Strategy. Quant Builds It."
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "27 iklan aktif, tertua ~60 hari. Pemain indikator terbesar (bukan kursus murni), dimasukkan sebagai benchmark. Hook: 'See Inside Every Candle', 'Charts You Can Talk To', 'Know Your Strategy Works Before You Risk a Dollar'."
+    },
+    {
+      "page_name": "AlgoSniper Indicator",
+      "page_id": "117671011275776",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=117671011275776",
+      "product": "Indikator entry ('The Indicator I Use for My Entries', 'Check All Three Before You Trade')",
+      "format": "indikator trading",
+      "price_seen": null,
+      "active_ads": 2,
+      "oldest_active_start": "2026-09-05",
+      "max_days_running": 45,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "1591169299214102",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1591169299214102",
+          "start": "2026-09-05",
+          "days": 45,
+          "link_title": "The Indicator I Use for My Entries"
+        },
+        {
+          "ad_id": "1122406296952311",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1122406296952311",
+          "start": "2026-09-28",
+          "days": 22,
+          "link_title": "Check All Three Before You Trade"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Minimal 2 iklan aktif, tertua ~45 hari. Hook gaya personal 'indikator yang saya pakai'."
+    },
+    {
+      "page_name": "The Level Beast",
+      "page_id": "746927201838855",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=746927201838855",
+      "product": "Level harian support/resistance siap pakai ('Get today's levels before the open')",
+      "format": "langganan level/indikator harian",
+      "price_seen": null,
+      "active_ads": 6,
+      "oldest_active_start": "2026-09-10",
+      "max_days_running": 40,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "4433132740235262",
+          "ad_url": "https://www.facebook.com/ads/library/?id=4433132740235262",
+          "start": "2026-09-10",
+          "days": 40,
+          "link_title": "Get today's levels before the open"
+        },
+        {
+          "ad_id": "2582736582139549",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2582736582139549",
+          "start": "2026-09-28",
+          "days": 22,
+          "link_title": "The Level Where Price Pivots"
+        },
+        {
+          "ad_id": "1443100844396525",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1443100844396525",
+          "start": "2026-09-28",
+          "days": 22,
+          "link_title": "Get today's levels before the open"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Minimal 6 iklan aktif, tertua ~40 hari. Produk 'done-for-you levels' setiap pagi, angle hemat waktu."
+    },
+    {
+      "page_name": "Crypto & Forex Education",
+      "page_id": "1266022466601771",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1266022466601771",
+      "product": "Edukasi kripto & forex (judul iklan kosong)",
+      "format": "course/komunitas (tidak terverifikasi)",
+      "price_seen": null,
+      "active_ads": 1,
+      "oldest_active_start": "2026-09-16",
+      "max_days_running": 34,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "1758664265252967",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1758664265252967",
+          "start": "2026-09-16",
+          "days": 34,
+          "link_title": ""
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "1 iklan aktif ~35 hari tanpa link title. Ditemukan lewat keyword 'crypto trading course'."
+    },
+    {
+      "page_name": "Timothy Sykes",
+      "page_id": "8835114131",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=8835114131",
+      "product": "'Use My Small-Cap Stock Indicator' (funnel ke program/alert penny stock)",
+      "format": "indikator/alert + course",
+      "price_seen": null,
+      "active_ads": 40,
+      "oldest_active_start": "2026-10-20",
+      "max_days_running": 0,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "1426658755552085",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1426658755552085",
+          "start": "2026-10-20",
+          "days": 0,
+          "link_title": "Use My Small-Cap Stock Indicator"
+        },
+        {
+          "ad_id": "1116201730774431",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1116201730774431",
+          "start": "2026-10-20",
+          "days": 0,
+          "link_title": "Use My Small-Cap Stock Indicator"
+        },
+        {
+          "ad_id": "971661052105287",
+          "ad_url": "https://www.facebook.com/ads/library/?id=971661052105287",
+          "start": "2026-10-20",
+          "days": 0,
+          "link_title": "Use My Small-Cap Stock Indicator"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Minimal 40 iklan aktif, semua <1 hari (batas bawah; >50 iklan sehingga iklan lama tidak terlihat). Guru penny stock besar, sedang scale satu judul."
+    },
+    {
+      "page_name": "Sean Trades",
+      "page_id": "640206972499482",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=640206972499482",
+      "product": "3 Day Live Workshop (trading)",
+      "format": "workshop live -> program",
+      "price_seen": null,
+      "active_ads": 39,
+      "oldest_active_start": "2026-10-20",
+      "max_days_running": 0,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "2989469941415835",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2989469941415835",
+          "start": "2026-10-20",
+          "days": 0,
+          "link_title": "3 Day Live Workshop"
+        },
+        {
+          "ad_id": "1098535569434364",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1098535569434364",
+          "start": "2026-10-20",
+          "days": 0,
+          "link_title": "3 Day Live Workshop"
+        },
+        {
+          "ad_id": "1070694252683016",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1070694252683016",
+          "start": "2026-10-20",
+          "days": 0,
+          "link_title": "3 Day Live Workshop"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Minimal 39 iklan, semua ~1 hari (batas bawah)."
+    },
+    {
+      "page_name": "Markus Heitkoetter",
+      "page_id": "465139643350027",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=465139643350027",
+      "product": "Free Training 'See How Markus Is Using AI To Invest' + angle 'A German Engineer's Son Boring Approach to Personal Finance' (funnel Rockwell Trading)",
+      "format": "webinar -> program/komunitas investasi",
+      "price_seen": null,
+      "active_ads": 36,
+      "oldest_active_start": "2026-09-23",
+      "max_days_running": 27,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "4079819058977523",
+          "ad_url": "https://www.facebook.com/ads/library/?id=4079819058977523",
+          "start": "2026-09-23",
+          "days": 27,
+          "link_title": "A German Engineer's Son \"Boring\" Approach to Personal Finance"
+        },
+        {
+          "ad_id": "2302456013629501",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2302456013629501",
+          "start": "2026-09-23",
+          "days": 27,
+          "link_title": "A German Engineer's Son \"Boring\" Approach to Personal Finance"
+        },
+        {
+          "ad_id": "1059011686730579",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1059011686730579",
+          "start": "2026-09-24",
+          "days": 27,
+          "link_title": "A German Engineer's Son \"Boring\" Approach to Personal Finance"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Minimal 36 iklan aktif, tertua ~27,8 hari (hampir WINNING). Angle 'boring/aman' + AI investing, menyasar audiens usia lebih tua."
+    },
+    {
+      "page_name": "David Delaney",
+      "page_id": "103059792891398",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=103059792891398",
+      "product": "'How To Build A Trading Research Team In Claude Code In Under An Hour' (AI untuk riset trading)",
+      "format": "training/webinar -> program",
+      "price_seen": null,
+      "active_ads": 36,
+      "oldest_active_start": "2026-10-18",
+      "max_days_running": 2,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "2138718253400776",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2138718253400776",
+          "start": "2026-10-18",
+          "days": 2,
+          "link_title": "How To Build A Trading Research Team In Claude Code In Under An Hour."
+        },
+        {
+          "ad_id": "1474311888095207",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1474311888095207",
+          "start": "2026-10-20",
+          "days": 0,
+          "link_title": "How To Build A Trading Team In Claude Code"
+        },
+        {
+          "ad_id": "29125402723763906",
+          "ad_url": "https://www.facebook.com/ads/library/?id=29125402723763906",
+          "start": "2026-10-20",
+          "days": 0,
+          "link_title": "How To Build A Trading Research Team In Claude Code In Under An Hour."
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Minimal 36 iklan (kemungkinan 50+), tertua ~2,7 hari. Angle baru: AI agent (Claude Code) untuk riset trading."
+    },
+    {
+      "page_name": "Base Camp Trading",
+      "page_id": "585172718324133",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=585172718324133",
+      "product": "Edukasi opsi: 'Opening Bell' trade, 'Make One Simple Options Trade Each Morning. Be Done by 10 AM', 'Spot Institutional Grade Trading Signals'",
+      "format": "webinar -> membership/course opsi",
+      "price_seen": null,
+      "active_ads": 26,
+      "oldest_active_start": "2026-10-08",
+      "max_days_running": 13,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "1723532305390658",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1723532305390658",
+          "start": "2026-10-08",
+          "days": 13,
+          "link_title": "Make One Simple Options Trade Each Morning. Be Done by 10 AM"
+        },
+        {
+          "ad_id": "1782527669459228",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1782527669459228",
+          "start": "2026-10-08",
+          "days": 13,
+          "link_title": "Why 9 Out Of 10 Options Traders Lose"
+        },
+        {
+          "ad_id": "2355296241962681",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2355296241962681",
+          "start": "2026-10-13",
+          "days": 7,
+          "link_title": "Thousands of traders are using this \"Opening Bell\" Trade To Grow Their Accounts!"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Minimal 26 iklan (batas bawah, cek gabungan melebihi 50), tertua yang terlihat ~13 hari. Rotasi banyak hook: 'Why 9 Out Of 10 Options Traders Lose', 'It's not WHAT you trade... Its WHEN'."
+    },
+    {
+      "page_name": "TraDeca",
+      "page_id": "657985844070021",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=657985844070021",
+      "product": "Edukasi trading ('I wish I had known this earlier')",
+      "format": "course",
+      "price_seen": null,
+      "active_ads": 24,
+      "oldest_active_start": "2026-10-08",
+      "max_days_running": 12,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "1412824200374245",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1412824200374245",
+          "start": "2026-10-08",
+          "days": 12,
+          "link_title": "\"I wish I had known this earlier\""
+        },
+        {
+          "ad_id": "2030021840992910",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2030021840992910",
+          "start": "2026-10-08",
+          "days": 12,
+          "link_title": "\"I wish I had known this earlier\""
+        },
+        {
+          "ad_id": "1384696647080578",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1384696647080578",
+          "start": "2026-10-08",
+          "days": 12,
+          "link_title": "\"I wish I had known this earlier\""
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Minimal 24 iklan (batas bawah), tertua terlihat ~12,6 hari. Satu hook penyesalan dipakai di banyak kreatif."
+    },
+    {
+      "page_name": "Find Better Trades",
+      "page_id": "1044761212259448",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1044761212259448",
+      "product": "TriTrader+ (deteksi pola segitiga/trendline otomatis, real-time alert) + 'Read Charts Like a Trader'",
+      "format": "indikator/tool + mini course",
+      "price_seen": "$19 lifetime access",
+      "active_ads": 17,
+      "oldest_active_start": "2026-10-09",
+      "max_days_running": 11,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "1712796963857839",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1712796963857839",
+          "start": "2026-10-09",
+          "days": 11,
+          "link_title": "https://research.findbettertrades.com/tritrader"
+        },
+        {
+          "ad_id": "1980050046733947",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1980050046733947",
+          "start": "2026-10-09",
+          "days": 11,
+          "link_title": "🔥 Limited-Time TriTrader Offer"
+        },
+        {
+          "ad_id": "1661948121953273",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1661948121953273",
+          "start": "2026-10-09",
+          "days": 11,
+          "link_title": "🔥 Limited-Time TriTrader Offer"
+        }
+      ],
+      "lp_url": "https://research.findbettertrades.com/tritrader",
+      "lp_source": "domain_hint",
+      "notes": "Minimal 17 iklan, tertua ~12 hari. Tripwire $19 lifetime ('Stop Drawing Triangles by Hand'). LP diambil langsung dari link title iklan (domain_hint)."
+    },
+    {
+      "page_name": "Jooviers Gems",
+      "page_id": "104285899247620",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=104285899247620",
+      "product": "Edukasi trading ('Why are you always on the wrong side of the trade?')",
+      "format": "course/komunitas",
+      "price_seen": null,
+      "active_ads": 16,
+      "oldest_active_start": "2026-10-05",
+      "max_days_running": 15,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "4602250653391149",
+          "ad_url": "https://www.facebook.com/ads/library/?id=4602250653391149",
+          "start": "2026-10-05",
+          "days": 15,
+          "link_title": "Why are you always on the wrong side of the trade?"
+        },
+        {
+          "ad_id": "29245652728456346",
+          "ad_url": "https://www.facebook.com/ads/library/?id=29245652728456346",
+          "start": "2026-10-20",
+          "days": 0,
+          "link_title": "Why are you always on the wrong side of the trade?"
+        },
+        {
+          "ad_id": "2557580868043425",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2557580868043425",
+          "start": "2026-10-20",
+          "days": 0,
+          "link_title": "Why are you always on the wrong side of the trade?"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Minimal 16 iklan, tertua ~15 hari; 15 varian baru (<1 hari) dengan hook pain-point yang sama."
+    },
+    {
+      "page_name": "Ninjacators",
+      "page_id": "297602540320722",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=297602540320722",
+      "product": "Indikator & edukasi futures/forex: Forex Expectancy Introduction, kalkulator & panduan E-mini/Nano",
+      "format": "indikator + lead magnet guide",
+      "price_seen": null,
+      "active_ads": 14,
+      "oldest_active_start": "2026-10-01",
+      "max_days_running": 19,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "1810250993327109",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1810250993327109",
+          "start": "2026-10-01",
+          "days": 19,
+          "link_title": "Forex Expectancy Introduction"
+        },
+        {
+          "ad_id": "1636290411548697",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1636290411548697",
+          "start": "2026-10-01",
+          "days": 19,
+          "link_title": "Forex Expectancy Introduction"
+        },
+        {
+          "ad_id": "1122947730416790",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1122947730416790",
+          "start": "2026-10-01",
+          "days": 19,
+          "link_title": "Forex Expectancy Introduction"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Minimal 14 iklan, tertua ~19,5 hari. Banyak lead magnet (kalkulator, guide) untuk trader futures."
+    },
+    {
+      "page_name": "Take Profit Trader",
+      "page_id": "106539291887048",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=106539291887048",
+      "product": "Beginner Futures Course 100% Free / 'Your First 5 Days in Futures' (funnel ke akun evaluasi prop firm)",
+      "format": "free course -> prop firm evaluation",
+      "price_seen": "Gratis (course)",
+      "active_ads": 12,
+      "oldest_active_start": "2026-10-02",
+      "max_days_running": 18,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "1599390088513420",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1599390088513420",
+          "start": "2026-10-02",
+          "days": 18,
+          "link_title": "Beginner Futures Course 100% Free"
+        },
+        {
+          "ad_id": "2127281354544728",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2127281354544728",
+          "start": "2026-10-05",
+          "days": 15,
+          "link_title": "Beginner Futures Course 100% Free"
+        },
+        {
+          "ad_id": "1615768643422196",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1615768643422196",
+          "start": "2026-10-05",
+          "days": 15,
+          "link_title": "Your First 5 Days in Futures. 100% Free."
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Minimal 12 iklan, tertua ~18,7 hari. Catatan: ini prop firm (bukan broker); kursus gratis dipakai sebagai lead magnet."
+    },
+    {
+      "page_name": "Darold Trinh",
+      "page_id": "176753592186667",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=176753592186667",
+      "product": "Free Live Event (trading) -> program berbayar",
+      "format": "event/webinar funnel",
+      "price_seen": null,
+      "active_ads": 9,
+      "oldest_active_start": "2026-09-29",
+      "max_days_running": 22,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "1606196144851592",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1606196144851592",
+          "start": "2026-09-29",
+          "days": 22,
+          "link_title": "Unlock Exclusive Access: Free Live Event"
+        },
+        {
+          "ad_id": "1647654303371485",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1647654303371485",
+          "start": "2026-10-19",
+          "days": 1,
+          "link_title": "Free Live Event - Secure Spot"
+        },
+        {
+          "ad_id": "1905314874178211",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1905314874178211",
+          "start": "2026-10-19",
+          "days": 1,
+          "link_title": "Free Live Event - Secure Spot"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Minimal 9 iklan, tertua ~22 hari."
+    }
+  ],
+  "insights": {
+    "price_range": "Tripwire $19 lifetime (Find Better Trades) -> langganan indikator ~$197/bulan (GT Ignition PRO, Gradient Theory Trading) -> program/coaching high-ticket di balik webinar gratis (harga tidak terlihat)",
+    "angles": [
+      "Indikator 'all-in-one' yang menyederhanakan chart ('One System, Not Six Indicators', 'One Color Bar. 26 Signals.')",
+      "Prop firm: 'Pass Your Challenges', 'Focus on Payouts'",
+      "Review/social proof ('Should You Buy Flux Charts? Watch This Review First', rating bintang 5)",
+      "Hemat waktu: 'Done by 10 AM', 'Done Working By 11am', level siap pakai sebelum market buka",
+      "Pain point: 'Why are you always on the wrong side of the trade?', 'Why 9 Out Of 10 Options Traders Lose'",
+      "AI untuk trading/investasi (Claude Code research team, 'Markus Is Using AI To Invest', LuxAlgo Quant)",
+      "Webinar/workshop live gratis dan kursus futures gratis sebagai lead magnet"
+    ],
+    "formats": [
+      "Indikator TradingView berlangganan",
+      "Webinar/workshop live gratis -> program",
+      "Free course sebagai lead magnet (prop firm)",
+      "Tripwire tool/mini course $19",
+      "Algo/automasi trading"
+    ],
+    "summary": "Di US, iklan trading education yang paling lama hidup bukan kursus melainkan indikator TradingView berlangganan: Flux Charts (~9,7 bulan, 2 page), QuantVue (~3,8 bulan), Launchpad A.I. (~2,6 bulan) dan LuxAlgo (~2 bulan). Guru kursus dan webinar (Timothy Sykes, Sean Trades, Base Camp Trading, David Delaney) memakai puluhan iklan yang sangat baru, yang menandakan rotasi kreatif agresif, bukan iklan evergreen. Broker, exchange, app prediksi (Kalshi) dan iklan sinyal Telegram/scam sengaja dikeluarkan."
+  }
+}

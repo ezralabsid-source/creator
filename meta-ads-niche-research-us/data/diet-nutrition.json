@@ -1,0 +1,716 @@
+{
+  "niche": "Diet & Nutrition Plans (meal plan, GLP-1 companion, keto/carnivore/mediterranean, recipe ebook)",
+  "slug": "diet-nutrition",
+  "keywords": [
+    {
+      "term": "\"meal plan\"",
+      "active_ads_id": 28283
+    },
+    {
+      "term": "GLP-1 meal plan",
+      "active_ads_id": 1565
+    },
+    {
+      "term": "gut health guide",
+      "active_ads_id": 1491
+    },
+    {
+      "term": "keto meal plan",
+      "active_ads_id": 750
+    },
+    {
+      "term": "anti-inflammatory diet guide",
+      "active_ads_id": 92
+    },
+    {
+      "term": "high protein recipes ebook",
+      "active_ads_id": 54
+    },
+    {
+      "term": "\"recipes\" cookbook ebook",
+      "active_ads_id": 45
+    }
+  ],
+  "advertisers": [
+    {
+      "page_name": "Heal Better Daily",
+      "page_id": "822554804279996",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=822554804279996",
+      "product": "30-Day Mediterranean Anti-Inflammatory Meal Plan & Cookbook (90+ Healing Recipes)",
+      "format": "ebook meal plan + cookbook",
+      "price_seen": null,
+      "active_ads": 3,
+      "oldest_active_start": "2026-01-16",
+      "max_days_running": 277,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "1539319900655229",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1539319900655229",
+          "start": "2026-01-16",
+          "days": 277,
+          "link_title": "30-Day Mediterranean Anti-Inflammatory Meal Plan & Cookbook (90+ Healing Recipes)"
+        },
+        {
+          "ad_id": "2093862541373475",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2093862541373475",
+          "start": "2026-01-16",
+          "days": 277,
+          "link_title": "30-Day Mediterranean Anti-Inflammatory Meal Plan & Cookbook (90+ Healing Recipes)"
+        },
+        {
+          "ad_id": "902798405609538",
+          "ad_url": "https://www.facebook.com/ads/library/?id=902798405609538",
+          "start": "2026-01-16",
+          "days": 277,
+          "link_title": "Sabine Hartmann | Linktree"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Iklan evergreen ~9 bulan dengan budget kecil (3 iklan, akun KES). Persona penulis 'Sabine Hartmann' via Linktree. Contoh klasik low-content ebook meal plan anti-inflamasi."
+    },
+    {
+      "page_name": "Daniel M Sullivan",
+      "page_id": "1025137990676667",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1025137990676667",
+      "product": "The Complete Dr. Nowzaradan 1200-Calorie Meal Plan (buku di Google Play Books)",
+      "format": "ebook (Google Play Books)",
+      "price_seen": null,
+      "active_ads": 1,
+      "oldest_active_start": "2026-02-16",
+      "max_days_running": 247,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "1532484054508544",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1532484054508544",
+          "start": "2026-02-16",
+          "days": 247,
+          "link_title": "The Complete Dr. Nowzaradan 1200-Calorie Meal Plan: Proven, Balanced Recipes for Effective Weight Loss and Lasting Wellness by Miles Carter Reeves - Books on Google Play"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "1 iklan jalan ~8 bulan mengarah ke Google Play Books (URL persis tidak terlihat). Menunggangi nama Dr. Nowzaradan (1200 kalori) - model KDP/low-content."
+    },
+    {
+      "page_name": "KICA International Pastry Academy",
+      "page_id": "472881386133278",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=472881386133278",
+      "product": "Cookbook digital pastry: Ultimate Tarts & Tartlets, Big Cheesecake Book, Gluten-free Pastries, 20 Apple & Pear Desserts",
+      "format": "recipe ebook / cookbook digital",
+      "price_seen": null,
+      "active_ads": 14,
+      "oldest_active_start": "2026-02-27",
+      "max_days_running": 235,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "1680582529624102",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1680582529624102",
+          "start": "2026-02-27",
+          "days": 235,
+          "link_title": "{{product.name}} (katalog dinamis cookbook)"
+        },
+        {
+          "ad_id": "1375231360721305",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1375231360721305",
+          "start": "2026-08-21",
+          "days": 60,
+          "link_title": "Ultimate Tarts & Tartlets | Strawberry Season Pastries Cookbook | Pastry Collection By Karim Bourgi | Delicious Gluten-free Pastries Cookbook | The Big Cupcake CookBook | The Big Cheesecake Book: 18 foolproof recipes"
+        },
+        {
+          "ad_id": "1104046158738371",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1104046158738371",
+          "start": "2026-08-27",
+          "days": 54,
+          "link_title": ""
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Akademi pastry (EUR) menjual cookbook digital via iklan katalog dinamis; iklan katalog jalan ~7,5 bulan. Lebih ke recipe ebook umum daripada diet."
+    },
+    {
+      "page_name": "Zach Wein",
+      "page_id": "116911528036778",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=116911528036778",
+      "product": "The Systematic Approach to Weight Loss - coaching penurunan berat badan untuk pria",
+      "format": "coaching online",
+      "price_seen": null,
+      "active_ads": 13,
+      "oldest_active_start": "2026-04-11",
+      "max_days_running": 192,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "1236303854955327",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1236303854955327",
+          "start": "2026-04-11",
+          "days": 192,
+          "link_title": "instagram.com"
+        },
+        {
+          "ad_id": "1569515434334083",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1569515434334083",
+          "start": "2026-10-01",
+          "days": 20,
+          "link_title": ""
+        },
+        {
+          "ad_id": "3524056117764400",
+          "ad_url": "https://www.facebook.com/ads/library/?id=3524056117764400",
+          "start": "2026-10-19",
+          "days": 1,
+          "link_title": "The Systematic Approach to Weight Loss Learn how 350+ men have lost 50+lbs permanently with a proven system"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Angle: '350+ pria turun 50+ lbs permanen dengan sistem'. Satu iklan ke Instagram jalan ~6 bulan."
+    },
+    {
+      "page_name": "FoodiesGuide",
+      "page_id": "107324184300909",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=107324184300909",
+      "product": "FAT LOSS ebook (resep cepat & mudah)",
+      "format": "ebook resep / fat loss",
+      "price_seen": null,
+      "active_ads": 9,
+      "oldest_active_start": "2026-07-13",
+      "max_days_running": 99,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "3439976062833322",
+          "ad_url": "https://www.facebook.com/ads/library/?id=3439976062833322",
+          "start": "2026-07-13",
+          "days": 99,
+          "link_title": ""
+        },
+        {
+          "ad_id": "942190391682617",
+          "ad_url": "https://www.facebook.com/ads/library/?id=942190391682617",
+          "start": "2026-09-15",
+          "days": 35,
+          "link_title": "Grab my FAT LOSS ebook! | Grab my FAT LOSS ebook!"
+        },
+        {
+          "ad_id": "2522486931589159",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2522486931589159",
+          "start": "2026-09-21",
+          "days": 29,
+          "link_title": "Grab my FAT LOSS ebook!"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Creator resep (EUR) menjual ebook fat loss; juga iklan berbahasa Portugis ('Receitas rápidas e fáceis de seguir')."
+    },
+    {
+      "page_name": "Cook with kels",
+      "page_id": "130526106812133",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=130526106812133",
+      "product": "Lunchbox ideas / snack recipe ebook untuk keluarga",
+      "format": "recipe ebook",
+      "price_seen": null,
+      "active_ads": 77,
+      "oldest_active_start": "2026-07-27",
+      "max_days_running": 85,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "1418207663697147",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1418207663697147",
+          "start": "2026-07-27",
+          "days": 85,
+          "link_title": "Most families spend $2,000+ a year on snacks that are gone in days."
+        },
+        {
+          "ad_id": "1069203072435203",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1069203072435203",
+          "start": "2026-07-27",
+          "days": 85,
+          "link_title": "Most families spend $2,000+ a year on snacks that are gone in days."
+        },
+        {
+          "ad_id": "1423314873030926",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1423314873030926",
+          "start": "2026-08-18",
+          "days": 64,
+          "link_title": "🥪 Never Wonder What to Pack in Their Lunchbox Again"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Creator AUD; angle hemat uang & ide bekal anak. Banyak varian creative 'Never Wonder What to Pack in Their Lunchbox Again'. Halaman punya >50 iklan aktif; hanya 50 terbaru yang terlihat, jadi umur iklan adalah batas bawah."
+    },
+    {
+      "page_name": "Elisabeth.says",
+      "page_id": "973401275857984",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=973401275857984",
+      "product": "Bundle 4-7 buku resep dessert sehat tanpa gula rafinasi (healthy dessert ebooks)",
+      "format": "bundle recipe ebook",
+      "price_seen": null,
+      "active_ads": 83,
+      "oldest_active_start": "2026-09-02",
+      "max_days_running": 48,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "27939558415702563",
+          "ad_url": "https://www.facebook.com/ads/library/?id=27939558415702563",
+          "start": "2026-09-02",
+          "days": 48,
+          "link_title": "Eat dessert. Feel good about it."
+        },
+        {
+          "ad_id": "1877700870270690",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1877700870270690",
+          "start": "2026-09-15",
+          "days": 35,
+          "link_title": "Eat dessert. Feel good about it."
+        },
+        {
+          "ad_id": "1655891986061665",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1655891986061665",
+          "start": "2026-09-22",
+          "days": 28,
+          "link_title": "Stop Choosing Between Healthy and Dessert"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Angle 'dessert sehat' + bundle ('7 Books for Less Than the Price of 4', 'Buy 4, Pay for 2', 'Two of my books are on me'). Hook resep spesifik: 3-ingredient brownies, cake tanpa gula. Halaman punya >50 iklan aktif; hanya 50 terbaru yang terlihat, jadi umur iklan adalah batas bawah."
+    },
+    {
+      "page_name": "Plant Powered with Kristina",
+      "page_id": "485875797943610",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=485875797943610",
+      "product": "Membership plant-based: 3 minggu meal plan high protein plant-based",
+      "format": "membership / meal plan",
+      "price_seen": "30% off (48 jam)",
+      "active_ads": 44,
+      "oldest_active_start": "2026-09-29",
+      "max_days_running": 21,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "1748892339704402",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1748892339704402",
+          "start": "2026-09-29",
+          "days": 21,
+          "link_title": "Join now + get 30% for 48 hours only 💚"
+        },
+        {
+          "ad_id": "1604477004464070",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1604477004464070",
+          "start": "2026-09-29",
+          "days": 21,
+          "link_title": "Join now + get 30% off for 48 hours 💚"
+        },
+        {
+          "ad_id": "4606223089622818",
+          "ad_url": "https://www.facebook.com/ads/library/?id=4606223089622818",
+          "start": "2026-09-29",
+          "days": 21,
+          "link_title": "Join now + get 30% off for 48 hours 💚"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Angle anti-restriksi: 'Stop following rigid plant-based diet rules'; urgensi diskon 48 jam."
+    },
+    {
+      "page_name": "Healthtime",
+      "page_id": "764071750116449",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=764071750116449",
+      "product": "GLP-1 Boost Diet For Women Over 40, Fatty Liver/Cortisol detox plan (advertorial funnel)",
+      "format": "program diet digital (advertorial)",
+      "price_seen": null,
+      "active_ads": 686,
+      "oldest_active_start": "2026-09-30",
+      "max_days_running": 20,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "1567658622067395",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1567658622067395",
+          "start": "2026-09-30",
+          "days": 20,
+          "link_title": "Endocrinologist: 5 Signs You Might Have Fatty Liver (And Why It's the #1 Reason Women Over 40 Can't Lose Weight"
+        },
+        {
+          "ad_id": "2228902911289804",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2228902911289804",
+          "start": "2026-09-30",
+          "days": 20,
+          "link_title": "Fatty Liver Makes You Fat - Here's How To Stop It"
+        },
+        {
+          "ad_id": "1104815442018050",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1104815442018050",
+          "start": "2026-09-30",
+          "days": 20,
+          "link_title": "Endocrinologist: 5 Signs You Might Have Fatty Liver (And Why It's the #1 Reason Women Over 40 Can't Lose Weight"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Volume sangat besar (686 iklan). Angle 'X makes you fat' (fatty liver, cortisol, PCOS, endometriosis, fascia, lymphatic) untuk wanita 40+/menopause. Bagian dari jaringan funnel yang sama (link title identik 'GLP-1 Boost Diet For Women Over 40' / 'It Only Takes 2 Weeks to Make a Difference') dengan Healthtime, Nancy EatSmart, Dr. Emma Davis, Natural GLP Boost, Mediterranean/Carnivore Diet for Beginners - kemungkinan satu perusahaan quiz-funnel meal plan; format produk final (program digital vs suplemen) belum terverifikasi karena LP tidak bisa dicek. Halaman punya >50 iklan aktif; hanya 50 terbaru yang terlihat, jadi umur iklan adalah batas bawah."
+    },
+    {
+      "page_name": "Nancy EatSmart",
+      "page_id": "1007216755806361",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1007216755806361",
+      "product": "GLP-1 Boost Diet For Women Over 40 / 2-week meal plan (quiz funnel)",
+      "format": "meal plan digital (quiz funnel)",
+      "price_seen": null,
+      "active_ads": 51,
+      "oldest_active_start": "2026-09-30",
+      "max_days_running": 20,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "1565203808981507",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1565203808981507",
+          "start": "2026-09-30",
+          "days": 20,
+          "link_title": "It Only Takes 2 Weeks to Make a Difference"
+        },
+        {
+          "ad_id": "1475997874341426",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1475997874341426",
+          "start": "2026-09-30",
+          "days": 20,
+          "link_title": "It Only Takes 2 Weeks to Make a Difference"
+        },
+        {
+          "ad_id": "1068003105996470",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1068003105996470",
+          "start": "2026-09-30",
+          "days": 20,
+          "link_title": "It Only Takes 2 Weeks to Make a Difference"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Hook: 'Eat Protein First Thing In The Morning', 'ENDOCRINOLOGIST: ... It's Your Liver. Here's the 48-Hour Fix.' Bagian dari jaringan funnel yang sama (link title identik 'GLP-1 Boost Diet For Women Over 40' / 'It Only Takes 2 Weeks to Make a Difference') dengan Healthtime, Nancy EatSmart, Dr. Emma Davis, Natural GLP Boost, Mediterranean/Carnivore Diet for Beginners - kemungkinan satu perusahaan quiz-funnel meal plan; format produk final (program digital vs suplemen) belum terverifikasi karena LP tidak bisa dicek. Halaman punya >50 iklan aktif; hanya 50 terbaru yang terlihat, jadi umur iklan adalah batas bawah."
+    },
+    {
+      "page_name": "NoPowder Vegan",
+      "page_id": "1088249507709687",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1088249507709687",
+      "product": "Panduan/meal plan vegan high protein 100g/hari tanpa protein powder",
+      "format": "ebook meal plan",
+      "price_seen": null,
+      "active_ads": 4,
+      "oldest_active_start": "2026-10-05",
+      "max_days_running": 15,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "2250751642372169",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2250751642372169",
+          "start": "2026-10-05",
+          "days": 15,
+          "link_title": "Hit 100g/day (No Powders)"
+        },
+        {
+          "ad_id": "2172373123387086",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2172373123387086",
+          "start": "2026-10-13",
+          "days": 7,
+          "link_title": "Hit 100g/day (No Powders)"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Niche sempit: vegan + high protein tanpa suplemen. Akun EUR."
+    },
+    {
+      "page_name": "Dr. Emma Davis",
+      "page_id": "1163484226855615",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1163484226855615",
+      "product": "GLP-1 Boost Diet / Pituitary Detox / Cortisol Detox untuk wanita 40+",
+      "format": "program diet digital (advertorial)",
+      "price_seen": null,
+      "active_ads": 39,
+      "oldest_active_start": "2026-10-08",
+      "max_days_running": 12,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "1409623014154658",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1409623014154658",
+          "start": "2026-10-08",
+          "days": 12,
+          "link_title": "GLP-1 Boost Diet For Women Over 40"
+        },
+        {
+          "ad_id": "1769165840837228",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1769165840837228",
+          "start": "2026-10-08",
+          "days": 12,
+          "link_title": "GLP-1 Boost Diet For Women Over 40"
+        },
+        {
+          "ad_id": "1634796648203236",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1634796648203236",
+          "start": "2026-10-08",
+          "days": 12,
+          "link_title": "GLP-1 Boost Diet For Women Over 40"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Persona dokter; hook 'Pituitary Imbalance - Lose 34 Lbs In 6 Weeks'. Bagian dari jaringan funnel yang sama (link title identik 'GLP-1 Boost Diet For Women Over 40' / 'It Only Takes 2 Weeks to Make a Difference') dengan Healthtime, Nancy EatSmart, Dr. Emma Davis, Natural GLP Boost, Mediterranean/Carnivore Diet for Beginners - kemungkinan satu perusahaan quiz-funnel meal plan; format produk final (program digital vs suplemen) belum terverifikasi karena LP tidak bisa dicek."
+    },
+    {
+      "page_name": "Fit & Healthy After 60",
+      "page_id": "1204107226121875",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1204107226121875",
+      "product": "Program nutrisi 'Eat Smarter, Live Longer' untuk usia 60+",
+      "format": "program diet digital (quiz funnel)",
+      "price_seen": null,
+      "active_ads": 65,
+      "oldest_active_start": "2026-10-17",
+      "max_days_running": 3,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "1070461222705468",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1070461222705468",
+          "start": "2026-10-17",
+          "days": 3,
+          "link_title": "Eat Smarter, Live Longer"
+        },
+        {
+          "ad_id": "1592384265968151",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1592384265968151",
+          "start": "2026-10-17",
+          "days": 3,
+          "link_title": "Eat Smarter, Live Longer"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Target senior 60+; creative 'Take a break from scrolling!'. Bagian dari jaringan funnel yang sama (link title identik 'GLP-1 Boost Diet For Women Over 40' / 'It Only Takes 2 Weeks to Make a Difference') dengan Healthtime, Nancy EatSmart, Dr. Emma Davis, Natural GLP Boost, Mediterranean/Carnivore Diet for Beginners - kemungkinan satu perusahaan quiz-funnel meal plan; format produk final (program digital vs suplemen) belum terverifikasi karena LP tidak bisa dicek. Halaman punya >50 iklan aktif; hanya 50 terbaru yang terlihat, jadi umur iklan adalah batas bawah."
+    },
+    {
+      "page_name": "Natural GLP Boost",
+      "page_id": "1255693374300035",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1255693374300035",
+      "product": "'Natural Peptide Production Boost' - diet GLP-1 alami tanpa injeksi",
+      "format": "meal plan digital (quiz funnel)",
+      "price_seen": null,
+      "active_ads": 20,
+      "oldest_active_start": "2026-10-19",
+      "max_days_running": 1,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "1788143205565644",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1788143205565644",
+          "start": "2026-10-19",
+          "days": 1,
+          "link_title": "It Only Takes 2 Weeks to Make a Difference"
+        },
+        {
+          "ad_id": "1123813713364330",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1123813713364330",
+          "start": "2026-10-19",
+          "days": 1,
+          "link_title": "It Only Takes 2 Weeks to Make a Difference"
+        },
+        {
+          "ad_id": "1802749867510176",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1802749867510176",
+          "start": "2026-10-19",
+          "days": 1,
+          "link_title": "Natural Peptide Production Boost. No Injections, No Side Effects."
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Angle GLP-1 alami 'No Injections, No Side Effects'. Bagian dari jaringan funnel yang sama (link title identik 'GLP-1 Boost Diet For Women Over 40' / 'It Only Takes 2 Weeks to Make a Difference') dengan Healthtime, Nancy EatSmart, Dr. Emma Davis, Natural GLP Boost, Mediterranean/Carnivore Diet for Beginners - kemungkinan satu perusahaan quiz-funnel meal plan; format produk final (program digital vs suplemen) belum terverifikasi karena LP tidak bisa dicek."
+    },
+    {
+      "page_name": "GLP Reset Program",
+      "page_id": "1095793796944352",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1095793796944352",
+      "product": "GLP-1 Diet - Protein-first meal plans built around fullness (pendamping pengguna GLP-1)",
+      "format": "meal plan digital",
+      "price_seen": null,
+      "active_ads": 14,
+      "oldest_active_start": "2026-10-20",
+      "max_days_running": 0,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "2618908151961923",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2618908151961923",
+          "start": "2026-10-20",
+          "days": 0,
+          "link_title": "GLP-1 Diet - Protein-first meal plans built around fullness"
+        },
+        {
+          "ad_id": "1117253047309126",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1117253047309126",
+          "start": "2026-10-20",
+          "days": 0,
+          "link_title": "Lose fat, not muscle, on GLP‑1."
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Companion meal plan untuk pengguna Ozempic/GLP-1 ('Lose fat, not muscle'). Iklan multi-bahasa (RU, RO, LV, SV, DA), akun AED."
+    },
+    {
+      "page_name": "Mediterranean Diet for Beginners",
+      "page_id": "637195306145425",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=637195306145425",
+      "product": "Mediterranean Cleanse for Beginners / 2-week Mediterranean meal plan",
+      "format": "meal plan digital (quiz funnel)",
+      "price_seen": null,
+      "active_ads": 6,
+      "oldest_active_start": "2026-10-12",
+      "max_days_running": 8,
+      "status": "BARU",
+      "winning_ads": [
+        {
+          "ad_id": "1150032941027900",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1150032941027900",
+          "start": "2026-10-12",
+          "days": 8,
+          "link_title": "Mediterranean Cleanse for Beginners 🍋"
+        },
+        {
+          "ad_id": "2630961884014435",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2630961884014435",
+          "start": "2026-10-12",
+          "days": 8,
+          "link_title": "It Only Takes 2 Weeks to Make a Difference"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Halaman niche-spesifik dari jaringan funnel yang sama. Bagian dari jaringan funnel yang sama (link title identik 'GLP-1 Boost Diet For Women Over 40' / 'It Only Takes 2 Weeks to Make a Difference') dengan Healthtime, Nancy EatSmart, Dr. Emma Davis, Natural GLP Boost, Mediterranean/Carnivore Diet for Beginners - kemungkinan satu perusahaan quiz-funnel meal plan; format produk final (program digital vs suplemen) belum terverifikasi karena LP tidak bisa dicek."
+    },
+    {
+      "page_name": "Aureon Health Press",
+      "page_id": "1337093036161083",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1337093036161083",
+      "product": "Buku kesehatan + Free Bonus Pack: 60 Recipes + Meal Plan",
+      "format": "ebook + bonus meal plan",
+      "price_seen": null,
+      "active_ads": 2,
+      "oldest_active_start": "2026-10-19",
+      "max_days_running": 2,
+      "status": "BARU",
+      "winning_ads": [
+        {
+          "ad_id": "4437250926538602",
+          "ad_url": "https://www.facebook.com/ads/library/?id=4437250926538602",
+          "start": "2026-10-19",
+          "days": 2,
+          "link_title": "Free Bonus Pack: 60 Recipes + Meal Plan"
+        },
+        {
+          "ad_id": "1609584440018497",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1609584440018497",
+          "start": "2026-10-21",
+          "days": 0,
+          "link_title": "Free Bonus Pack: 60 Recipes + Meal Plan"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Penerbit kecil; bonus resep + meal plan sebagai pemanis offer."
+    },
+    {
+      "page_name": "Carnivore Diet for Beginners",
+      "page_id": "636259362906004",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=636259362906004",
+      "product": "Carnivore diet 2-week plan untuk pemula",
+      "format": "meal plan digital (quiz funnel)",
+      "price_seen": null,
+      "active_ads": 7,
+      "oldest_active_start": "2026-10-20",
+      "max_days_running": 0,
+      "status": "BARU",
+      "winning_ads": [
+        {
+          "ad_id": "1566383708594691",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1566383708594691",
+          "start": "2026-10-20",
+          "days": 0,
+          "link_title": "It Only Takes 2 Weeks to See the Difference"
+        },
+        {
+          "ad_id": "1860701938254696",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1860701938254696",
+          "start": "2026-10-20",
+          "days": 0,
+          "link_title": "It Only Takes 2 Weeks to See the Difference"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Halaman niche carnivore dari jaringan funnel yang sama. Bagian dari jaringan funnel yang sama (link title identik 'GLP-1 Boost Diet For Women Over 40' / 'It Only Takes 2 Weeks to Make a Difference') dengan Healthtime, Nancy EatSmart, Dr. Emma Davis, Natural GLP Boost, Mediterranean/Carnivore Diet for Beginners - kemungkinan satu perusahaan quiz-funnel meal plan; format produk final (program digital vs suplemen) belum terverifikasi karena LP tidak bisa dicek."
+    },
+    {
+      "page_name": "Dessert Cinema",
+      "page_id": "106624624357777",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=106624624357777",
+      "product": "Dessert Cinema: 50 Luxury Dessert Recipes",
+      "format": "recipe ebook",
+      "price_seen": null,
+      "active_ads": 3,
+      "oldest_active_start": "2026-10-21",
+      "max_days_running": 0,
+      "status": "BARU",
+      "winning_ads": [
+        {
+          "ad_id": "2219357048611536",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2219357048611536",
+          "start": "2026-10-21",
+          "days": 0,
+          "link_title": "Dessert Cinema: 50 Luxury Dessert Recipes"
+        },
+        {
+          "ad_id": "1434852748763940",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1434852748763940",
+          "start": "2026-10-21",
+          "days": 0,
+          "link_title": "Dessert Cinema: 50 Luxury Dessert Recipes"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Recipe ebook dessert, iklan baru diluncurkan."
+    }
+  ],
+  "insights": {
+    "price_range": "Harga jarang tampil di link title; offer yang terlihat: diskon 30% membership (Plant Powered), bundle 'Buy 4, Pay for 2' / '7 books for less than the price of 4' (Elisabeth.says), buku Google Play (umumnya <$10). Funnel quiz meal plan biasanya $1-$30 trial (tidak terverifikasi).",
+    "angles": [
+      "GLP-1/Ozempic: 'GLP-1 Boost Diet For Women Over 40', 'Lose fat, not muscle, on GLP-1', 'No Injections, No Side Effects'",
+      "Hasil cepat: 'It Only Takes 2 Weeks to Make a Difference', '48-Hour Fix'",
+      "'X makes you fat': fatty liver, cortisol, PCOS, endometriosis, fascia, lymphatic congestion",
+      "Otoritas dokter/endokrinolog (persona 'Dr.', 'Endocrinologist')",
+      "Healthy dessert tanpa gula: 'Stop Choosing Between Healthy and Dessert', 3-ingredient brownies",
+      "Diet populer per halaman: Mediterranean, Carnivore, plant-based high protein, 1200-calorie (Dr. Nowzaradan)",
+      "Keluarga & hemat: ide bekal anak, '$2,000+ a year on snacks'"
+    ],
+    "formats": [
+      "Quiz funnel meal plan (personalized plan)",
+      "Ebook meal plan + cookbook (low-content/KDP, Google Play)",
+      "Bundle recipe ebook",
+      "Membership meal plan",
+      "Online coaching penurunan berat badan",
+      "Advertorial/presell -> program diet"
+    ],
+    "summary": "Niche diet US sangat besar ('meal plan' 28rb+ iklan aktif) tapi didominasi app/telehealth GLP-1 dan suplemen yang dikecualikan. Pemain info-product paling tahan lama justru ebook meal plan kecil (Heal Better Daily ~9 bulan, buku 1200-calorie ~8 bulan) dan creator resep (KICA, Cook with kels, FoodiesGuide, Elisabeth.says). Tren terkuat: jaringan quiz funnel 'GLP-1 Boost Diet For Women Over 40' (Healthtime 686 iklan, Nancy EatSmart, Dr. Emma Davis) yang sering ganti creative. Semua lp_url = not_found karena kuota web search habis di sesi ini."
+  }
+}

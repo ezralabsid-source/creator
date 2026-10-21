@@ -1,0 +1,578 @@
+{
+  "niche": "Pet Training & Care (pelatihan & perawatan hewan peliharaan)",
+  "slug": "pet-training",
+  "keywords": [
+    {
+      "term": "dog training",
+      "active_ads_id": 40352
+    },
+    {
+      "term": "horse training",
+      "active_ads_id": 7457
+    },
+    {
+      "term": "Brain Training for Dogs",
+      "active_ads_id": 6859
+    },
+    {
+      "term": "cat behavior",
+      "active_ads_id": 4257
+    },
+    {
+      "term": "reactive dog",
+      "active_ads_id": 3196
+    },
+    {
+      "term": "puppy training course",
+      "active_ads_id": 965
+    },
+    {
+      "term": "homemade dog food",
+      "active_ads_id": 781
+    },
+    {
+      "term": "horsemanship",
+      "active_ads_id": 532
+    },
+    {
+      "term": "K9 Training Institute",
+      "active_ads_id": 148
+    },
+    {
+      "term": "dog trainer certification",
+      "active_ads_id": 64
+    }
+  ],
+  "advertisers": [
+    {
+      "page_name": "Ivan Balabanov",
+      "page_id": "344389472266201",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=344389472266201",
+      "product": "Program/kursus dog training online Ivan Balabanov ('Learn From The Best', 'Become a Great Dog Trainer', puppy takut)",
+      "format": "online course",
+      "price_seen": null,
+      "active_ads": 25,
+      "oldest_active_start": "2023-12-15",
+      "max_days_running": 1041,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "1772587106520017",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1772587106520017",
+          "start": "2023-12-15",
+          "days": 1041,
+          "link_title": "(tanpa judul link)"
+        },
+        {
+          "ad_id": "3704474869878464",
+          "ad_url": "https://www.facebook.com/ads/library/?id=3704474869878464",
+          "start": "2023-12-15",
+          "days": 1041,
+          "link_title": "(tanpa judul link)"
+        },
+        {
+          "ad_id": "36452833387648269",
+          "ad_url": "https://www.facebook.com/ads/library/?id=36452833387648269",
+          "start": "2026-05-29",
+          "days": 144,
+          "link_title": "LEARN FROM THE BEST!"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Beberapa iklan tanpa judul aktif sejak Des 2023 (~1040 hari) – evergreen. Iklan baru 'The Next Evolution of Dog Training'. LP belum dicari (kuota web search habis)."
+    },
+    {
+      "page_name": "Susan Garrett's DogsThat",
+      "page_id": "148038161884479",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=148038161884479",
+      "product": "Home School The Dog & J-Walking (program latihan anjing berbasis game, akses 4 bulan) + funnel gratis 'Free 6-Part Agility Series' / 'Consistency Code'",
+      "format": "online course / membership",
+      "price_seen": "$49 (harga normal $297–$327)",
+      "active_ads": 55,
+      "oldest_active_start": "2026-01-22",
+      "max_days_running": 272,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "1620181155821412",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1620181155821412",
+          "start": "2026-01-22",
+          "days": 272,
+          "link_title": "Limited Offer: \"Home School The Dog\" is only $49 (usually $297!)"
+        },
+        {
+          "ad_id": "826167923711902",
+          "ad_url": "https://www.facebook.com/ads/library/?id=826167923711902",
+          "start": "2026-01-22",
+          "days": 272,
+          "link_title": "Limited Offer: \"Home School The Dog\" is only $49 (usually $297!)"
+        },
+        {
+          "ad_id": "2687754604925021",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2687754604925021",
+          "start": "2026-01-23",
+          "days": 270,
+          "link_title": "Limited Offer: \"J-Walking\" is only $49 (usually $327!)"
+        }
+      ],
+      "lp_url": "https://dogsthat.com/?p=449008",
+      "lp_source": "search",
+      "notes": "Pemain lama paling konsisten: iklan diskon $49 jalan ~270 hari. Pola: tripwire diskon besar (83% off) + lead magnet seri video gratis. Halaman punya >50 iklan aktif; umur iklan tertua adalah batas bawah (hanya 50 iklan terbaru yang terlihat + pencarian kata kunci tambahan)."
+    },
+    {
+      "page_name": "Warwick Schiller's Attuned Horsemanship",
+      "page_id": "205495012829319",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=205495012829319",
+      "product": "Warwick Schiller Attuned Horsemanship – library video langganan + training 2 jam $17 + kursus 'The Regulated Rider'",
+      "format": "membership / online course",
+      "price_seen": "$17 (training 2 jam); $10 bulan pertama (66% off); ~$29.95/bln menurut hasil search",
+      "active_ads": 35,
+      "oldest_active_start": "2026-04-27",
+      "max_days_running": 176,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "1317508943856989",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1317508943856989",
+          "start": "2026-04-27",
+          "days": 176,
+          "link_title": "(tanpa judul link)"
+        },
+        {
+          "ad_id": "1396536452413491",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1396536452413491",
+          "start": "2026-08-25",
+          "days": 56,
+          "link_title": "(tanpa judul link)"
+        },
+        {
+          "ad_id": "1346123771907350",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1346123771907350",
+          "start": "2026-08-26",
+          "days": 55,
+          "link_title": "(tanpa judul link)"
+        }
+      ],
+      "lp_url": "https://videos.warwickschiller.com/attuned-horsemanship/",
+      "lp_source": "search",
+      "notes": "Iklan tertua (tanpa judul) ~176 hari. Funnel: low-ticket $17 → langganan platform video."
+    },
+    {
+      "page_name": "Pupford",
+      "page_id": "1487774544635954",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1487774544635954",
+      "product": "Pupford – '100% Free Course To Train Your Pup' (kursus puppy 30 hari gratis via app) sebagai lead magnet untuk treats",
+      "format": "free course (lead magnet) + produk fisik",
+      "price_seen": "gratis (course); treats diskon 50%",
+      "active_ads": 63,
+      "oldest_active_start": "2026-06-02",
+      "max_days_running": 140,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "1557531352754497",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1557531352754497",
+          "start": "2026-06-02",
+          "days": 140,
+          "link_title": "100% Free Course To Train Your Pup!"
+        },
+        {
+          "ad_id": "1007941515550296",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1007941515550296",
+          "start": "2026-06-02",
+          "days": 140,
+          "link_title": "100% Free Course To Train Your Pup!"
+        },
+        {
+          "ad_id": "1624971312135884",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1624971312135884",
+          "start": "2026-06-03",
+          "days": 140,
+          "link_title": "Join 2.5 Million+ Happy Dog Parents"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Catatan: monetisasi utama adalah treats/chew fisik; dimasukkan karena iklan kursus gratis jalan ~140 hari (contoh funnel content-led). Mayoritas iklan baru = promo produk fisik. Halaman punya >50 iklan aktif; umur iklan tertua adalah batas bawah (hanya 50 iklan terbaru yang terlihat + pencarian kata kunci tambahan)."
+    },
+    {
+      "page_name": "Will Atherton",
+      "page_id": "106166105222356",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=106166105222356",
+      "product": "Will Atherton – Perfect Puppy Course, Perfect Canine Companion Course, Advanced Diploma in Canine Behaviour & Training, Free Dog Training Course/Webinar",
+      "format": "online course / diploma",
+      "price_seen": null,
+      "active_ads": 93,
+      "oldest_active_start": "2026-07-07",
+      "max_days_running": 105,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "1785025819531880",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1785025819531880",
+          "start": "2026-07-07",
+          "days": 105,
+          "link_title": "Free Dog Training Course"
+        },
+        {
+          "ad_id": "1786681888981036",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1786681888981036",
+          "start": "2026-07-07",
+          "days": 105,
+          "link_title": "Perfect Canine Companion Course"
+        },
+        {
+          "ad_id": "4415569715387759",
+          "ad_url": "https://www.facebook.com/ads/library/?id=4415569715387759",
+          "start": "2026-07-15",
+          "days": 97,
+          "link_title": "Perfect Puppy Course"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Pengiklan UK (GBP) tapi menjangkau US. Funnel kursus gratis → kursus berbayar & diploma profesi trainer. LP belum dicari (kuota web search habis). Halaman punya >50 iklan aktif; umur iklan tertua adalah batas bawah (hanya 50 iklan terbaru yang terlihat + pencarian kata kunci tambahan)."
+    },
+    {
+      "page_name": "Karen Pryor Academy",
+      "page_id": "182526639595",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=182526639595",
+      "product": "Karen Pryor Academy – Dog Trainer Professional Program (virtual/in-person), Dog Trainer Comprehensive (belajar dari rumah), Behavior Consulting Program, kursus Shelter Training & Loose-Leash Walking",
+      "format": "online course / sertifikasi",
+      "price_seen": "diskon $50 (Shelter Training & Enrichment)",
+      "active_ads": 94,
+      "oldest_active_start": "2026-07-20",
+      "max_days_running": 93,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "1049863687493242",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1049863687493242",
+          "start": "2026-07-20",
+          "days": 93,
+          "link_title": "Dog Trainer Professional Program"
+        },
+        {
+          "ad_id": "879999191460228",
+          "ad_url": "https://www.facebook.com/ads/library/?id=879999191460228",
+          "start": "2026-07-23",
+          "days": 89,
+          "link_title": "KPA's Behavior Consulting Program"
+        },
+        {
+          "ad_id": "1320427326491173",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1320427326491173",
+          "start": "2026-07-24",
+          "days": 89,
+          "link_title": "Dog Trainer Professional Program"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Akademi sertifikasi trainer (high-ticket). Sebagian program hybrid/in-person per kota. LP belum dicari (kuota web search habis). Halaman punya >50 iklan aktif; umur iklan tertua adalah batas bawah (hanya 50 iklan terbaru yang terlihat + pencarian kata kunci tambahan)."
+    },
+    {
+      "page_name": "STS K9 - Nino Drowaert",
+      "page_id": "1354196271263733",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1354196271263733",
+      "product": "STS K9 – STREET HEEL program, Puppy University, PPD Program, Free Mini Course / Free Dog Training Course",
+      "format": "online course",
+      "price_seen": null,
+      "active_ads": 33,
+      "oldest_active_start": "2026-07-20",
+      "max_days_running": 92,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "2266239594186521",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2266239594186521",
+          "start": "2026-07-20",
+          "days": 92,
+          "link_title": "Get Free Access"
+        },
+        {
+          "ad_id": "4419232158343097",
+          "ad_url": "https://www.facebook.com/ads/library/?id=4419232158343097",
+          "start": "2026-07-20",
+          "days": 92,
+          "link_title": "Get Free Access"
+        },
+        {
+          "ad_id": "2147240885824371",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2147240885824371",
+          "start": "2026-07-20",
+          "days": 92,
+          "link_title": "Free Dog Training Course"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Funnel 'Get Free Access' / mini course gratis jalan ~92 hari, lalu upsell program heeling & proteksi (PPD)."
+    },
+    {
+      "page_name": "The Horsemanship Club",
+      "page_id": "1303084746212441",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1303084746212441",
+      "product": "The Horsemanship Club – membership 220 pelajaran berkuda/horsemanship terstruktur, program 12 minggu",
+      "format": "membership / online course",
+      "price_seen": null,
+      "active_ads": 37,
+      "oldest_active_start": "2026-08-02",
+      "max_days_running": 79,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "1448601867325729",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1448601867325729",
+          "start": "2026-08-02",
+          "days": 79,
+          "link_title": "220 Lessons. In The Right Order"
+        },
+        {
+          "ad_id": "2087767371818387",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2087767371818387",
+          "start": "2026-08-02",
+          "days": 79,
+          "link_title": "220 Lessons. In The Right Order"
+        },
+        {
+          "ad_id": "1075377191577343",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1075377191577343",
+          "start": "2026-08-07",
+          "days": 74,
+          "link_title": "Stop Guessing In The Saddle"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Pengiklan EUR, menjangkau US. Hook: '220 Lessons. In The Right Order', 'Stop Guessing In The Saddle'."
+    },
+    {
+      "page_name": "K9 Training Institute",
+      "page_id": "101472842023288",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=101472842023288",
+      "product": "K9 Training Institute (Dr. Alexa Diaz) – Free Dog Training Workshop → Total Transformation Masterclass (10 minggu)",
+      "format": "webinar gratis → online course",
+      "price_seen": null,
+      "active_ads": 99,
+      "oldest_active_start": "2026-08-21",
+      "max_days_running": 60,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "1412173561108643",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1412173561108643",
+          "start": "2026-08-21",
+          "days": 60,
+          "link_title": "Free Dog Training Workshop"
+        },
+        {
+          "ad_id": "1117278754358428",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1117278754358428",
+          "start": "2026-10-05",
+          "days": 15,
+          "link_title": "Why Service Dog Trainers Put The Treat Bag Down"
+        },
+        {
+          "ad_id": "1358606946350449",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1358606946350449",
+          "start": "2026-10-05",
+          "days": 15,
+          "link_title": "Put The Treat Bag Down"
+        }
+      ],
+      "lp_url": "https://k9ti.org",
+      "lp_source": "search",
+      "notes": "Volume kreatif sangat tinggi (99 iklan aktif), angle 'latih anjing tanpa treats / metode service dog'. Iklan tertua yang terlihat ~61 hari. Halaman punya >50 iklan aktif; umur iklan tertua adalah batas bawah (hanya 50 iklan terbaru yang terlihat + pencarian kata kunci tambahan)."
+    },
+    {
+      "page_name": "Jo-Rosie Haffenden - The Institute of Applied Canine Science",
+      "page_id": "1551343345195806",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1551343345195806",
+      "product": "Jo-Rosie Haffenden / Institute of Applied Canine Science – kuliah gratis reaktivitas untuk profesional, program puppy raising 'expert in your pocket', BetterDogTrainer",
+      "format": "webinar gratis → online course / membership",
+      "price_seen": null,
+      "active_ads": 23,
+      "oldest_active_start": "2026-09-20",
+      "max_days_running": 30,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "1620548953126530",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1620548953126530",
+          "start": "2026-09-20",
+          "days": 30,
+          "link_title": "The FREE lecture that is taking practitioners to another level when it comes to solving reactivity quickly, and ethically."
+        },
+        {
+          "ad_id": "1590341035834103",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1590341035834103",
+          "start": "2026-09-20",
+          "days": 30,
+          "link_title": "Free Reactivity Webinar for Professionals"
+        },
+        {
+          "ad_id": "1636631171497565",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1636631171497565",
+          "start": "2026-09-27",
+          "days": 23,
+          "link_title": "Six puppy raising tips you can't afford to miss."
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Pengiklan UK (GBP). Dua segmen: pemilik puppy dan trainer profesional."
+    },
+    {
+      "page_name": "Doggy Dan",
+      "page_id": "123087151036601",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=123087151036601",
+      "product": "Doggy Dan – The Online Dog Trainer (membership) + Reactivity course ('SOLVE Dog Reactivity In 5 Minutes!')",
+      "format": "membership / online course",
+      "price_seen": null,
+      "active_ads": 79,
+      "oldest_active_start": "2026-09-26",
+      "max_days_running": 25,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "1388477743355829",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1388477743355829",
+          "start": "2026-09-26",
+          "days": 25,
+          "link_title": "SOLVE Dog Reactivity In 5 Minutes!"
+        },
+        {
+          "ad_id": "1749253942857775",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1749253942857775",
+          "start": "2026-09-26",
+          "days": 25,
+          "link_title": "SOLVE Dog Reactivity In 5 Minutes!"
+        },
+        {
+          "ad_id": "1467150671898977",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1467150671898977",
+          "start": "2026-09-26",
+          "days": 25,
+          "link_title": "SOLVE Dog Reactivity In 5 Minutes!"
+        }
+      ],
+      "lp_url": "https://theonlinedogtrainer.com",
+      "lp_source": "search",
+      "notes": "Satu hook diulang di 79 iklan (testing kreatif massal). Pengiklan NZ (NZD). Halaman punya >50 iklan aktif; umur iklan tertua adalah batas bawah (hanya 50 iklan terbaru yang terlihat + pencarian kata kunci tambahan)."
+    },
+    {
+      "page_name": "Susan Miller",
+      "page_id": "1029190046952177",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1029190046952177",
+      "product": "Iklan gaya advertorial/cerita ('Own a dog people fear? Read', 'Read If Your Dog Lunges') – kemungkinan mengarah ke artikel/program anjing reaktif",
+      "format": "advertorial → (kemungkinan) program/ebook",
+      "price_seen": null,
+      "active_ads": 12,
+      "oldest_active_start": "2026-10-10",
+      "max_days_running": 10,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "1810978493367815",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1810978493367815",
+          "start": "2026-10-10",
+          "days": 10,
+          "link_title": "My son came for my dog"
+        },
+        {
+          "ad_id": "1916679793072204",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1916679793072204",
+          "start": "2026-10-10",
+          "days": 10,
+          "link_title": "My son came for my dog"
+        },
+        {
+          "ad_id": "1840723600252427",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1840723600252427",
+          "start": "2026-10-10",
+          "days": 10,
+          "link_title": "Read If Your Dog Lunges"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Produk akhir tidak dapat dipastikan dari data Ad Library; dicatat sebagai contoh angle storytelling untuk anjing reaktif."
+    },
+    {
+      "page_name": "Gabi Neurohr - Understanding Horses",
+      "page_id": "115998682590000",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=115998682590000",
+      "product": "Gabi Neurohr – Understanding Horses: 'FREE Colt Starting Documentary' (lead magnet ke kursus horsemanship online)",
+      "format": "video gratis → online course",
+      "price_seen": null,
+      "active_ads": 5,
+      "oldest_active_start": "2026-10-19",
+      "max_days_running": 1,
+      "status": "BARU",
+      "winning_ads": [
+        {
+          "ad_id": "28941549968839504",
+          "ad_url": "https://www.facebook.com/ads/library/?id=28941549968839504",
+          "start": "2026-10-19",
+          "days": 1,
+          "link_title": "FREE Colt Starting Documentary"
+        },
+        {
+          "ad_id": "2526718997837077",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2526718997837077",
+          "start": "2026-10-19",
+          "days": 1,
+          "link_title": "FREE Colt Starting Documentary"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Kampanye baru (EUR)."
+    },
+    {
+      "page_name": "STSK9 Laura",
+      "page_id": "101229761646885",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=101229761646885",
+      "product": "STSK9 Laura – bundle program STS K9 (Nino's Choice Bundle, Positive-Only Program, Drive & Focus Course, PPD Program, Puppy University)",
+      "format": "online course bundle",
+      "price_seen": null,
+      "active_ads": 1,
+      "oldest_active_start": "2026-10-20",
+      "max_days_running": 0,
+      "status": "BARU",
+      "winning_ads": [
+        {
+          "ad_id": "2379620019254019",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2379620019254019",
+          "start": "2026-10-20",
+          "days": 0,
+          "link_title": "Nino's Choice Bundle | Positive-Only Program | Drive & Focus Course | The Out | PPD Program | Puppy University Program"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Kemungkinan halaman instruktur/afiliasi STS K9; 1 iklan baru."
+    }
+  ],
+  "insights": {
+    "price_range": "Tripwire $10–$49 (Warwick Schiller $17/$10, Susan Garrett $49 dari $297); langganan ~$30/bln; program sertifikasi trainer (KPA, Will Atherton) high-ticket. Banyak yang memakai funnel gratis (workshop, mini course, dokumenter) dulu.",
+    "angles": [
+      "Latih anjing tanpa treats / metode service dog (K9TI)",
+      "Solusi cepat reaktivitas anjing ('in 5 minutes')",
+      "Diskon besar dengan harga coret ($49 dari $297)",
+      "Kursus/workshop/dokumenter gratis sebagai lead magnet",
+      "Karier: jadi certified dog trainer",
+      "Puppy biting & puppy raising untuk pemilik baru",
+      "Horsemanship berbasis hubungan (relationship-based) dan kurikulum terstruktur ('220 lessons in the right order')"
+    ],
+    "formats": [
+      "online course / video program",
+      "membership/library video langganan",
+      "webinar/workshop gratis → upsell",
+      "sertifikasi/diploma trainer"
+    ],
+    "summary": "Niche pet training di US didominasi kreator/trainer dengan funnel webinar atau kursus gratis ke program online; volume kreatif tertinggi di K9 Training Institute, Doggy Dan, Will Atherton dan Karen Pryor Academy (masing-masing 79–99 iklan aktif). Pemain paling awet adalah Susan Garrett (tripwire $49, ~270 hari) dan Ivan Balabanov. Horse training juga aktif (Warwick Schiller, The Horsemanship Club). Kata kunci generik ('dog training', 'cat behavior') penuh spam drama/novel, dan banyak pengiklan pet lain menjual suplemen/makanan fisik (Waggle Hound, Ultimate Dog Parent Guide, Canine Health Institute), jadi tidak dimasukkan."
+  }
+}

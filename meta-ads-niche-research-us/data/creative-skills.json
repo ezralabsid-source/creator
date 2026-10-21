@@ -1,0 +1,771 @@
+{
+  "niche": "Music, Art & Creative Skills (musik, seni & keterampilan kreatif)",
+  "slug": "creative-skills",
+  "keywords": [
+    {
+      "term": "Procreate",
+      "active_ads_id": 657
+    },
+    {
+      "term": "watercolor course",
+      "active_ads_id": 390
+    },
+    {
+      "term": "acrylic painting course",
+      "active_ads_id": 178
+    },
+    {
+      "term": "guitar lessons",
+      "active_ads_id": 2270
+    },
+    {
+      "term": "singing lessons",
+      "active_ads_id": 960
+    },
+    {
+      "term": "photography course",
+      "active_ads_id": 2172
+    },
+    {
+      "term": "learn piano",
+      "active_ads_id": 7654
+    },
+    {
+      "term": "calligraphy",
+      "active_ads_id": 2327
+    },
+    {
+      "term": "learn to draw",
+      "active_ads_id": 229819
+    }
+  ],
+  "advertisers": [
+    {
+      "page_name": "Guitar Mastery Method",
+      "page_id": "681378381955030",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=681378381955030",
+      "product": "Guitar Mastery Method – kursus gitar online (fretboard, 'Stop Practicing. Start Jamming.')",
+      "format": "online course",
+      "price_seen": null,
+      "active_ads": 21,
+      "oldest_active_start": "2025-11-17",
+      "max_days_running": 337,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "2066614487440091",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2066614487440091",
+          "start": "2025-11-17",
+          "days": 337,
+          "link_title": "How to Solo over the Blues! (Try this!)"
+        },
+        {
+          "ad_id": "1203734854985530",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1203734854985530",
+          "start": "2025-11-17",
+          "days": 337,
+          "link_title": "Try This Simple Guitar Chord Trick TODAY!"
+        },
+        {
+          "ad_id": "821674234055150",
+          "ad_url": "https://www.facebook.com/ads/library/?id=821674234055150",
+          "start": "2025-11-17",
+          "days": 337,
+          "link_title": "Did you know you can do THIS with a D chord?"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Iklan video tips gitar ('How to Solo over the Blues', 'D chord trick') jalan ~338 hari — contoh evergreen terkuat di niche ini. Batch baru 'Finally. The Fretboard Makes Sense'."
+    },
+    {
+      "page_name": "Total Guitar Transformation",
+      "page_id": "101106329197338",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=101106329197338",
+      "product": "Total Guitar Transformation – program lead guitar melodik untuk gitaris 40+ ('Level up in 7 days', 'Melodic Chordal Soloing Guide')",
+      "format": "online course/coaching",
+      "price_seen": null,
+      "active_ads": 16,
+      "oldest_active_start": "2026-03-24",
+      "max_days_running": 210,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "1229544506054323",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1229544506054323",
+          "start": "2026-03-24",
+          "days": 210,
+          "link_title": "Level up your melodic lead guitar approach in 7 days"
+        },
+        {
+          "ad_id": "1893759387981048",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1893759387981048",
+          "start": "2026-03-28",
+          "days": 206,
+          "link_title": "Level up your melodic lead guitar approach in 7 days"
+        },
+        {
+          "ad_id": "2115115112556687",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2115115112556687",
+          "start": "2026-03-28",
+          "days": 206,
+          "link_title": "Level up your melodic lead guitar approach in 7 days"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Iklan tertua ~211 hari. Angle: 'intermediate plateau', gitaris usia 40+, lead magnet guide PDF."
+    },
+    {
+      "page_name": "Watercolor Fashion Class",
+      "page_id": "1113763838490460",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1113763838490460",
+      "product": "Watercolor Fashion Class – 'Learn the Classic French Art of Watercolor Fashion Illustration'",
+      "format": "online course",
+      "price_seen": null,
+      "active_ads": 28,
+      "oldest_active_start": "2026-05-14",
+      "max_days_running": 159,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "976205268668772",
+          "ad_url": "https://www.facebook.com/ads/library/?id=976205268668772",
+          "start": "2026-05-14",
+          "days": 159,
+          "link_title": "Learn the Classic French Art of Watercolor Fashion Illustration"
+        },
+        {
+          "ad_id": "2220190362107438",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2220190362107438",
+          "start": "2026-07-21",
+          "days": 91,
+          "link_title": "Learn the Classic French Art of Watercolor Fashion Illustration"
+        },
+        {
+          "ad_id": "812772988493017",
+          "ad_url": "https://www.facebook.com/ads/library/?id=812772988493017",
+          "start": "2026-07-21",
+          "days": 91,
+          "link_title": "Learn the Classic French Art of Watercolor Fashion Illustration"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "28 iklan, tertua ~159 hari. Pola nama halaman '[Topik] Class' (mirip Whimsical Acrylics Class & Acrylic Cat Class) – kemungkinan jaringan kursus yang sama dengan banyak halaman per topik."
+    },
+    {
+      "page_name": "Liz Kohler Brown",
+      "page_id": "267956100788098",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=267956100788098",
+      "product": "Liz Kohler Brown – '100+ Ways to Sell Your Art' / 'Start Selling Your Art' (lead magnet → kursus Procreate & art business)",
+      "format": "guide/lead magnet + course",
+      "price_seen": null,
+      "active_ads": 7,
+      "oldest_active_start": "2026-05-29",
+      "max_days_running": 144,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "1533591491745070",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1533591491745070",
+          "start": "2026-05-29",
+          "days": 144,
+          "link_title": "100+ Ways to Sell Your Art"
+        },
+        {
+          "ad_id": "1470552837731269",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1470552837731269",
+          "start": "2026-05-29",
+          "days": 144,
+          "link_title": "Start Selling Your Art"
+        },
+        {
+          "ad_id": "989930586878902",
+          "ad_url": "https://www.facebook.com/ads/library/?id=989930586878902",
+          "start": "2026-05-29",
+          "days": 144,
+          "link_title": "100+ Ways to Sell Your Art"
+        }
+      ],
+      "lp_url": "https://lizkohlerbrown.com",
+      "lp_source": "search",
+      "notes": "Pengajar Procreate & surface design terkenal. 7 iklan, semua ~144 hari = evergreen."
+    },
+    {
+      "page_name": "VisualTimmy",
+      "page_id": "1847892052172438",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1847892052172438",
+      "product": "VisualTimmy – brush Procreate (Creator XL Bundle, Halftones, Backgrounds) + freebie 'Free Gift from Me to You'",
+      "format": "digital brushes/assets",
+      "price_seen": null,
+      "active_ads": 11,
+      "oldest_active_start": "2026-06-10",
+      "max_days_running": 132,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "1315946703403840",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1315946703403840",
+          "start": "2026-06-10",
+          "days": 132,
+          "link_title": "Free Gift from Me to You 👉🏼"
+        },
+        {
+          "ad_id": "1125251373321795",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1125251373321795",
+          "start": "2026-10-21",
+          "days": 0,
+          "link_title": "Halftones That Just Work 👉🏼"
+        },
+        {
+          "ad_id": "3244050767090845",
+          "ad_url": "https://www.facebook.com/ads/library/?id=3244050767090845",
+          "start": "2026-10-21",
+          "days": 0,
+          "link_title": "Creator XL for Procreate 👉🏼"
+        }
+      ],
+      "lp_url": "https://creativemarket.com/VisualTimmy/4736522-VECTOR-PENS-For-Procreate",
+      "lp_source": "search",
+      "notes": "Iklan freebie (lead magnet) jalan ~133 hari; batch baru untuk bundle Creator XL. URL = halaman toko Creative Market milik VisualTimmy (produk lain dari brand yang sama)."
+    },
+    {
+      "page_name": "Amy Eaton",
+      "page_id": "207669619272279",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=207669619272279",
+      "product": "Amy Eaton – kursus 'Product Photography Made EASY' (Snap, Sell, Succeed) untuk penjual handmade",
+      "format": "online course (Teachable)",
+      "price_seen": null,
+      "active_ads": 10,
+      "oldest_active_start": "2026-07-23",
+      "max_days_running": 90,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "1031676412587696",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1031676412587696",
+          "start": "2026-07-23",
+          "days": 90,
+          "link_title": "Product Photography Made EASY 📸"
+        },
+        {
+          "ad_id": "998809526305919",
+          "ad_url": "https://www.facebook.com/ads/library/?id=998809526305919",
+          "start": "2026-07-23",
+          "days": 90,
+          "link_title": "Product Photography Made EASY 📸"
+        },
+        {
+          "ad_id": "1541367354267914",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1541367354267914",
+          "start": "2026-07-23",
+          "days": 90,
+          "link_title": "Product Photography Made EASY 📸"
+        }
+      ],
+      "lp_url": "https://amytakespictures.teachable.com/p/snap-sell-succeed",
+      "lp_source": "search",
+      "notes": "10 iklan, tertua ~90 hari. Target maker/Etsy seller."
+    },
+    {
+      "page_name": "True Grit Texture Supply",
+      "page_id": "1736902356579854",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1736902356579854",
+      "product": "True Grit Texture Supply – brush & tekstur digital (AquaStudio watercolor, Comic Creators Bundle, Everything Bundle)",
+      "format": "digital brushes/assets",
+      "price_seen": null,
+      "active_ads": 63,
+      "oldest_active_start": "2026-08-03",
+      "max_days_running": 79,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "2059828404906500",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2059828404906500",
+          "start": "2026-08-03",
+          "days": 79,
+          "link_title": "A POOR ARTIST BLAMES THEIR TOOLS | Comic Creators Bundle"
+        },
+        {
+          "ad_id": "1570879187759475",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1570879187759475",
+          "start": "2026-08-06",
+          "days": 75,
+          "link_title": "The Best Digital Texturing Tools Money Can Buy"
+        },
+        {
+          "ad_id": "2385434488652548",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2385434488652548",
+          "start": "2026-08-06",
+          "days": 75,
+          "link_title": "The Best Digital Texturing Tools Money Can Buy"
+        }
+      ],
+      "lp_url": "https://shop.app/products/8334159511738/aqua-studio",
+      "lp_source": "search",
+      "notes": "63 iklan aktif; iklan 'Comic Creators Bundle' ~79 hari. Brand aset digital (Procreate/Photoshop/Affinity) dengan banyak bundle. Halaman punya >50 iklan aktif; umur iklan tertua adalah batas bawah (hanya 50 iklan terbaru yang terlihat + pencarian kata kunci tambahan)."
+    },
+    {
+      "page_name": "Life, Refined",
+      "page_id": "1260542690466730",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1260542690466730",
+      "product": "Advertorial 'Discover How to Learn Piano in Months, Not Years' (kemungkinan afiliasi program piano)",
+      "format": "advertorial/affiliate",
+      "price_seen": null,
+      "active_ads": 3,
+      "oldest_active_start": "2026-08-17",
+      "max_days_running": 64,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "1825392581963605",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1825392581963605",
+          "start": "2026-08-17",
+          "days": 64,
+          "link_title": "Discover How to Learn Piano in Months, Not Years"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Halaman advertorial multi-niche (juga iklan sleep). Iklan piano ~64 hari."
+    },
+    {
+      "page_name": "Pianote",
+      "page_id": "1014835828594774",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1014835828594774",
+      "product": "Pianote (Musora) – FREE e-book Chords & Scales, 'Learn To Play Any Song On The Piano' → free trial membership",
+      "format": "lead magnet ebook + membership",
+      "price_seen": "$39 (versi cetak); membership via free trial",
+      "active_ads": 25,
+      "oldest_active_start": "2026-08-25",
+      "max_days_running": 56,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "1851233105901383",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1851233105901383",
+          "start": "2026-08-25",
+          "days": 56,
+          "link_title": "Learn To Play Any Song On The Piano"
+        },
+        {
+          "ad_id": "2461034184308915",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2461034184308915",
+          "start": "2026-08-25",
+          "days": 56,
+          "link_title": "Pianote Chords & Scales (FREE E-Book)"
+        },
+        {
+          "ad_id": "1607863670926211",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1607863670926211",
+          "start": "2026-08-25",
+          "days": 56,
+          "link_title": "Pianote Chords & Scales (FREE E-Book)"
+        }
+      ],
+      "lp_url": "https://pianote.com/digital-chords-scales-guide",
+      "lp_source": "search",
+      "notes": "25 iklan; lead magnet e-book jalan ~56 hari. Bagian dari Musora (Drumeo/Pianote) – creator-led edtech skala menengah."
+    },
+    {
+      "page_name": "Whimsical Acrylics Class",
+      "page_id": "1269503282923339",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1269503282923339",
+      "product": "Whimsical Acrylics Class – 'Learn to Paint Cute Whimsical Scenes in Bright Acrylics'",
+      "format": "online course",
+      "price_seen": null,
+      "active_ads": 9,
+      "oldest_active_start": "2026-09-18",
+      "max_days_running": 32,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "1769456697723882",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1769456697723882",
+          "start": "2026-09-18",
+          "days": 32,
+          "link_title": "Learn to Paint Cute Whimsical Scenes in Bright Acrylics"
+        },
+        {
+          "ad_id": "27885316667818137",
+          "ad_url": "https://www.facebook.com/ads/library/?id=27885316667818137",
+          "start": "2026-09-18",
+          "days": 32,
+          "link_title": "Learn to Paint Cute Whimsical Scenes in Bright Acrylics"
+        },
+        {
+          "ad_id": "2044162419556641",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2044162419556641",
+          "start": "2026-09-18",
+          "days": 32,
+          "link_title": "Learn to Paint Cute Whimsical Scenes in Bright Acrylics"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "9 iklan, tertua ~32 hari. Pola sama dengan Watercolor Fashion Class / Acrylic Cat Class."
+    },
+    {
+      "page_name": "Acrylic Art University",
+      "page_id": "879787441880446",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=879787441880446",
+      "product": "Acrylic Art University – kursus acrylic 'Turn A Blank Canvas Into...' (stained glass, glowing tiger/butterfly, wolf)",
+      "format": "online course",
+      "price_seen": null,
+      "active_ads": 49,
+      "oldest_active_start": "2026-09-29",
+      "max_days_running": 21,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "951801387980973",
+          "ad_url": "https://www.facebook.com/ads/library/?id=951801387980973",
+          "start": "2026-09-29",
+          "days": 21,
+          "link_title": "Turn A Blank Canvas Into A Glowing Butterfly 🦋"
+        },
+        {
+          "ad_id": "987799234345936",
+          "ad_url": "https://www.facebook.com/ads/library/?id=987799234345936",
+          "start": "2026-09-29",
+          "days": 21,
+          "link_title": "Turn A Blank Canvas Into A Glowing Butterfly 🦋"
+        },
+        {
+          "ad_id": "1629916308662603",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1629916308662603",
+          "start": "2026-10-03",
+          "days": 17,
+          "link_title": "Turn A Blank Canvas Into A Glowing Butterfly 🦋"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "49 iklan aktif, tertua ~22 hari. Hook 'transformasi kanvas kosong' per proyek lukisan."
+    },
+    {
+      "page_name": "The Beginner to Master Art Academy",
+      "page_id": "101781464806304",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=101781464806304",
+      "product": "The Beginner to Master Art Academy – 'Learn to Paint - Beginner to Master', 'Never Painted Before? Start Here'",
+      "format": "online course/membership",
+      "price_seen": null,
+      "active_ads": 35,
+      "oldest_active_start": "2026-10-10",
+      "max_days_running": 10,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "2389458091881859",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2389458091881859",
+          "start": "2026-10-10",
+          "days": 10,
+          "link_title": "Never Painted Before? Start Here"
+        },
+        {
+          "ad_id": "1657491415903186",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1657491415903186",
+          "start": "2026-10-10",
+          "days": 10,
+          "link_title": "Never Painted Before? Start Here"
+        },
+        {
+          "ad_id": "1578851363928408",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1578851363928408",
+          "start": "2026-10-10",
+          "days": 10,
+          "link_title": "Never Painted Before? Start Here"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "35 iklan; social proof '192K Students Can't Be Wrong'."
+    },
+    {
+      "page_name": "Sonora Guitar Intensive",
+      "page_id": "830507900626563",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=830507900626563",
+      "product": "Sonora Guitar Intensive – program intensif gitar (free guitar assessment → high-ticket coaching)",
+      "format": "high-ticket coaching program",
+      "price_seen": null,
+      "active_ads": 28,
+      "oldest_active_start": "2026-10-20",
+      "max_days_running": 0,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "1420149882966512",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1420149882966512",
+          "start": "2026-10-20",
+          "days": 0,
+          "link_title": "💪 Break Out Of Your Guitar Plateau 🎸"
+        },
+        {
+          "ad_id": "2053994035260797",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2053994035260797",
+          "start": "2026-10-20",
+          "days": 0,
+          "link_title": "Free Guitar Assessment To Find The Gap"
+        },
+        {
+          "ad_id": "2592607534520409",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2592607534520409",
+          "start": "2026-10-20",
+          "days": 0,
+          "link_title": "Free Guitar Assessment To Find The Gap"
+        }
+      ],
+      "lp_url": "https://learnwithsonora.com",
+      "lp_source": "search",
+      "notes": "28 iklan dibuat dalam 1 hari. Angle 'break skill plateau', 'trained by Grammy-winning artists'."
+    },
+    {
+      "page_name": "Tim Packer",
+      "page_id": "302601023118304",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=302601023118304",
+      "product": "Tim Packer (Fine Art Academy) – '12 Full Paintalong Videos: $99', '$69 Course Bundle'",
+      "format": "video course bundle",
+      "price_seen": "$69–$99",
+      "active_ads": 23,
+      "oldest_active_start": "2026-10-07",
+      "max_days_running": 13,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "2613769925732626",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2613769925732626",
+          "start": "2026-10-07",
+          "days": 13,
+          "link_title": "12 Full Paintalong Videos: $99"
+        },
+        {
+          "ad_id": "1836063607829579",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1836063607829579",
+          "start": "2026-10-07",
+          "days": 13,
+          "link_title": "12 Full Paintalong Videos: $99"
+        },
+        {
+          "ad_id": "1367959903067125",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1367959903067125",
+          "start": "2026-10-07",
+          "days": 13,
+          "link_title": "12 Full Paintalong Videos: $99"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "23 iklan (CAD), tertua ~14 hari."
+    },
+    {
+      "page_name": "Matt Murphy Art",
+      "page_id": "310331958982093",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=310331958982093",
+      "product": "Matt Murphy Art – '9-Step Portrait System' kursus potret oil/acrylic/watercolour (50% off) + free guide",
+      "format": "online course",
+      "price_seen": "diskon 50%",
+      "active_ads": 23,
+      "oldest_active_start": "2026-10-03",
+      "max_days_running": 18,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "29846457028277284",
+          "ad_url": "https://www.facebook.com/ads/library/?id=29846457028277284",
+          "start": "2026-10-03",
+          "days": 18,
+          "link_title": "🎨Learn My Watercolour Portrait Formula"
+        },
+        {
+          "ad_id": "2586276851849149",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2586276851849149",
+          "start": "2026-10-05",
+          "days": 16,
+          "link_title": "🎨Learn Modern Acrylic Portraits 50% off"
+        },
+        {
+          "ad_id": "931922472981552",
+          "ad_url": "https://www.facebook.com/ads/library/?id=931922472981552",
+          "start": "2026-10-06",
+          "days": 15,
+          "link_title": "🔥 Learn Modern Oil Portraits 50% off"
+        }
+      ],
+      "lp_url": "https://www.skool.com/matt-murphy-art-student-hub-6095/about",
+      "lp_source": "search",
+      "notes": "23 iklan (GBP). URL adalah hub komunitas siswa di Skool (bukan halaman jual). Funnel: free guide → kursus diskon 50%."
+    },
+    {
+      "page_name": "Procreate Tattoo Studio",
+      "page_id": "131213166749460",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=131213166749460",
+      "product": "Procreate Tattoo Studio – 'Your Ultimate Tattoo Toolkit' (brush & stamp Procreate untuk tattoo artist)",
+      "format": "digital brushes/assets",
+      "price_seen": "50% off",
+      "active_ads": 15,
+      "oldest_active_start": "2026-10-16",
+      "max_days_running": 4,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "1665562234930920",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1665562234930920",
+          "start": "2026-10-16",
+          "days": 4,
+          "link_title": "⏳ 50% off Today!"
+        },
+        {
+          "ad_id": "4402797976649233",
+          "ad_url": "https://www.facebook.com/ads/library/?id=4402797976649233",
+          "start": "2026-10-16",
+          "days": 4,
+          "link_title": "⏳ 50% off Today!"
+        },
+        {
+          "ad_id": "1389906966462400",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1389906966462400",
+          "start": "2026-10-16",
+          "days": 4,
+          "link_title": "⏳ 50% off Today!"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "15 iklan (EUR), ~4 hari."
+    },
+    {
+      "page_name": "Peter Farrell Guitar",
+      "page_id": "933971989794022",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=933971989794022",
+      "product": "Peter Farrell Guitar – George Benson Method 'Pocket Books' (7 volume lick book jazz)",
+      "format": "ebook/PDF lick books",
+      "price_seen": "$129 untuk 7 volume ($560 value)",
+      "active_ads": 13,
+      "oldest_active_start": "2026-10-03",
+      "max_days_running": 18,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "1092995796804912",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1092995796804912",
+          "start": "2026-10-03",
+          "days": 18,
+          "link_title": "Ready to transform your solos?"
+        },
+        {
+          "ad_id": "2220656982207912",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2220656982207912",
+          "start": "2026-10-07",
+          "days": 14,
+          "link_title": "Ready to transform your solos?"
+        },
+        {
+          "ad_id": "28971734622461967",
+          "ad_url": "https://www.facebook.com/ads/library/?id=28971734622461967",
+          "start": "2026-10-16",
+          "days": 5,
+          "link_title": "Limited time offer! 🔥🎶"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "13 iklan (BRL), tertua ~18 hari; promo Black Friday."
+    },
+    {
+      "page_name": "Dream&Draw Art School Course",
+      "page_id": "122737540925532",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=122737540925532",
+      "product": "Dream&Draw Art School – 'Begin Watercolor Sketching for Just $9'",
+      "format": "online course/Patreon",
+      "price_seen": "$9",
+      "active_ads": 9,
+      "oldest_active_start": "2026-10-20",
+      "max_days_running": 0,
+      "status": "BARU",
+      "winning_ads": [
+        {
+          "ad_id": "27934277859580958",
+          "ad_url": "https://www.facebook.com/ads/library/?id=27934277859580958",
+          "start": "2026-10-20",
+          "days": 0,
+          "link_title": "🍂 Begin Watercolor Sketching for Just $9"
+        },
+        {
+          "ad_id": "1619339896592790",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1619339896592790",
+          "start": "2026-10-20",
+          "days": 0,
+          "link_title": "🍂 Begin Watercolor Sketching for Just $9"
+        },
+        {
+          "ad_id": "1406934551607140",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1406934551607140",
+          "start": "2026-10-20",
+          "days": 0,
+          "link_title": "Your First Steps in Watercolor Sketching - Autumn Lessons"
+        }
+      ],
+      "lp_url": "https://www.patreon.com/cw/dreamanddrawschool",
+      "lp_source": "search",
+      "notes": "9 iklan baru (<1 hari). Tripwire $9."
+    },
+    {
+      "page_name": "Albert Dros Photography",
+      "page_id": "769986143036783",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=769986143036783",
+      "product": "Albert Dros – 'The Ultimate Landscape Photography Masterclass' + free 20-min lesson",
+      "format": "online course",
+      "price_seen": null,
+      "active_ads": 7,
+      "oldest_active_start": "2026-10-20",
+      "max_days_running": 0,
+      "status": "BARU",
+      "winning_ads": [
+        {
+          "ad_id": "1734284840999834",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1734284840999834",
+          "start": "2026-10-20",
+          "days": 0,
+          "link_title": "The Ultimate Landscape Photography Masterclass"
+        },
+        {
+          "ad_id": "1093613899966173",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1093613899966173",
+          "start": "2026-10-20",
+          "days": 0,
+          "link_title": "The Ultimate Landscape Photography Masterclass"
+        },
+        {
+          "ad_id": "1475733251093301",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1475733251093301",
+          "start": "2026-10-20",
+          "days": 0,
+          "link_title": "The Ultimate Landscape Photography Masterclass"
+        }
+      ],
+      "lp_url": "https://albertdros.com",
+      "lp_source": "search",
+      "notes": "7 iklan baru (EUR). Fotografer landscape terkenal; funnel free lesson."
+    }
+  ],
+  "insights": {
+    "price_range": "$9 (tripwire Dream&Draw) – $27 (PentaPro) – $69–$99 (bundle video Tim Packer) – $129 (lick book bundle) hingga high-ticket coaching (Sonora). Brush/aset Procreate biasanya dijual murah dengan diskon 50–80%.",
+    "angles": [
+      "Lead magnet gratis (e-book chords & scales, free gift brushes, free guide, free lesson) → upsell kursus/membership",
+      "'Break the intermediate plateau' untuk gitaris dewasa 40+",
+      "Transformasi kanvas kosong → hasil lukisan spesifik (project-based)",
+      "'Learn in months, not years' / step-by-step formula (9-Step Portrait System)",
+      "Diskon 50% / Black Friday untuk bundle",
+      "Social proof jumlah murid (192K students)"
+    ],
+    "formats": [
+      "Kursus video online (gitar, piano, acrylic, watercolor, potret)",
+      "Brush & tekstur Procreate (aset digital)",
+      "E-book/PDF (lick book, chords & scales)",
+      "Membership/free trial",
+      "High-ticket coaching gitar"
+    ],
+    "summary": "Niche creative skills di US paling banyak diisi kursus gitar dan lukis (acrylic/watercolor) serta aset Procreate. Iklan paling awet adalah video tips gitar (Guitar Mastery Method ~338 hari, Total Guitar Transformation ~211 hari) dan kursus watercolor fashion (~159 hari), sementara banyak sekolah lukis baru melakukan testing massal. Platform besar (Masterclass, Skillshare, Domestika, Simply Piano, Yousician, Fender Play) tidak dimasukkan."
+  }
+}

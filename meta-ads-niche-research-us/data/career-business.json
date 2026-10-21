@@ -1,0 +1,698 @@
+{
+  "niche": "Career, Freelancing & Coaching Business (karier, freelance & bisnis coaching)",
+  "slug": "career-business",
+  "keywords": [
+    {
+      "term": "job interview",
+      "active_ads_id": 22609
+    },
+    {
+      "term": "coaching business",
+      "active_ads_id": 15633
+    },
+    {
+      "term": "remote job",
+      "active_ads_id": 14183
+    },
+    {
+      "term": "UGC creator",
+      "active_ads_id": 2104
+    },
+    {
+      "term": "copywriting",
+      "active_ads_id": 982
+    },
+    {
+      "term": "Excel course",
+      "active_ads_id": 646
+    },
+    {
+      "term": "virtual assistant course",
+      "active_ads_id": 318
+    },
+    {
+      "term": "resume template",
+      "active_ads_id": 191
+    }
+  ],
+  "advertisers": [
+    {
+      "page_name": "Brandon Forbes",
+      "page_id": "104495111003913",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=104495111003913",
+      "product": "Brandon Forbes – program 'Start Your Coaching Business' + 'AI Agents for Online Coaches'",
+      "format": "online program / coaching",
+      "price_seen": null,
+      "active_ads": 49,
+      "oldest_active_start": "2024-06-06",
+      "max_days_running": 867,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "1237350764094379",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1237350764094379",
+          "start": "2024-06-06",
+          "days": 867,
+          "link_title": "{{product.name}} (template katalog)"
+        },
+        {
+          "ad_id": "844710224425886",
+          "ad_url": "https://www.facebook.com/ads/library/?id=844710224425886",
+          "start": "2024-08-19",
+          "days": 792,
+          "link_title": "(tanpa judul link)"
+        },
+        {
+          "ad_id": "1113532657734508",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1113532657734508",
+          "start": "2026-08-31",
+          "days": 50,
+          "link_title": "Start Your Coaching Business"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Pemain paling awet: iklan evergreen (tanpa judul) aktif sejak Jun 2024 (~867 hari); iklan 'Start Your Coaching Business' ~43 hari."
+    },
+    {
+      "page_name": "Content Creator.com",
+      "page_id": "103977514809228",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=103977514809228",
+      "product": "Content Creator.com – kursus Smartphone Filmmaking 14 hari (iPhone/Samsung) + AI Filmmaking / AI Content Creation",
+      "format": "online course",
+      "price_seen": "diskon 90% (harga tidak terlihat)",
+      "active_ads": 48,
+      "oldest_active_start": "2026-04-22",
+      "max_days_running": 182,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "1267168118962018",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1267168118962018",
+          "start": "2026-04-22",
+          "days": 182,
+          "link_title": "Learn Smartphone Filmmaking In Just 14 Days"
+        },
+        {
+          "ad_id": "1757771408736425",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1757771408736425",
+          "start": "2026-04-22",
+          "days": 182,
+          "link_title": "[90% OFF] Learn Filmmaking in Just 14 Days"
+        },
+        {
+          "ad_id": "4361923717458502",
+          "ad_url": "https://www.facebook.com/ads/library/?id=4361923717458502",
+          "start": "2026-04-22",
+          "days": 182,
+          "link_title": "14 Day Iphone + Samsung Filmmaking Course 90% Off"
+        }
+      ],
+      "lp_url": "https://contentcreator.com",
+      "lp_source": "domain_hint",
+      "notes": "Iklan kursus filmmaking 90% OFF jalan ~183 hari; kini menambah angle AI filmmaking. Domain dari nama halaman."
+    },
+    {
+      "page_name": "Tanner Clemens Collective",
+      "page_id": "172200119314076",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=172200119314076",
+      "product": "Tanner Clemens Collective – program UGC/creator untuk Amazon & Walmart (Free Guide to Amazon Product Videos, 'Your UGC Starting Point Matters')",
+      "format": "free guide → online course/komunitas",
+      "price_seen": null,
+      "active_ads": 43,
+      "oldest_active_start": "2026-09-09",
+      "max_days_running": 41,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "2021293775176701",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2021293775176701",
+          "start": "2026-09-09",
+          "days": 41,
+          "link_title": "(tanpa judul link)"
+        },
+        {
+          "ad_id": "28407865032140700",
+          "ad_url": "https://www.facebook.com/ads/library/?id=28407865032140700",
+          "start": "2026-09-09",
+          "days": 41,
+          "link_title": "(tanpa judul link)"
+        },
+        {
+          "ad_id": "942493065596981",
+          "ad_url": "https://www.facebook.com/ads/library/?id=942493065596981",
+          "start": "2026-09-14",
+          "days": 36,
+          "link_title": "Show Me How -->"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Lead magnet panduan gratis; 43 iklan aktif, tertua ~41 hari."
+    },
+    {
+      "page_name": "Bryan Dulaney",
+      "page_id": "107477827277241",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=107477827277241",
+      "product": "Bryan Dulaney – framework webinar untuk coach/course creator ('Build the Webinar That Introduces Your Course')",
+      "format": "program / done-with-you webinar",
+      "price_seen": null,
+      "active_ads": 16,
+      "oldest_active_start": "2026-09-09",
+      "max_days_running": 41,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "28511811471782507",
+          "ad_url": "https://www.facebook.com/ads/library/?id=28511811471782507",
+          "start": "2026-09-09",
+          "days": 41,
+          "link_title": "(tanpa judul link)"
+        },
+        {
+          "ad_id": "1625512199112830",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1625512199112830",
+          "start": "2026-09-10",
+          "days": 40,
+          "link_title": "Your webinar problem might not be your ads..."
+        },
+        {
+          "ad_id": "3395507370618180",
+          "ad_url": "https://www.facebook.com/ads/library/?id=3395507370618180",
+          "start": "2026-09-10",
+          "days": 40,
+          "link_title": "Your webinar problem might not be your ads..."
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Target coach, trainer & pemilik mastermind; iklan tertua ~41 hari."
+    },
+    {
+      "page_name": "Simone Seol",
+      "page_id": "101440568494728",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=101440568494728",
+      "product": "Simone Seol – copywriting/marketing untuk coach: 'How to Write Specific Copy', Garbage Post Challenge 2.0 (challenge gratis 30 hari)",
+      "format": "free challenge → program",
+      "price_seen": null,
+      "active_ads": 12,
+      "oldest_active_start": "2026-09-20",
+      "max_days_running": 30,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "1389352049508514",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1389352049508514",
+          "start": "2026-09-20",
+          "days": 30,
+          "link_title": "Simone Seol (judul kosong)"
+        },
+        {
+          "ad_id": "1649607650080289",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1649607650080289",
+          "start": "2026-09-20",
+          "days": 30,
+          "link_title": "(tanpa judul link)"
+        },
+        {
+          "ad_id": "1103214099017167",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1103214099017167",
+          "start": "2026-10-20",
+          "days": 0,
+          "link_title": "How to Write Specific Copy"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Tepat ~30 hari (batas WINNING)."
+    },
+    {
+      "page_name": "Ultimate Life OS",
+      "page_id": "258977330641466",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=258977330641466",
+      "product": "Ultimate Life OS – kit template Canva (resume kit 4 template + PDF guide, kit bisnis klien, planner perjalanan)",
+      "format": "template (Canva) / instant download",
+      "price_seen": null,
+      "active_ads": 109,
+      "oldest_active_start": "2026-10-16",
+      "max_days_running": 4,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "1138816645147510",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1138816645147510",
+          "start": "2026-10-16",
+          "days": 4,
+          "link_title": "A Sample Trip To Follow Along"
+        },
+        {
+          "ad_id": "1448762041646692",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1448762041646692",
+          "start": "2026-10-19",
+          "days": 1,
+          "link_title": "Ultimate Life OS | One Kit With Four Templates | ... US Letter Or A4, Your Choice (resume kit)"
+        },
+        {
+          "ad_id": "1433765948081838",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1433765948081838",
+          "start": "2026-10-19",
+          "days": 1,
+          "link_title": "How To Explain A Resume Gap"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Toko template dengan banyak kit; iklan resume kit baru ~1,5 hari. Halaman punya >50 iklan aktif; umur iklan tertua adalah batas bawah (hanya 50 iklan terbaru yang terlihat + pencarian kata kunci tambahan)."
+    },
+    {
+      "page_name": "Gemma Bonham-Carter",
+      "page_id": "689419524586520",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=689419524586520",
+      "product": "Gemma Bonham-Carter – 'Black Friday in a Box' (paket kampanye BF untuk pebisnis online) + case study gratis + setup Claude",
+      "format": "template/program kampanye",
+      "price_seen": null,
+      "active_ads": 71,
+      "oldest_active_start": "2026-10-08",
+      "max_days_running": 12,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "1813564073418547",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1813564073418547",
+          "start": "2026-10-08",
+          "days": 12,
+          "link_title": "Black Friday in a Box Closes November 14"
+        },
+        {
+          "ad_id": "29536209952646956",
+          "ad_url": "https://www.facebook.com/ads/library/?id=29536209952646956",
+          "start": "2026-10-08",
+          "days": 12,
+          "link_title": "Get Your Whole Black Friday Campaign Built, Not Just Planned"
+        },
+        {
+          "ad_id": "955032644326588",
+          "ad_url": "https://www.facebook.com/ads/library/?id=955032644326588",
+          "start": "2026-10-08",
+          "days": 12,
+          "link_title": "I woke up and it was already done"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Kampanye musiman (tutup 14 Nov). Halaman punya >50 iklan aktif; umur iklan tertua adalah batas bawah (hanya 50 iklan terbaru yang terlihat + pencarian kata kunci tambahan)."
+    },
+    {
+      "page_name": "Jim Hamilton",
+      "page_id": "110959035268275",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=110959035268275",
+      "product": "Jim Hamilton – 'List Building For Introverts' + email marketing ('Why Value Emails Make Your List Go Cold')",
+      "format": "online course",
+      "price_seen": "$97",
+      "active_ads": 41,
+      "oldest_active_start": "2026-10-06",
+      "max_days_running": 15,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "2079462256294207",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2079462256294207",
+          "start": "2026-10-06",
+          "days": 15,
+          "link_title": "Turn Your Knowledge Into Profit in 15 Minutes"
+        },
+        {
+          "ad_id": "1074833398751450",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1074833398751450",
+          "start": "2026-10-06",
+          "days": 15,
+          "link_title": "Turn Your Knowledge Into Profit in 15 Minutes"
+        },
+        {
+          "ad_id": "992121703939105",
+          "ad_url": "https://www.facebook.com/ads/library/?id=992121703939105",
+          "start": "2026-10-07",
+          "days": 13,
+          "link_title": "Read This If You're Tired of Sending \"Value\" Emails"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "41 iklan aktif, tertua ~15 hari."
+    },
+    {
+      "page_name": "Natalie Elizabeth Ellis - BossBabe",
+      "page_id": "1831536400245584",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1831536400245584",
+      "product": "Natalie Ellis (BossBabe) – kursus 'Grow on Instagram' (quotes/carousels) $27, program bisnis coaching tanpa launching",
+      "format": "tripwire course → high-ticket program",
+      "price_seen": "$27 (91% off)",
+      "active_ads": 31,
+      "oldest_active_start": "2026-10-07",
+      "max_days_running": 13,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "1430883568999881",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1430883568999881",
+          "start": "2026-10-07",
+          "days": 13,
+          "link_title": "Grow on Instagram with Quotes"
+        },
+        {
+          "ad_id": "1626208348995588",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1626208348995588",
+          "start": "2026-10-14",
+          "days": 6,
+          "link_title": "Grow on Instagram with Quotes"
+        },
+        {
+          "ad_id": "2189937898290387",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2189937898290387",
+          "start": "2026-10-18",
+          "days": 2,
+          "link_title": "Let me show you how | just $27 right now | that is 91% off"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "31 iklan aktif; segmentasi per profesi (coach, wellness, fitness)."
+    },
+    {
+      "page_name": "Lead Ventures",
+      "page_id": "1112741015265287",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1112741015265287",
+      "product": "Lead Ventures – 'Learn a remote skill to break into an in demand industry' + 'The AI setup I run on the side' (untuk sales rep)",
+      "format": "program skill remote (DM funnel)",
+      "price_seen": null,
+      "active_ads": 18,
+      "oldest_active_start": "2026-10-09",
+      "max_days_running": 11,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "2341605006590594",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2341605006590594",
+          "start": "2026-10-09",
+          "days": 11,
+          "link_title": "(tanpa judul link)"
+        },
+        {
+          "ad_id": "2184282005459896",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2184282005459896",
+          "start": "2026-10-09",
+          "days": 11,
+          "link_title": "(tanpa judul link)"
+        },
+        {
+          "ad_id": "2087890108765870",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2087890108765870",
+          "start": "2026-10-09",
+          "days": 11,
+          "link_title": "The AI setup I run on the side"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Funnel DM ('DM REMOTE')."
+    },
+    {
+      "page_name": "Ted McGrath",
+      "page_id": "491976527606083",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=491976527606083",
+      "product": "Ted McGrath – AI Course Builder gratis, 'Build Your High-Ticket Funnel in 60 Minutes', 'Launch Your Course Today'",
+      "format": "tool/kursus gratis → program high-ticket",
+      "price_seen": "gratis (lead magnet)",
+      "active_ads": 16,
+      "oldest_active_start": "2026-10-02",
+      "max_days_running": 18,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "1453571533330610",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1453571533330610",
+          "start": "2026-10-02",
+          "days": 18,
+          "link_title": "Stop Chasing Clients. Start Getting Invited."
+        },
+        {
+          "ad_id": "2709947606107241",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2709947606107241",
+          "start": "2026-10-07",
+          "days": 13,
+          "link_title": "Build Your Course In 5 Minutes"
+        },
+        {
+          "ad_id": "928055583430161",
+          "ad_url": "https://www.facebook.com/ads/library/?id=928055583430161",
+          "start": "2026-10-07",
+          "days": 13,
+          "link_title": "AI Builds Your High-Ticket Funnel Fast"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Target coach/expert yang ingin mengemas keahlian jadi kursus."
+    },
+    {
+      "page_name": "Taylor Slango",
+      "page_id": "459037024613834",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=459037024613834",
+      "product": "Taylor Slango – '5 Claude Skills + AI employee setup', AI Content Scout (lead magnet AI untuk kreator/pebisnis)",
+      "format": "lead magnet AI → program",
+      "price_seen": "gratis",
+      "active_ads": 12,
+      "oldest_active_start": "2026-10-12",
+      "max_days_running": 8,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "937823475730228",
+          "ad_url": "https://www.facebook.com/ads/library/?id=937823475730228",
+          "start": "2026-10-12",
+          "days": 8,
+          "link_title": "(tanpa judul link)"
+        },
+        {
+          "ad_id": "1841850933639437",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1841850933639437",
+          "start": "2026-10-12",
+          "days": 8,
+          "link_title": "5 Free Skills + AI Workflow"
+        },
+        {
+          "ad_id": "2322184015290461",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2322184015290461",
+          "start": "2026-10-12",
+          "days": 8,
+          "link_title": "(tanpa judul link)"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Angle AI skills; 12 iklan aktif."
+    },
+    {
+      "page_name": "K21 Academy",
+      "page_id": "533663503410613",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=533663503410613",
+      "product": "K21 Academy – masterclass karier AI/Cloud (Azure AI & ML, AWS, Agentic AI, Claude Code) – roadmap ke job $150K–$250K",
+      "format": "live masterclass → bootcamp online",
+      "price_seen": null,
+      "active_ads": 9,
+      "oldest_active_start": "2026-09-29",
+      "max_days_running": 21,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "1655671492642768",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1655671492642768",
+          "start": "2026-09-29",
+          "days": 21,
+          "link_title": "Proven RoadMap for High Paying AI, Data & Cloud Roles"
+        },
+        {
+          "ad_id": "1530288738858932",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1530288738858932",
+          "start": "2026-10-12",
+          "days": 8,
+          "link_title": "Proven RoadMap to High-Paying AWS Cloud Jobs"
+        },
+        {
+          "ad_id": "2372934543461492",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2372934543461492",
+          "start": "2026-10-12",
+          "days": 8,
+          "link_title": "You Don't Need a CS Degree for AI Jobs"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Pengiklan UK (GBP) menjangkau US. Hook: 'You Don't Need a CS Degree for AI Jobs'."
+    },
+    {
+      "page_name": "The VA Connection",
+      "page_id": "849158528758222",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=849158528758222",
+      "product": "The VA Connection – Starter Kit virtual assistant ('How I Set My First VA Rate at $50 an Hour'), podcast privat gratis",
+      "format": "starter kit / program VA",
+      "price_seen": null,
+      "active_ads": 7,
+      "oldest_active_start": "2026-10-16",
+      "max_days_running": 5,
+      "status": "BARU",
+      "winning_ads": [
+        {
+          "ad_id": "1387362673384133",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1387362673384133",
+          "start": "2026-10-16",
+          "days": 5,
+          "link_title": "How \"The Organized One\" Becomes A Virtual Assistant From Home"
+        },
+        {
+          "ad_id": "2113485239541437",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2113485239541437",
+          "start": "2026-10-16",
+          "days": 5,
+          "link_title": "How Women Build Virtual Assistant Businesses From Home"
+        },
+        {
+          "ad_id": "1660112908843672",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1660112908843672",
+          "start": "2026-10-17",
+          "days": 3,
+          "link_title": "No Certification Needed: 3 VA Services at $50+ an Hour From Everyday Skills"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Target wanita 40+ yang ingin kerja dari rumah sebagai VA."
+    },
+    {
+      "page_name": "gabi.balbuenah",
+      "page_id": "103908912279952",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=103908912279952",
+      "product": "gabi.balbuenah – resume tailored with AI $7, 'What a recruiter sees in 30 seconds' $7, Remote Ready Playbook $7 (juga versi Spanyol 'Tu CV listo para EE. UU.')",
+      "format": "ebook / template low-ticket",
+      "price_seen": "$7",
+      "active_ads": 6,
+      "oldest_active_start": "2026-10-19",
+      "max_days_running": 2,
+      "status": "BARU",
+      "winning_ads": [
+        {
+          "ad_id": "1673595774289890",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1673595774289890",
+          "start": "2026-10-19",
+          "days": 2,
+          "link_title": "Your resume, tailored with AI · $7"
+        },
+        {
+          "ad_id": "28850357891287476",
+          "ad_url": "https://www.facebook.com/ads/library/?id=28850357891287476",
+          "start": "2026-10-19",
+          "days": 2,
+          "link_title": "What a recruiter sees in 30 seconds · $7"
+        },
+        {
+          "ad_id": "1385238870041573",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1385238870041573",
+          "start": "2026-10-19",
+          "days": 2,
+          "link_title": "Remote Ready Playbook · $7"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Contoh produk impulse $7 untuk pencari kerja (termasuk imigran berbahasa Spanyol)."
+    },
+    {
+      "page_name": "Nick Bandy",
+      "page_id": "484680034737477",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=484680034737477",
+      "product": "Nick Bandy – side gig menjalankan lelang untuk pemilik bisnis ('Run auctions for owners. Get a cut.')",
+      "format": "program/kursus side hustle",
+      "price_seen": null,
+      "active_ads": 5,
+      "oldest_active_start": "2026-10-11",
+      "max_days_running": 10,
+      "status": "BARU",
+      "winning_ads": [
+        {
+          "ad_id": "2859225544463084",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2859225544463084",
+          "start": "2026-10-11",
+          "days": 10,
+          "link_title": "Run auctions for owners. Get a cut."
+        },
+        {
+          "ad_id": "28564606026535243",
+          "ad_url": "https://www.facebook.com/ads/library/?id=28564606026535243",
+          "start": "2026-10-19",
+          "days": 2,
+          "link_title": "Run auctions for owners. Get a cut."
+        },
+        {
+          "ad_id": "1124384270240392",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1124384270240392",
+          "start": "2026-10-19",
+          "days": 1,
+          "link_title": "Business owners say yes to this side gig"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Kampanye baru."
+    },
+    {
+      "page_name": "The Creator Coach Mama",
+      "page_id": "1014600661734318",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1014600661734318",
+      "product": "The Creator Coach Mama – program UGC creator untuk ibu ('Your UGC Starting Point Matters')",
+      "format": "online course",
+      "price_seen": null,
+      "active_ads": 2,
+      "oldest_active_start": "2026-10-20",
+      "max_days_running": 0,
+      "status": "BARU",
+      "winning_ads": [
+        {
+          "ad_id": "4134791840158539",
+          "ad_url": "https://www.facebook.com/ads/library/?id=4134791840158539",
+          "start": "2026-10-20",
+          "days": 0,
+          "link_title": "Unlock The Details -->"
+        },
+        {
+          "ad_id": "1329847389125678",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1329847389125678",
+          "start": "2026-10-20",
+          "days": 0,
+          "link_title": "Your UGC Starting Point Matters"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Kreatif sama dengan Tanner Clemens Collective (kemungkinan afiliasi/partner)."
+    }
+  ],
+  "insights": {
+    "price_range": "Low-ticket $7 (resume/remote playbook) – $27 (BossBabe) – $97 (Jim Hamilton); banyak yang memakai lead magnet gratis (challenge, AI course builder, guide) lalu menjual program high-ticket/coaching.",
+    "angles": [
+      "Mulai bisnis coaching / kemas keahlian jadi kursus dengan AI",
+      "UGC creator untuk Amazon/Walmart",
+      "Virtual assistant $50/jam untuk wanita 40+",
+      "Karier AI/Cloud tanpa gelar CS ($150K+)",
+      "Resume dibuat dengan AI / lolos screening recruiter 30 detik",
+      "Email list & copywriting untuk coach",
+      "Skill remote / side hustle dari rumah"
+    ],
+    "formats": [
+      "online course & program coaching",
+      "webinar/challenge gratis → high-ticket",
+      "template Canva / resume kit",
+      "ebook low-ticket $7"
+    ],
+    "summary": "Niche karier & bisnis coaching di US sangat aktif dengan banyak pemain baru; yang terbukti awet adalah Brandon Forbes (bisnis coaching, iklan evergreen sejak 2024), Content Creator.com (kursus filmmaking 90% off ~183 hari), Tanner Clemens (UGC) dan Bryan Dulaney (webinar). Angle AI (Claude, AI agents, AI course builder) mendominasi kreatif baru. Pemain besar SaaS (Enhancv, Novorésumé, JobAssist, Kodree, Voola) tidak dimasukkan. Catatan: kuota WebSearch habis sehingga hampir semua LP belum ditemukan."
+  }
+}

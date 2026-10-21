@@ -1,0 +1,781 @@
+{
+  "niche": "Survival & Self-Reliance (survival, prepping, homesteading, off-grid)",
+  "slug": "survival",
+  "keywords": [
+    {
+      "term": "survival guide",
+      "active_ads_id": 3118
+    },
+    {
+      "term": "prepper",
+      "active_ads_id": 1911
+    },
+    {
+      "term": "homesteading",
+      "active_ads_id": 525
+    },
+    {
+      "term": "self-sufficient",
+      "active_ads_id": 1271
+    },
+    {
+      "term": "self-sufficiency",
+      "active_ads_id": 615
+    },
+    {
+      "term": "emergency food storage",
+      "active_ads_id": 3289
+    },
+    {
+      "term": "permaculture",
+      "active_ads_id": 83
+    },
+    {
+      "term": "homestead course",
+      "active_ads_id": 127
+    },
+    {
+      "term": "homesteader",
+      "active_ads_id": 202
+    },
+    {
+      "term": "bushcraft",
+      "active_ads_id": 340
+    },
+    {
+      "term": "EMP attack",
+      "active_ads_id": 170
+    },
+    {
+      "term": "Amish",
+      "active_ads_id": 7081
+    }
+  ],
+  "advertisers": [
+    {
+      "page_name": "4 Foot Farm Blueprint",
+      "page_id": "1377091479178258",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1377091479178258",
+      "product": "The 4 Foot Farm Blueprint — panduan menanam pangan di lahan 4 kaki (+2 bonus), funnel lead magnet 'FREE Mini-Guide' lalu upsell",
+      "format": "ebook/guide",
+      "price_seen": "$7",
+      "active_ads": 29,
+      "oldest_active_start": "2026-03-11",
+      "max_days_running": 223,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "942345131576367",
+          "ad_url": "https://www.facebook.com/ads/library/?id=942345131576367",
+          "start": "2026-03-11",
+          "days": 223,
+          "link_title": "FREE TODAY! Secret to a Never-Ending Food Supply"
+        },
+        {
+          "ad_id": "969375002269878",
+          "ad_url": "https://www.facebook.com/ads/library/?id=969375002269878",
+          "start": "2026-03-12",
+          "days": 223,
+          "link_title": "FREE Mini-Guide: How To Grow Food In Small Spaces"
+        },
+        {
+          "ad_id": "1065576596296686",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1065576596296686",
+          "start": "2026-10-07",
+          "days": 14,
+          "link_title": "The 4 Foot Farm Blueprint"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Iklan tertua sudah ~7 bulan aktif; hook 'never-ending food supply' & hemat belanja dapur; harga tripwire $7 'No Subscription'. LP tidak ditemukan via search."
+    },
+    {
+      "page_name": "Finca Tierra Permaculture",
+      "page_id": "122590528022",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=122590528022",
+      "product": "Permaculture Design Certificate (Costa Rica) + Tropical Permaculture Course & 'Step-by-Step Tropical Homestead Guide'",
+      "format": "course (on-site PDC + online/guide)",
+      "price_seen": "$2,000 (PDC, dari listing pihak ketiga)",
+      "active_ads": 7,
+      "oldest_active_start": "2026-05-14",
+      "max_days_running": 159,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "1622897942105564",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1622897942105564",
+          "start": "2026-05-14",
+          "days": 159,
+          "link_title": "Choose Your Course Date"
+        },
+        {
+          "ad_id": "1474093720657403",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1474093720657403",
+          "start": "2026-06-02",
+          "days": 140,
+          "link_title": "Permaculture Design Certificate in Costa Rica"
+        },
+        {
+          "ad_id": "1300831742058392",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1300831742058392",
+          "start": "2026-09-24",
+          "days": 26,
+          "link_title": "Your Step-by-Step Tropical Homestead Guide"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Campuran: PDC tatap muka di Costa Rica (bukan murni digital) + kursus/guide online. Situs resmi tidak ditemukan (hanya direktori pihak ketiga)."
+    },
+    {
+      "page_name": "Farm Like a Lunatic",
+      "page_id": "923934717474142",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=923934717474142",
+      "product": "Farm Like a Lunatic (Joel Salatin) — bundle kursus online farming & homesteading (11 kursus, 49+ jam, lifetime access)",
+      "format": "online course bundle",
+      "price_seen": null,
+      "active_ads": 14,
+      "oldest_active_start": "2026-07-08",
+      "max_days_running": 104,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "2925002044528720",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2925002044528720",
+          "start": "2026-07-08",
+          "days": 104,
+          "link_title": "Foundations for Farming and Homesteading | Farm Like a Lunatic"
+        },
+        {
+          "ad_id": "1776448853376264",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1776448853376264",
+          "start": "2026-08-04",
+          "days": 77,
+          "link_title": ""
+        },
+        {
+          "ad_id": "1577113107283019",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1577113107283019",
+          "start": "2026-08-17",
+          "days": 65,
+          "link_title": "Homestead Your Way to Financial Independence & Security"
+        }
+      ],
+      "lp_url": "https://farm-like-a-lunatic.teachable.com",
+      "lp_source": "search",
+      "notes": "Kursus video di Teachable; angle 'food security is a skill', 'before you buy land', diskon 33%. Search menyebut 8 kursus/39 jam (iklan terbaru klaim 11 kursus)."
+    },
+    {
+      "page_name": "The Lost Skills of Independence",
+      "page_id": "984264748113661",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=984264748113661",
+      "product": "The Lost Skills of Independence (Claude Davis) — 200 skill yang terlupakan (homesteading, off-grid, preservasi, remedies)",
+      "format": "book (fisik spiral + digital)",
+      "price_seen": "$39",
+      "active_ads": 558,
+      "oldest_active_start": "2026-07-16",
+      "max_days_running": 97,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "1032176552698244",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1032176552698244",
+          "start": "2026-07-16",
+          "days": 97,
+          "link_title": "📖 200 Lost Skills They Don't Teach Anymore"
+        },
+        {
+          "ad_id": "974488048902221",
+          "ad_url": "https://www.facebook.com/ads/library/?id=974488048902221",
+          "start": "2026-07-16",
+          "days": 97,
+          "link_title": "📖 200 Lost Skills They Don't Teach Anymore"
+        },
+        {
+          "ad_id": "1029623676101077",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1029623676101077",
+          "start": "2026-07-17",
+          "days": 96,
+          "link_title": "📖 200 Lost Skills They Don't Teach Anymore"
+        }
+      ],
+      "lp_url": "https://store.motherearthnews.com/products/the-lost-skills-of-independence",
+      "lp_source": "search",
+      "notes": "558 iklan aktif — volume sangat besar. Iklan lama (~97 hari) ditemukan via pencarian kata kunci 'wild edibles' (page search hanya menampilkan 50 terbaru). Franchise 'Lost Ways' Claude Davis; buku fisik spiral 262 hlm (biasanya ada versi digital)."
+    },
+    {
+      "page_name": "Paul Jakobson",
+      "page_id": "1209649175557829",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1209649175557829",
+      "product": "Promosi buku/plan DIY self-sufficiency (water from air, rainwater, root cellar $50, blackout prep) — klaim '6 Million+ Copies Sold'",
+      "format": "ebook/DIY plans (affiliate)",
+      "price_seen": null,
+      "active_ads": 21,
+      "oldest_active_start": "2026-09-22",
+      "max_days_running": 28,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "1634230151619400",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1634230151619400",
+          "start": "2026-09-22",
+          "days": 28,
+          "link_title": "Make Water From Thin Air"
+        },
+        {
+          "ad_id": "2323133138445028",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2323133138445028",
+          "start": "2026-09-22",
+          "days": 28,
+          "link_title": "Could You Last 3 Days Without The Grid?"
+        },
+        {
+          "ad_id": "1409015211433293",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1409015211433293",
+          "start": "2026-09-22",
+          "days": 28,
+          "link_title": "Build These Before the Next Blackout"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Currency EUR, kemungkinan afiliasi (ClickBank-style). Banyak variasi hook DIY air/listrik/makanan. Hampir 30 hari."
+    },
+    {
+      "page_name": "The Permaculture Student",
+      "page_id": "1591266081160744",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1591266081160744",
+      "product": "The Permaculture Student (Matt Powers) — kursus permaculture online / R-Soil 2026",
+      "format": "online course",
+      "price_seen": "$297 (Permaculture Student Online)",
+      "active_ads": 2,
+      "oldest_active_start": "2026-10-02",
+      "max_days_running": 18,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "4600295713547663",
+          "ad_url": "https://www.facebook.com/ads/library/?id=4600295713547663",
+          "start": "2026-10-02",
+          "days": 18,
+          "link_title": "R-Soil 2026"
+        },
+        {
+          "ad_id": "1158631383396021",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1158631383396021",
+          "start": "2026-10-20",
+          "days": 0,
+          "link_title": ""
+        }
+      ],
+      "lp_url": "https://permaculture123.gumroad.com/l/cGoBl",
+      "lp_source": "search",
+      "notes": "LP gumroad 'permaculture123' muncul untuk kursus Permaculture Student Online (perlu verifikasi listing persis)."
+    },
+    {
+      "page_name": "Digital books ",
+      "page_id": "1324311660754895",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1324311660754895",
+      "product": "Paket blueprint digital: FARMSTEAD BUILD BLUEPRINT, The Garden Room Build Blueprint (+ produk lain: HVAC, EV diagnostic, oftalmologi)",
+      "format": "ebook/DIY plans",
+      "price_seen": null,
+      "active_ads": 61,
+      "oldest_active_start": "2026-10-07",
+      "max_days_running": 13,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "1590998192822347",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1590998192822347",
+          "start": "2026-10-07",
+          "days": 13,
+          "link_title": "FaultCompass EV & Hybrid Diagnostic System™"
+        },
+        {
+          "ad_id": "918423821148812",
+          "ad_url": "https://www.facebook.com/ads/library/?id=918423821148812",
+          "start": "2026-10-07",
+          "days": 13,
+          "link_title": "The Garden Room Build Blueprint™"
+        },
+        {
+          "ad_id": "1490890393105988",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1490890393105988",
+          "start": "2026-10-16",
+          "days": 5,
+          "link_title": "FARMSTEAD BUILD BLUEPRINT"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Toko multi-niche (gaya PLR/AI-ebook); produk homestead = Farmstead & Garden Room build blueprint. 61 iklan (>50, batas bawah)."
+    },
+    {
+      "page_name": "Homesteading Family",
+      "page_id": "313366399043736",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=313366399043736",
+      "product": "Homestead Kitchen Magazine (print+digital) + Video Vault $9/bln; funnel free training (cheese making, canning, 4-part herbal remedies) → Homestead Kitchen Membership",
+      "format": "membership/digital magazine + courses",
+      "price_seen": "$9/mo; membership $320/thn",
+      "active_ads": 77,
+      "oldest_active_start": "2026-10-09",
+      "max_days_running": 11,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "2255223445039603",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2255223445039603",
+          "start": "2026-10-09",
+          "days": 11,
+          "link_title": "Homestead Kitchen Magazine: Print + Digital"
+        },
+        {
+          "ad_id": "1454585106532211",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1454585106532211",
+          "start": "2026-10-09",
+          "days": 11,
+          "link_title": "Monthly Homestead Kitchen Magazine"
+        },
+        {
+          "ad_id": "1674085241024638",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1674085241024638",
+          "start": "2026-10-09",
+          "days": 11,
+          "link_title": "Homestead Kitchen Magazine + Video Vault 🎥 $9/mo"
+        }
+      ],
+      "lp_url": "https://classes.homesteadingfamily.com/homestead-kitchen-magazine",
+      "lp_source": "search",
+      "notes": "77 iklan aktif (>50, usia tertua = batas bawah). Pemain besar homesteading; lead magnet free training + langganan bulanan."
+    },
+    {
+      "page_name": "The Amish Ways",
+      "page_id": "385207881346032",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=385207881346032",
+      "product": "The Amish Ways (Eddie Swartzentruber) — buku survival/homesteading ala Amish (EMP, grid-down)",
+      "format": "book (fisik + digital)",
+      "price_seen": "$17–$37 (listing retailer)",
+      "active_ads": 20,
+      "oldest_active_start": "2026-10-16",
+      "max_days_running": 5,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "2222560794982777",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2222560794982777",
+          "start": "2026-10-16",
+          "days": 5,
+          "link_title": "The Amish Ways"
+        },
+        {
+          "ad_id": "1600257225233248",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1600257225233248",
+          "start": "2026-10-16",
+          "days": 5,
+          "link_title": "The Amish Ways"
+        },
+        {
+          "ad_id": "2075501779762555",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2075501779762555",
+          "start": "2026-10-19",
+          "days": 1,
+          "link_title": "You Probably Won't Outlive An EMP Without These Amish Secrets"
+        }
+      ],
+      "lp_url": "https://www.theamishwaysbook.com",
+      "lp_source": "search",
+      "notes": "Hook ketakutan EMP + otoritas 'mantan Amish'. Domain dari profil Trustpilot produk."
+    },
+    {
+      "page_name": "Wild Abundance",
+      "page_id": "814852635202027",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=814852635202027",
+      "product": "Wild Abundance — kelas carpentry/DIY, Tiny House Academy online, free class & free tiny house planning tool",
+      "format": "online course + workshop",
+      "price_seen": "$1,050–$2,050 (workshop carpentry)",
+      "active_ads": 13,
+      "oldest_active_start": "2026-10-15",
+      "max_days_running": 5,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "2287552092026442",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2287552092026442",
+          "start": "2026-10-15",
+          "days": 5,
+          "link_title": "👉 FREE Class | Get Instant Access"
+        },
+        {
+          "ad_id": "1694429448710221",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1694429448710221",
+          "start": "2026-10-16",
+          "days": 5,
+          "link_title": "👉 FREE Class | Get Instant Access"
+        },
+        {
+          "ad_id": "2618418785261042",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2618418785261042",
+          "start": "2026-10-16",
+          "days": 5,
+          "link_title": "Earth-based classes + retreats"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Campuran kelas online (Tiny House Academy, gardening) & workshop offline di NC; funnel free class."
+    },
+    {
+      "page_name": "Lauren Mitchell",
+      "page_id": "1344442602083602",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1344442602083602",
+      "product": "Advertorial prepper ('If you've ever lost power for more than a day', 'Every homeowner needs to read this') — produk akhir belum terverifikasi",
+      "format": "advertorial (belum pasti)",
+      "price_seen": null,
+      "active_ads": 22,
+      "oldest_active_start": "2026-10-18",
+      "max_days_running": 2,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "1100336096081888",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1100336096081888",
+          "start": "2026-10-18",
+          "days": 2,
+          "link_title": "If you're a parent or grandparent, please read this👆"
+        },
+        {
+          "ad_id": "3765966636875880",
+          "ad_url": "https://www.facebook.com/ads/library/?id=3765966636875880",
+          "start": "2026-10-18",
+          "days": 2,
+          "link_title": "If you're a parent or grandparent, please read this👆"
+        },
+        {
+          "ad_id": "3011513922528400",
+          "ad_url": "https://www.facebook.com/ads/library/?id=3011513922528400",
+          "start": "2026-10-21",
+          "days": 0,
+          "link_title": "If you've ever lost power for more than a day 👆"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Persona page (nama orang) gaya advertorial; 22 iklan aktif. Produk akhir tidak terlihat dari data Ad Library."
+    },
+    {
+      "page_name": "The Prepper Codex",
+      "page_id": "1400866993100024",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1400866993100024",
+      "product": "Bundle eBook survival: 20 Survival Field Manuals, Grid-Down Medical Library (20 eBooks), 20 Homesteading Guides, 20 Wilderness Field Manuals",
+      "format": "ebook bundle",
+      "price_seen": "$29.95–$34.95",
+      "active_ads": 10,
+      "oldest_active_start": "2026-10-18",
+      "max_days_running": 2,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "1545455080950201",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1545455080950201",
+          "start": "2026-10-18",
+          "days": 2,
+          "link_title": "The Grid-Down Medical Library (20 eBooks) - $29.95"
+        },
+        {
+          "ad_id": "1605324707947383",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1605324707947383",
+          "start": "2026-10-18",
+          "days": 2,
+          "link_title": "20 Homesteading Guides for $34.95"
+        },
+        {
+          "ad_id": "1424201759133026",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1424201759133026",
+          "start": "2026-10-18",
+          "days": 2,
+          "link_title": "20 Wilderness Field Manuals, $29.95"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Model bundle 20 ebook per tema (kemungkinan PLR/AI). Hook 'No Doctor. No Pharmacy.', 'Lost GPS. Dead Phone. Now What?'."
+    },
+    {
+      "page_name": "American Ready",
+      "page_id": "1379406858587278",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1379406858587278",
+      "product": "Advertorial preparedness ('all your supplies go to waste if you're sick', 'Your Bathroom Backup Plan', hurricane plan) — produk akhir belum terverifikasi",
+      "format": "advertorial → guide/kit (belum pasti)",
+      "price_seen": null,
+      "active_ads": 138,
+      "oldest_active_start": "2026-10-20",
+      "max_days_running": 0,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "1748833786417540",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1748833786417540",
+          "start": "2026-10-20",
+          "days": 0,
+          "link_title": "all your supplies go to waste if you're sick"
+        },
+        {
+          "ad_id": "1683320283359845",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1683320283359845",
+          "start": "2026-10-20",
+          "days": 0,
+          "link_title": "all your supplies go to waste if you're sick"
+        },
+        {
+          "ad_id": "1648736526629843",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1648736526629843",
+          "start": "2026-10-20",
+          "days": 0,
+          "link_title": "this sewer worker changed everything about my hurricane plan"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "138 iklan (>50, batas bawah). Bagian jaringan advertorial 'If you're a parent or grandparent, please read this' (juga Gloria Barnes, Homefront America) yang sebagian mendorong produk fisik — perlakukan sebagai indikasi niche, bukan pasti digital."
+    },
+    {
+      "page_name": "Self-Sufficient Backyard - by Ron and Johanna",
+      "page_id": "110476287276149",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=110476287276149",
+      "product": "The Self-Sufficient Backyard (Ron & Johanna Melchiore) — 100+ proyek DIY self-reliant",
+      "format": "book (fisik + digital)",
+      "price_seen": "$37",
+      "active_ads": 85,
+      "oldest_active_start": "2026-10-20",
+      "max_days_running": 0,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "1711992143674031",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1711992143674031",
+          "start": "2026-10-20",
+          "days": 0,
+          "link_title": "100+ Ways to Become More Self-Reliant at Home"
+        },
+        {
+          "ad_id": "1609222487336904",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1609222487336904",
+          "start": "2026-10-20",
+          "days": 0,
+          "link_title": "100+ Ways to Become More Self-Reliant at Home"
+        },
+        {
+          "ad_id": "2238716393352308",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2238716393352308",
+          "start": "2026-10-20",
+          "days": 0,
+          "link_title": "100+ Ways to Become More Self-Reliant at Home"
+        }
+      ],
+      "lp_url": "https://store.motherearthnews.com/products/the-self-sufficient-backyard",
+      "lp_source": "search",
+      "notes": "85 iklan aktif (>50; 50 terbaru semua <1 hari → usia = batas bawah, kemungkinan iklan di-refresh harian). LP = listing toko Mother Earth News (retailer) untuk buku yang sama; edisi paperback 266 hlm."
+    },
+    {
+      "page_name": "Homestead Education",
+      "page_id": "814611445412014",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=814611445412014",
+      "product": "The Homestead Education — kurikulum homeschool homesteading (Homestead Science, Agriculture Food & Society)",
+      "format": "digital curriculum",
+      "price_seen": null,
+      "active_ads": 2,
+      "oldest_active_start": "2026-10-12",
+      "max_days_running": 9,
+      "status": "BARU",
+      "winning_ads": [
+        {
+          "ad_id": "1099572112793208",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1099572112793208",
+          "start": "2026-10-12",
+          "days": 9,
+          "link_title": "Homestead Science Plant Sample Lessons - The Homestead Education"
+        },
+        {
+          "ad_id": "3349227891930344",
+          "ad_url": "https://www.facebook.com/ads/library/?id=3349227891930344",
+          "start": "2026-10-12",
+          "days": 8,
+          "link_title": "Agriculture, Food, & Society - High School Humanities Course Guide - Homestead Agriculture Curriculum | The Homestead Education"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Kurikulum oleh Kody Hanner; sasaran keluarga homeschool."
+    },
+    {
+      "page_name": "Offgrid Homestead Fam",
+      "page_id": "102679938881108",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=102679938881108",
+      "product": "Homesteading Vision Board Book | Offgrid Planning Workbook",
+      "format": "printable workbook",
+      "price_seen": null,
+      "active_ads": 1,
+      "oldest_active_start": "2026-10-16",
+      "max_days_running": 4,
+      "status": "BARU",
+      "winning_ads": [
+        {
+          "ad_id": "1043851962021854",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1043851962021854",
+          "start": "2026-10-16",
+          "days": 4,
+          "link_title": "Homesteading Vision Board Book | Offgrid Planning Workbook"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Produk planner/workbook printable untuk perencana off-grid."
+    },
+    {
+      "page_name": "Scale Nova",
+      "page_id": "902384886298405",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=902384886298405",
+      "product": "'How I Generate Water Off-The-Grid' — VSL/plan DIY air off-grid",
+      "format": "DIY plan/ebook (VSL)",
+      "price_seen": null,
+      "active_ads": 6,
+      "oldest_active_start": "2026-10-20",
+      "max_days_running": 0,
+      "status": "BARU",
+      "winning_ads": [
+        {
+          "ad_id": "1149227554434937",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1149227554434937",
+          "start": "2026-10-20",
+          "days": 0,
+          "link_title": "How I Generate Water Off-The-Grid"
+        },
+        {
+          "ad_id": "1464166842293998",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1464166842293998",
+          "start": "2026-10-20",
+          "days": 0,
+          "link_title": "How I Generate Water Off-The-Grid"
+        },
+        {
+          "ad_id": "1585631659480913",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1585631659480913",
+          "start": "2026-10-20",
+          "days": 0,
+          "link_title": "How I Generate Water Off-The-Grid"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Angle klasik ClickBank 'water from air'."
+    },
+    {
+      "page_name": "Joh Smith",
+      "page_id": "1367559529764707",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1367559529764707",
+      "product": "'A Forgotten Tesla Design Is Quietly Powering Homes' — VSL plan DIY energi rumah",
+      "format": "DIY power plan (VSL)",
+      "price_seen": null,
+      "active_ads": 5,
+      "oldest_active_start": "2026-10-21",
+      "max_days_running": 0,
+      "status": "BARU",
+      "winning_ads": [
+        {
+          "ad_id": "2201365917428817",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2201365917428817",
+          "start": "2026-10-21",
+          "days": 0,
+          "link_title": "A Forgotten Tesla Design Is Quietly Powering Homes."
+        },
+        {
+          "ad_id": "2117449025809030",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2117449025809030",
+          "start": "2026-10-21",
+          "days": 0,
+          "link_title": "A Forgotten Tesla Design Is Quietly Powering Homes."
+        },
+        {
+          "ad_id": "1406838248097382",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1406838248097382",
+          "start": "2026-10-21",
+          "days": 0,
+          "link_title": "A Forgotten Tesla Design Is Quietly Powering Homes."
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Angle 'free energy/Tesla' — klaim berlebihan, hati-hati kepatuhan iklan."
+    },
+    {
+      "page_name": "Build Outside The Box",
+      "page_id": "147910475079434",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=147910475079434",
+      "product": "Build Your Debt-Free Earthen Home Live Class (natural building: cob, adobe, earthbag, dll.)",
+      "format": "live class / online course",
+      "price_seen": null,
+      "active_ads": 1,
+      "oldest_active_start": "2026-10-21",
+      "max_days_running": 0,
+      "status": "BARU",
+      "winning_ads": [
+        {
+          "ad_id": "1137237902104461",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1137237902104461",
+          "start": "2026-10-21",
+          "days": 0,
+          "link_title": "Build Your Debt-Free Earthen Home Live Class"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Search hanya menemukan blog pihak ketiga tentang 'Build Outside The Box Mastermind' (17 teknik natural building)."
+    },
+    {
+      "page_name": "Homesteading To Riches",
+      "page_id": "430400600856550",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=430400600856550",
+      "product": "'Start With a Shelf and a List' — konten/guide food storage pemula",
+      "format": "guide (belum pasti)",
+      "price_seen": null,
+      "active_ads": 1,
+      "oldest_active_start": "2026-10-21",
+      "max_days_running": 0,
+      "status": "BARU",
+      "winning_ads": [
+        {
+          "ad_id": "1397579480105072",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1397579480105072",
+          "start": "2026-10-21",
+          "days": 0,
+          "link_title": "Start With a Shelf and a List"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Baru 1 iklan, <1 hari."
+    }
+  ],
+  "insights": {
+    "price_range": "Tripwire $7 (4 Foot Farm) → bundle ebook $29.95–$34.95 (Prepper Codex) → buku fisik+digital $17–$39 (Lost Skills, Amish Ways, Self-Sufficient Backyard) → membership $9/bln–$320/thn (Homesteading Family) → kursus $297 hingga PDC on-site $2,000.",
+    "angles": [
+      "Ketakutan krisis: EMP, blackout/grid-down, badai, supply chain ('Could you last 3 days without the grid?')",
+      "Nostalgia & otoritas 'skill yang hilang' (Amish, kakek-nenek, 200 lost skills)",
+      "Hemat biaya pangan & 'never-ending food supply' dari lahan kecil",
+      "Advertorial persona 'If you're a parent or grandparent, please read this 👆'",
+      "DIY water/power 'from thin air' / 'forgotten Tesla design' (VSL ClickBank-style)",
+      "Free training/mini-guide sebagai lead magnet lalu upsell membership/kursus"
+    ],
+    "formats": [
+      "Buku fisik+digital (Claude Davis/Lost Ways style)",
+      "Bundle 20 ebook PLR/AI",
+      "Tripwire ebook $7",
+      "Membership + digital magazine",
+      "Kursus video (Teachable/Gumroad)",
+      "VSL DIY plans",
+      "Printable workbook/planner"
+    ],
+    "summary": "Niche survival/homesteading di US didominasi advertorial dan penerbit buku 'Lost skills' dengan volume iklan masif (ratusan iklan, kreatif di-refresh harian sehingga usia iklan sulit diukur). Pemain WINNING yang terverifikasi >30 hari adalah produk digital nyata: tripwire $7 (4 Foot Farm Blueprint), bundle kursus Joel Salatin (Farm Like a Lunatic), Finca Tierra, serta buku 'The Lost Skills of Independence' (558 iklan aktif, kreatif tertua ~97 hari). Banyak advertiser prepper mencampur produk fisik (solar powerbank, seed vault, food kit) — Rivanta Power, Carol Hensley, Homestead Ready, Dale Keller sengaja dikeluarkan karena fisik."
+  }
+}

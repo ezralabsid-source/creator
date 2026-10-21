@@ -1,0 +1,812 @@
+{
+  "niche": "Mental Health & Self-Healing (kesehatan mental, regulasi sistem saraf, trauma, ADHD)",
+  "slug": "mental-health",
+  "keywords": [
+    {
+      "term": "nervous system regulation",
+      "active_ads_id": 4773
+    },
+    {
+      "term": "nervous system reset program",
+      "active_ads_id": 940
+    },
+    {
+      "term": "ADHD planner",
+      "active_ads_id": 955
+    },
+    {
+      "term": "sleep hypnosis",
+      "active_ads_id": 899
+    },
+    {
+      "term": "inner child healing",
+      "active_ads_id": 633
+    },
+    {
+      "term": "shadow work journal",
+      "active_ads_id": 456
+    },
+    {
+      "term": "anxiety workbook",
+      "active_ads_id": 406
+    },
+    {
+      "term": "people pleaser",
+      "active_ads_id": 405
+    },
+    {
+      "term": "vagus nerve exercises",
+      "active_ads_id": 402
+    },
+    {
+      "term": "ADHD workbook",
+      "active_ads_id": 275
+    },
+    {
+      "term": "trauma recovery course",
+      "active_ads_id": 164
+    },
+    {
+      "term": "somatic healing program",
+      "active_ads_id": 138
+    },
+    {
+      "term": "emotional regulation workbook",
+      "active_ads_id": 87
+    },
+    {
+      "term": "overthinking",
+      "active_ads_id": 26420
+    },
+    {
+      "term": "anxiety relief program",
+      "active_ads_id": 1876
+    }
+  ],
+  "advertisers": [
+    {
+      "page_name": "Leslie Huddart L.Ac.",
+      "page_id": "346869485735571",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=346869485735571",
+      "product": "Program online pelepasan trauma/emotional block ('Finally Release the Blocks Keeping You Stuck', '5-Step Path to Real Transformation', 'Gentle but Powerful Trauma Release')",
+      "format": "online program / course",
+      "price_seen": null,
+      "active_ads": 31,
+      "oldest_active_start": "2025-09-18",
+      "max_days_running": 397,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "31325404977105472",
+          "ad_url": "https://www.facebook.com/ads/library/?id=31325404977105472",
+          "start": "2025-09-18",
+          "days": 397,
+          "link_title": "{{product.name}} (catalog ad)"
+        },
+        {
+          "ad_id": "1675102396973098",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1675102396973098",
+          "start": "2026-05-15",
+          "days": 158,
+          "link_title": "Finally Release the Blocks Keeping You Stuck"
+        },
+        {
+          "ad_id": "1907326396572595",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1907326396572595",
+          "start": "2026-06-17",
+          "days": 126,
+          "link_title": "Finally Release the Blocks Keeping You Stuck"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Pengiklan paling awet di niche ini: iklan katalog aktif sejak Sep 2025 (~397 hari) dan beberapa creative 'Finally Release the Blocks' jalan 120+ hari. Hook: 'masih bawa trauma yang sama?', urgensi 'act now'. Praktisi akupunktur (L.Ac.) yang menjual program online."
+    },
+    {
+      "page_name": "Thinkovia",
+      "page_id": "590434814155633",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=590434814155633",
+      "product": "Buku/ebook self-help untuk overwhelm & emotional drain ('Not Broken. Just Overwhelmed.', 'I Wasn't Too Sensitive. I Was Drained.', 'The Book I Almost Skipped Ended Up Changing Everything')",
+      "format": "ebook / buku self-help",
+      "price_seen": null,
+      "active_ads": 26,
+      "oldest_active_start": "2026-05-15",
+      "max_days_running": 158,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "1461606915161323",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1461606915161323",
+          "start": "2026-05-15",
+          "days": 158,
+          "link_title": "Not Broken. Just Overwhelmed."
+        },
+        {
+          "ad_id": "4310476979218443",
+          "ad_url": "https://www.facebook.com/ads/library/?id=4310476979218443",
+          "start": "2026-05-15",
+          "days": 158,
+          "link_title": "You're Not The Problem"
+        },
+        {
+          "ad_id": "1330202745981328",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1330202745981328",
+          "start": "2026-07-08",
+          "days": 105,
+          "link_title": "I Wasn't Too Sensitive. I Was Drained."
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Iklan tertua ~158 hari (Mei 2026). Gaya hook POV/pengakuan orang pertama + emoji di headline. Kemungkinan funnel buku murah ke upsell."
+    },
+    {
+      "page_name": "NICABM",
+      "page_id": "111361091313",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=111361091313",
+      "product": "Pelatihan online/CE untuk terapis: AI & Ethics in Therapy (Frederic Reamer), IFS untuk konflik relasi, trauma brainstem, distress tolerance (21 expert, 50% off + CE)",
+      "format": "online course / webinar series (B2B terapis)",
+      "price_seen": "$97 (diskon dari $197, workshop AI Ethics)",
+      "active_ads": 51,
+      "oldest_active_start": "2026-07-24",
+      "max_days_running": 88,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "1338911278223229",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1338911278223229",
+          "start": "2026-07-24",
+          "days": 88,
+          "link_title": "AI and Ethics in Therapy — A Workshop with Frederic Reamer, PhD"
+        },
+        {
+          "ad_id": "1009143875328379",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1009143875328379",
+          "start": "2026-07-24",
+          "days": 88,
+          "link_title": "AI and Ethics in Therapy — A Workshop with Frederic Reamer, PhD"
+        },
+        {
+          "ad_id": "1772428824202900",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1772428824202900",
+          "start": "2026-07-24",
+          "days": 88,
+          "link_title": "Using AI in Therapy? Here's What You Need to Know"
+        }
+      ],
+      "lp_url": "https://www.nicabm.com/program/ai-ethics-reamer-1",
+      "lp_source": "search",
+      "notes": "Pemain besar edukasi terapis; 51 iklan aktif, creative AI Ethics jalan ~88 hari. Pola: free series -> paket diskon 50-75% + CE credit, urgensi 'CLOSING NOW'."
+    },
+    {
+      "page_name": "Healing Pathways",
+      "page_id": "252628184610273",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=252628184610273",
+      "product": "Workbook & toolkit PDF bergambar diskon 90%: Addiction Recovery Workbook, Sobriety Mega Bundle, DBT Skills Coloring Book, ADHD Executive Functioning Bundle, Healing Trauma Workbook, Communication Skills Toolkit",
+      "format": "printable workbook / PDF bundle",
+      "price_seen": "diskon 90% (harga persis tidak terlihat)",
+      "active_ads": 20,
+      "oldest_active_start": "2026-09-14",
+      "max_days_running": 36,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "1049811707845371",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1049811707845371",
+          "start": "2026-09-14",
+          "days": 36,
+          "link_title": "(no link title)"
+        },
+        {
+          "ad_id": "2506154356542468",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2506154356542468",
+          "start": "2026-09-16",
+          "days": 34,
+          "link_title": "90% Off DBT Skills Coloring Book"
+        },
+        {
+          "ad_id": "966299809848276",
+          "ad_url": "https://www.facebook.com/ads/library/?id=966299809848276",
+          "start": "2026-09-16",
+          "days": 34,
+          "link_title": "90% Off ADHD Executive Functioning Bundle"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Model 'bundle PDF 90% OFF' khas toko Shopify/Etsy-style; iklan tertua ~36 hari, rotasi produk tiap 2-3 minggu."
+    },
+    {
+      "page_name": "Psychosomatic Collective",
+      "page_id": "860593077140854",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=860593077140854",
+      "product": "Program pemulihan narcissistic abuse ('Quantum Leaping after Narcissistic Abuse', 'Heal from Narcissistic Abuse | Manifesting + Complex Trauma', 'Turn Your Pain Into Purpose')",
+      "format": "online program / coaching",
+      "price_seen": null,
+      "active_ads": 19,
+      "oldest_active_start": "2026-09-29",
+      "max_days_running": 21,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "3699351030212134",
+          "ad_url": "https://www.facebook.com/ads/library/?id=3699351030212134",
+          "start": "2026-09-29",
+          "days": 21,
+          "link_title": "Heal from Narcissistic Abuse | Manifesting + Complex Trauma"
+        },
+        {
+          "ad_id": "1114617507738955",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1114617507738955",
+          "start": "2026-09-29",
+          "days": 21,
+          "link_title": "Heal from Narcissistic Abuse | Manifesting + Complex Trauma"
+        },
+        {
+          "ad_id": "1126648039813264",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1126648039813264",
+          "start": "2026-09-29",
+          "days": 21,
+          "link_title": "Heal from Narcissistic Abuse | Manifesting + Complex Trauma"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Gabungan trauma + manifesting (crossover ke spiritualitas). Iklan tertua ~21 hari."
+    },
+    {
+      "page_name": "The No-Spiral Method",
+      "page_id": "1159724613883200",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1159724613883200",
+      "product": "The No Spiral Method - Foundations (program anti-overthinking/anxiety spiral)",
+      "format": "online course",
+      "price_seen": null,
+      "active_ads": 6,
+      "oldest_active_start": "2026-10-01",
+      "max_days_running": 19,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "3615333641962990",
+          "ad_url": "https://www.facebook.com/ads/library/?id=3615333641962990",
+          "start": "2026-10-01",
+          "days": 19,
+          "link_title": "(no link title)"
+        },
+        {
+          "ad_id": "1410931647853257",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1410931647853257",
+          "start": "2026-10-02",
+          "days": 18,
+          "link_title": "The No Spiral Method - Foundations"
+        },
+        {
+          "ad_id": "1848430192821681",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1848430192821681",
+          "start": "2026-10-15",
+          "days": 5,
+          "link_title": "(no link title)"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Hanya 6 iklan tapi creative 'Foundations' sudah ~19 hari; banyak creative tanpa judul link (video)."
+    },
+    {
+      "page_name": "Well Rooted Living",
+      "page_id": "1339917115869470",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1339917115869470",
+      "product": "Buku somatik untuk burnout wanita ('This Book Fixes Women's Burnout', 'You're Not Broken - You're Stuck in Survival Mode', 'People-Pleaser to Grounded')",
+      "format": "ebook / buku",
+      "price_seen": null,
+      "active_ads": 11,
+      "oldest_active_start": "2026-10-05",
+      "max_days_running": 15,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "1697530415384776",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1697530415384776",
+          "start": "2026-10-05",
+          "days": 15,
+          "link_title": "How Women Go from People-Pleaser to Grounded"
+        },
+        {
+          "ad_id": "1428296589407085",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1428296589407085",
+          "start": "2026-10-05",
+          "days": 15,
+          "link_title": "This Book Fixes Women's Burnout"
+        },
+        {
+          "ad_id": "1636039204733466",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1636039204733466",
+          "start": "2026-10-05",
+          "days": 15,
+          "link_title": "You Didn't Fail. You Stopped."
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Target wanita high-achiever; hook checklist 'If You Tick Three, Read This Before Monday'. Iklan tertua ~15 hari."
+    },
+    {
+      "page_name": "Academy of Therapy Wisdom",
+      "page_id": "104492907835152",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=104492907835152",
+      "product": "Pelatihan online untuk terapis (free webinar 'A Somatic Approach to Grief Work', 'A Brain-Body Lens on Neurodivergence', 'Mbari: Art, Bodies, and Care')",
+      "format": "online course / webinar (B2B terapis)",
+      "price_seen": null,
+      "active_ads": 36,
+      "oldest_active_start": "2026-10-07",
+      "max_days_running": 13,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "1123740026873268",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1123740026873268",
+          "start": "2026-10-07",
+          "days": 13,
+          "link_title": "Mbari: Art, Bodies, and Care at the End of the World"
+        },
+        {
+          "ad_id": "2295437314603949",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2295437314603949",
+          "start": "2026-10-07",
+          "days": 13,
+          "link_title": "Mbari: Art, Bodies, and Care at the End of the World"
+        },
+        {
+          "ad_id": "1444975980888068",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1444975980888068",
+          "start": "2026-10-14",
+          "days": 7,
+          "link_title": "A Brain-Body Lens on Neurodivergence"
+        }
+      ],
+      "lp_url": "https://therapywisdom.com",
+      "lp_source": "search",
+      "notes": "36 iklan aktif; funnel free webinar -> kursus CE. Domain therapywisdom.com disebut di hasil pencarian."
+    },
+    {
+      "page_name": "Heal & Focus",
+      "page_id": "531767666678981",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=531767666678981",
+      "product": "Mega bundle workbook digital 90% off: 50+ alat regulasi saraf, 135 latihan somatik, 40+ workbook healing, DBT mega bundle 310+ resource, toolkit ADHD, recovery adiksi, spiritual awakening",
+      "format": "PDF workbook bundle",
+      "price_seen": "$19.97 (90% off)",
+      "active_ads": 67,
+      "oldest_active_start": "2026-10-08",
+      "max_days_running": 12,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "1139317845105723",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1139317845105723",
+          "start": "2026-10-08",
+          "days": 12,
+          "link_title": "7 trauma-informed practices your body craves more than sleep - get 135 at 90% off today."
+        },
+        {
+          "ad_id": "1104172222095842",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1104172222095842",
+          "start": "2026-10-08",
+          "days": 12,
+          "link_title": "When your nervous system is stuck in survival mode healing stalls — shift it at 90% off today."
+        },
+        {
+          "ad_id": "1838941743759532",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1838941743759532",
+          "start": "2026-10-08",
+          "days": 12,
+          "link_title": "Your body already knows how to heal it just needs to feel safe first. Start at 90% off today."
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "67 iklan aktif, banyak angle per pain point (ADHD, BPD/DBT, trauma, adiksi, awakening). Iklan tertua ~12 hari (>50 iklan, umur bisa lebih tua)."
+    },
+    {
+      "page_name": "Mind, Brain, Body Lab",
+      "page_id": "105565848711929",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=105565848711929",
+      "product": "Program 63 hari pulih dari patah hati ('Time doesn't heal heartbreak. This does') - komunitas She Rises (IFS, coaching live)",
+      "format": "membership / komunitas Skool",
+      "price_seen": "free trial 7 hari",
+      "active_ads": 16,
+      "oldest_active_start": "2026-10-08",
+      "max_days_running": 12,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "1417965253089354",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1417965253089354",
+          "start": "2026-10-08",
+          "days": 12,
+          "link_title": "Time doesn't heal heartbreak. This does"
+        },
+        {
+          "ad_id": "1581209493131531",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1581209493131531",
+          "start": "2026-10-08",
+          "days": 12,
+          "link_title": "Time doesn't heal heartbreak. This does"
+        }
+      ],
+      "lp_url": "https://www.skool.com/becoming-her",
+      "lp_source": "search",
+      "notes": "16 iklan dengan 1 headline yang sama; batch pertama ~12 hari."
+    },
+    {
+      "page_name": "Self Recovery: The Online Recovery Course",
+      "page_id": "1671542529804977",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1671542529804977",
+      "product": "Self Recovery: The Online Recovery Course (program online pemulihan adiksi oleh psikiater, 6 modul video + grup support)",
+      "format": "online course",
+      "price_seen": null,
+      "active_ads": 11,
+      "oldest_active_start": "2026-10-08",
+      "max_days_running": 12,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "1084160111099944",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1084160111099944",
+          "start": "2026-10-08",
+          "days": 12,
+          "link_title": "Start now!"
+        },
+        {
+          "ad_id": "1469992481654085",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1469992481654085",
+          "start": "2026-10-19",
+          "days": 1,
+          "link_title": "Start now!"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "11 iklan, semua CTA 'Start now!'; iklan tertua ~12 hari."
+    },
+    {
+      "page_name": "DailyOM",
+      "page_id": "169019040491",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=169019040491",
+      "product": "Marketplace kursus online wellness/self-help (Body-Brain Healing Bundle, 'Why Can't Your Body Relax?', 'Interrupt the Worry Loop', sleep, stress, dll)",
+      "format": "online course marketplace",
+      "price_seen": "sliding scale (bayar sesukanya)",
+      "active_ads": 172,
+      "oldest_active_start": "2026-10-12",
+      "max_days_running": 8,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "1390084169947957",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1390084169947957",
+          "start": "2026-10-12",
+          "days": 8,
+          "link_title": "Rebuild Your Core, Your Way"
+        },
+        {
+          "ad_id": "2579720475877953",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2579720475877953",
+          "start": "2026-10-12",
+          "days": 8,
+          "link_title": "What If Your Belly Needs to Relax?"
+        },
+        {
+          "ad_id": "1593692739221990",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1593692739221990",
+          "start": "2026-10-12",
+          "days": 8,
+          "link_title": "Still Telling Yourself to Sit Up Straight?"
+        }
+      ],
+      "lp_url": "https://www.dailyom.com",
+      "lp_source": "domain_hint",
+      "notes": "172 iklan aktif (yang terlihat hanya 50 terbaru, tertua ~8 hari, umur sebenarnya kemungkinan lebih tua). Pemain besar; satu headline per kursus."
+    },
+    {
+      "page_name": "The Embody Lab",
+      "page_id": "101439508250982",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=101439508250982",
+      "product": "Pendidikan somatik online: membership The Embody Lab, sertifikat online live (mulai 24 Okt), Somatic Experiencing dengan Dr. Peter Levine, Embodied MBA, free live talk trauma/attachment",
+      "format": "online course / membership / sertifikasi",
+      "price_seen": null,
+      "active_ads": 69,
+      "oldest_active_start": "2026-10-16",
+      "max_days_running": 5,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "2197028791157066",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2197028791157066",
+          "start": "2026-10-16",
+          "days": 5,
+          "link_title": "Learn Somatic Experiencing® from Peter Levine"
+        },
+        {
+          "ad_id": "1770001060928659",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1770001060928659",
+          "start": "2026-10-16",
+          "days": 5,
+          "link_title": "Learn Somatic Experiencing® from Peter Levine"
+        },
+        {
+          "ad_id": "1841827027257278",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1841827027257278",
+          "start": "2026-10-16",
+          "days": 4,
+          "link_title": "Learn Somatic Experiencing® from Peter Levine"
+        }
+      ],
+      "lp_url": "https://www.theembodylab.com",
+      "lp_source": "search",
+      "notes": "69 iklan aktif (lebih dari 50, umur tertua yang terlihat ~5 hari = batas bawah). Funnel free live talk -> program berbayar."
+    },
+    {
+      "page_name": "Therapy Workbooks",
+      "page_id": "1230672030135762",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1230672030135762",
+      "product": "Workbook terapi PDF $29.49: 'The Other 167 Hours', 'The Way-Back Page', 'The Daily Log', 'The Peacekeeper's Workbook (50 hlm)', 'ADHD Executive Dysfunction Workbook (78 hlm)'",
+      "format": "PDF workbook",
+      "price_seen": "$29.49",
+      "active_ads": 38,
+      "oldest_active_start": "2026-10-15",
+      "max_days_running": 5,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "1317523137067209",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1317523137067209",
+          "start": "2026-10-15",
+          "days": 5,
+          "link_title": "The Peacekeeper's Workbook. 50 Pages."
+        },
+        {
+          "ad_id": "4594837974109366",
+          "ad_url": "https://www.facebook.com/ads/library/?id=4594837974109366",
+          "start": "2026-10-15",
+          "days": 5,
+          "link_title": "A PDF. It Won't Fix Friday."
+        },
+        {
+          "ad_id": "2437958076990062",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2437958076990062",
+          "start": "2026-10-16",
+          "days": 4,
+          "link_title": "The ADHD Executive Dysfunction Workbook (78 Pages, PDF)"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "38 iklan; headline menonjolkan isi halaman spesifik ('Page 28: 2 Minutes') - angle 'preview isi'. Iklan tertua ~5 hari (rotasi cepat)."
+    },
+    {
+      "page_name": "Mental Health Tips",
+      "page_id": "1346302061904088",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1346302061904088",
+      "product": "Produk/ebook healing trauma somatik ('If Therapy Didn't Heal Your Trauma, Read This', 'Teach Your Body What Your Mind Already Knows', 'The gift that doesn't say fix yourself')",
+      "format": "ebook / advertorial",
+      "price_seen": null,
+      "active_ads": 27,
+      "oldest_active_start": "2026-10-15",
+      "max_days_running": 5,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "2143863193152144",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2143863193152144",
+          "start": "2026-10-15",
+          "days": 5,
+          "link_title": "If Therapy Didn't Heal Your Trauma, Read This"
+        },
+        {
+          "ad_id": "1512473787372739",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1512473787372739",
+          "start": "2026-10-15",
+          "days": 5,
+          "link_title": "If Therapy Didn't Heal Your Trauma, Read This"
+        },
+        {
+          "ad_id": "2503396380149022",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2503396380149022",
+          "start": "2026-10-16",
+          "days": 4,
+          "link_title": "The gift that doesn't say \"fix yourself\""
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "27 iklan; angle 'terapi tidak berhasil' + angle hadiah (gift). Iklan tertua ~5 hari."
+    },
+    {
+      "page_name": "The Healing Couple",
+      "page_id": "264870207481307",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=264870207481307",
+      "product": "Program healing pasangan/trauma (video ad tanpa link title)",
+      "format": "online program (dugaan)",
+      "price_seen": null,
+      "active_ads": 10,
+      "oldest_active_start": "2026-10-15",
+      "max_days_running": 5,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "28633311172996306",
+          "ad_url": "https://www.facebook.com/ads/library/?id=28633311172996306",
+          "start": "2026-10-15",
+          "days": 5,
+          "link_title": "(no link title)"
+        },
+        {
+          "ad_id": "1438965661755849",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1438965661755849",
+          "start": "2026-10-15",
+          "days": 5,
+          "link_title": "(no link title)"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "10 iklan, semua tanpa judul link (kemungkinan video lead-gen). Iklan tertua ~5 hari."
+    },
+    {
+      "page_name": "28 Day Vagus Nerve Reset Plan",
+      "page_id": "1269280712931726",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1269280712931726",
+      "product": "28 Day Vagus Nerve Reset Plan ('Vagus Nerve Reset Changed Life')",
+      "format": "program digital / plan 28 hari",
+      "price_seen": null,
+      "active_ads": 199,
+      "oldest_active_start": "2026-10-17",
+      "max_days_running": 3,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "1345143844202585",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1345143844202585",
+          "start": "2026-10-17",
+          "days": 3,
+          "link_title": "Vagus Nerve Reset Changed Life"
+        },
+        {
+          "ad_id": "1414148886967242",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1414148886967242",
+          "start": "2026-10-17",
+          "days": 3,
+          "link_title": "Vagus Nerve Reset Changed Life"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "199 iklan aktif dengan 1 headline (testing creative masif); umur yang terlihat ~3 hari = batas bawah karena >50 iklan."
+    },
+    {
+      "page_name": "Depression Health Report",
+      "page_id": "1285066168029958",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1285066168029958",
+      "product": "Advertorial depresi -> program 'vagus nerve' ('No More Depression', 'It was never a chemical imbalance', 'Still empty on the meds? No one ever checked this nerve')",
+      "format": "advertorial -> program digital (dugaan)",
+      "price_seen": null,
+      "active_ads": 393,
+      "oldest_active_start": "2026-10-18",
+      "max_days_running": 2,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "1340767141485313",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1340767141485313",
+          "start": "2026-10-18",
+          "days": 2,
+          "link_title": "How you Stop Depression"
+        },
+        {
+          "ad_id": "1683497596540534",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1683497596540534",
+          "start": "2026-10-18",
+          "days": 2,
+          "link_title": "How you Stop Depression"
+        },
+        {
+          "ad_id": "3462073280641128",
+          "ad_url": "https://www.facebook.com/ads/library/?id=3462073280641128",
+          "start": "2026-10-19",
+          "days": 1,
+          "link_title": "No More Depression"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Volume sangat besar: 393 iklan aktif (yang terlihat 50 terbaru, umur ~2 hari = batas bawah). Angle kontroversial anti-obat; hati-hati klaim kesehatan."
+    },
+    {
+      "page_name": "Neurotoned",
+      "page_id": "126229817242212",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=126229817242212",
+      "product": "The 4-Week Vagus Nerve Protocol/Reset untuk burnout & chronic fatigue ('75% OFF 4-Week Vagus Nerve Reset', '10-minute Vagus nerve retraining for anxiety')",
+      "format": "online program 4 minggu",
+      "price_seen": "75% off",
+      "active_ads": 150,
+      "oldest_active_start": "2026-10-20",
+      "max_days_running": 0,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "1140868764963471",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1140868764963471",
+          "start": "2026-10-20",
+          "days": 0,
+          "link_title": "CLOSING NOW: The 4-Week Vagus Nerve Protocol For Burnout & Chronic Fatigue"
+        },
+        {
+          "ad_id": "1155615586789668",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1155615586789668",
+          "start": "2026-10-20",
+          "days": 0,
+          "link_title": "Reset The Nerve Hijacking Your Energy"
+        },
+        {
+          "ad_id": "987086637062711",
+          "ad_url": "https://www.facebook.com/ads/library/?id=987086637062711",
+          "start": "2026-10-21",
+          "days": 0,
+          "link_title": "75% OFF 4-Week Vagus Nerve Reset"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "150 iklan aktif, semua yang terlihat berumur <1 hari (rotasi creative sangat cepat; umur sebenarnya tidak terlihat). Angle caregiver, burnout, 'done lying down'."
+    },
+    {
+      "page_name": "Tim Fletcher Co",
+      "page_id": "331480966720315",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=331480966720315",
+      "product": "Tim Fletcher Co - ALIGN With Yourself (kursus self-study complex trauma)",
+      "format": "online course",
+      "price_seen": null,
+      "active_ads": 4,
+      "oldest_active_start": "2026-10-19",
+      "max_days_running": 1,
+      "status": "BARU",
+      "winning_ads": [
+        {
+          "ad_id": "1104140388999989",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1104140388999989",
+          "start": "2026-10-19",
+          "days": 1,
+          "link_title": "ALIGN With Yourself — Tim Fletcher Co."
+        },
+        {
+          "ad_id": "1604850138102076",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1604850138102076",
+          "start": "2026-10-19",
+          "days": 1,
+          "link_title": "(no link title)"
+        }
+      ],
+      "lp_url": "https://timfletcher.ca",
+      "lp_source": "search",
+      "notes": "Brand besar di YouTube (complex trauma), tapi iklan aktif baru 4 dan ~1 hari."
+    }
+  ],
+  "insights": {
+    "price_range": "$19.97 (bundle PDF 90% off) - $29.49 (workbook PDF) - $97-$197 (workshop/CE terapis); banyak yang pakai diskon 75-90% dan free webinar/free training sebagai pintu masuk.",
+    "angles": [
+      "'You're not broken - you're overwhelmed/stuck in survival mode' (reframe identitas)",
+      "Vagus nerve / nervous system reset sebagai 'akar masalah' burnout, anxiety, depresi",
+      "'Therapy didn't work? Read this' / 'what therapists give clients'",
+      "Diskon besar 90% OFF untuk mega bundle workbook (ADHD, DBT, trauma, adiksi)",
+      "Hook pengakuan orang pertama (POV) + emoji; checklist 'if you tick three'",
+      "Urgensi 'CLOSING NOW / ending soon' dan free live talk/webinar untuk funnel kursus mahal"
+    ],
+    "formats": [
+      "PDF workbook & mega bundle printable",
+      "Program online 4-week / 28-day (vagus nerve, somatic)",
+      "Ebook/buku self-help (burnout, overwhelm)",
+      "Kursus & sertifikasi online untuk terapis (B2B, CE credit)",
+      "Komunitas/membership (Skool) dan coaching"
+    ],
+    "summary": "Niche mental health di US sangat ramai (keyword 'nervous system regulation' ~4.8K iklan aktif), didominasi tema regulasi sistem saraf/vagus nerve, trauma somatik, ADHD dan burnout. Pemain besar (DailyOM, NICABM, Embody Lab) dan app (Kure/Hypnozio hypnotherapy, Tiimo, Nudge) ikut beriklan masif; pemain kecil menang dengan bundle PDF 90% off dan ebook dengan hook reframe identitas. Rotasi creative sangat cepat (banyak halaman punya 100-400 iklan dengan umur <14 hari), sehingga iklan yang benar-benar jalan >30 hari relatif sedikit: Leslie Huddart (~397 hari), Thinkovia (~158 hari), NICABM (~88 hari) dan Healing Pathways (~36 hari)."
+  }
+}

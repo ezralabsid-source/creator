@@ -1,0 +1,751 @@
+{
+  "niche": "Personal Finance & Credit (keuangan pribadi, budgeting, DIY credit repair, pelunasan utang)",
+  "slug": "personal-finance",
+  "keywords": [
+    {
+      "term": "credit repair",
+      "active_ads_id": 7943
+    },
+    {
+      "term": "cash stuffing",
+      "active_ads_id": 2798
+    },
+    {
+      "term": "\"credit repair course\"",
+      "active_ads_id": 1551
+    },
+    {
+      "term": "\"budget planner\"",
+      "active_ads_id": 1321
+    },
+    {
+      "term": "budget spreadsheet",
+      "active_ads_id": 1294
+    },
+    {
+      "term": "\"debt payoff\"",
+      "active_ads_id": 1178
+    },
+    {
+      "term": "credit secrets book",
+      "active_ads_id": 499
+    },
+    {
+      "term": "dispute letters",
+      "active_ads_id": 407
+    },
+    {
+      "term": "google sheets budget",
+      "active_ads_id": 321
+    },
+    {
+      "term": "budget binder",
+      "active_ads_id": 289
+    },
+    {
+      "term": "budget printable",
+      "active_ads_id": 210
+    },
+    {
+      "term": "debt snowball spreadsheet",
+      "active_ads_id": 144
+    },
+    {
+      "term": "credit repair DIY (ad_type CREDIT_ADS)",
+      "active_ads_id": 33
+    }
+  ],
+  "advertisers": [
+    {
+      "page_name": "Credit Fitness Club",
+      "page_id": "102429995943776",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=102429995943776",
+      "product": "Program/edukasi DIY credit repair (\"Fix Your Credit Yourself!\")",
+      "format": "course",
+      "price_seen": null,
+      "active_ads": 2,
+      "oldest_active_start": "2022-11-29",
+      "max_days_running": 1421,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "704644980858402",
+          "ad_url": "https://www.facebook.com/ads/library/?id=704644980858402",
+          "start": "2022-11-29",
+          "days": 1421,
+          "link_title": "Get The Score You Deserve!"
+        },
+        {
+          "ad_id": "235465322624075",
+          "ad_url": "https://www.facebook.com/ads/library/?id=235465322624075",
+          "start": "2023-07-02",
+          "days": 1206,
+          "link_title": "📢Fix Your Credit Yourself!"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Iklan evergreen paling tua di niche ini (sejak Nov 2022, kategori CREDIT_ADS). Hanya 2 iklan aktif tapi tidak pernah dimatikan = indikasi kuat iklan profitable. LP tidak ditemukan via web search."
+    },
+    {
+      "page_name": "Pathway to Cash Flow",
+      "page_id": "562353656961963",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=562353656961963",
+      "product": "Pathway To Cash Flow (edukasi kredit/cash flow, kategori CREDIT_ADS)",
+      "format": "course",
+      "price_seen": null,
+      "active_ads": 5,
+      "oldest_active_start": "2025-02-08",
+      "max_days_running": 620,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "1200995611394198",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1200995611394198",
+          "start": "2025-02-08",
+          "days": 620,
+          "link_title": "Pathway To Cash Flow"
+        },
+        {
+          "ad_id": "640319561823733",
+          "ad_url": "https://www.facebook.com/ads/library/?id=640319561823733",
+          "start": "2025-02-08",
+          "days": 620,
+          "link_title": "Pathway To Cash Flow"
+        },
+        {
+          "ad_id": "999634035545170",
+          "ad_url": "https://www.facebook.com/ads/library/?id=999634035545170",
+          "start": "2025-02-08",
+          "days": 620,
+          "link_title": "Pathway To Cash Flow"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "5 iklan jalan sejak Feb 2025 (>600 hari). Produk persisnya tidak terlihat dari judul; muncul di pencarian 'credit repair DIY' (CREDIT_ADS). Perlu cek snapshot iklan untuk detail offer."
+    },
+    {
+      "page_name": "Tho Digitals",
+      "page_id": "584699251399997",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=584699251399997",
+      "product": "Google Sheets & Digital Planner Templates (budget, planner)",
+      "format": "template",
+      "price_seen": null,
+      "active_ads": 2,
+      "oldest_active_start": "2025-10-12",
+      "max_days_running": 374,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "1444121320206119",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1444121320206119",
+          "start": "2025-10-12",
+          "days": 374,
+          "link_title": "(tanpa judul)"
+        },
+        {
+          "ad_id": "1320263732599129",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1320263732599129",
+          "start": "2025-10-29",
+          "days": 356,
+          "link_title": "Tho Digitals - Google Sheets & Digital Planner Templates – Free & Affordable for Every Need"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Akun iklan VND (seller Vietnam) menjual template Google Sheets ke pasar US; iklan jalan >1 tahun. Model faceless template seller."
+    },
+    {
+      "page_name": "The Sheet Code",
+      "page_id": "143504718840854",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=143504718840854",
+      "product": "Budget & personal finance spreadsheet (Simple Budget Tool, Ultimate Personal Finance Package)",
+      "format": "template (Google Sheets/Excel)",
+      "price_seen": "$6.95–$12.95 (BuiltWith); promo 25% off",
+      "active_ads": 41,
+      "oldest_active_start": "2025-12-18",
+      "max_days_running": 306,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "1580926033063156",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1580926033063156",
+          "start": "2025-12-18",
+          "days": 306,
+          "link_title": "{{product.name}}"
+        },
+        {
+          "ad_id": "793832363709311",
+          "ad_url": "https://www.facebook.com/ads/library/?id=793832363709311",
+          "start": "2026-01-07",
+          "days": 287,
+          "link_title": "{{product.name}}"
+        },
+        {
+          "ad_id": "1869426507272239",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1869426507272239",
+          "start": "2026-01-09",
+          "days": 285,
+          "link_title": "🌟 Transform Your Finances 🌟 + FREE GIFT 🎁"
+        }
+      ],
+      "lp_url": "https://www.etsy.com/se-en/shop/TheSheetCode",
+      "lp_source": "search",
+      "notes": "41 iklan aktif, tertua ~306 hari; pakai iklan katalog dinamis ({{product.name}}) + social proof '70,000+ customers'. Jual via Etsy & situs sendiri (thesheetcode.com per BuiltWith). Akun CAD."
+    },
+    {
+      "page_name": "Maximum Fico Score",
+      "page_id": "1609575825958273",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1609575825958273",
+      "product": "Maximum Fico Score (edukasi/program menaikkan skor FICO)",
+      "format": "course",
+      "price_seen": null,
+      "active_ads": 1,
+      "oldest_active_start": "2025-12-28",
+      "max_days_running": 296,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "25499977582946689",
+          "ad_url": "https://www.facebook.com/ads/library/?id=25499977582946689",
+          "start": "2025-12-28",
+          "days": 296,
+          "link_title": "Maximum Fico Score"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "1 iklan evergreen ~296 hari (CREDIT_ADS). LP tidak ditemukan."
+    },
+    {
+      "page_name": "The Financial Fresh Start - DIY Credit Repair",
+      "page_id": "1279827671870870",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1279827671870870",
+      "product": "Kursus/panduan DIY credit repair (hemat biaya jasa credit repair)",
+      "format": "course",
+      "price_seen": null,
+      "active_ads": 1,
+      "oldest_active_start": "2026-07-31",
+      "max_days_running": 82,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "1045115674573419",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1045115674573419",
+          "start": "2026-07-31",
+          "days": 82,
+          "link_title": "Save Hundreds or Thousands in Credit Repair Fees — Learn the DIY Process Today"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Angle: 'hemat ratusan-ribuan dolar biaya jasa, lakukan sendiri'. 1 iklan jalan ~82 hari."
+    },
+    {
+      "page_name": "True Money Saver - Kati Kiefer",
+      "page_id": "303808416115",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=303808416115",
+      "product": "Metode/program pelunasan utang kartu kredit (rolling minimum payment method)",
+      "format": "course / membership",
+      "price_seen": null,
+      "active_ads": 63,
+      "oldest_active_start": "2026-08-12",
+      "max_days_running": 69,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "1095102419619549",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1095102419619549",
+          "start": "2026-08-12",
+          "days": 69,
+          "link_title": "Same Money. 22 Years Sooner."
+        },
+        {
+          "ad_id": "1503610998467354",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1503610998467354",
+          "start": "2026-08-24",
+          "days": 57,
+          "link_title": "Same money monthly, a much sooner payoff date"
+        },
+        {
+          "ad_id": "1720134769069680",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1720134769069680",
+          "start": "2026-09-12",
+          "days": 38,
+          "link_title": "Debt-Free In 2030, Not 2049."
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "63 iklan aktif, creative testing sangat agresif (hook angka: '19 tahun lebih cepat', '2049 jadi 2030'). Founder melunasi $60K utang kartu kredit (liputan berita lokal); menjual edukasi online ke subscriber. Domain resmi tidak muncul di hasil pencarian."
+    },
+    {
+      "page_name": "ECreditFix",
+      "page_id": "1193449960517398",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1193449960517398",
+      "product": "eCreditFix — tool DIY credit dispute berbasis AI",
+      "format": "software/tool",
+      "price_seen": null,
+      "active_ads": 1,
+      "oldest_active_start": "2026-08-27",
+      "max_days_running": 54,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "946923151759599",
+          "ad_url": "https://www.facebook.com/ads/library/?id=946923151759599",
+          "start": "2026-08-27",
+          "days": 54,
+          "link_title": "eCreditFix tables aren’t just correct - they’re MULTI AI verified for absolute accuracy."
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Tool AI kecil (bukan venture besar). 1 iklan ~54 hari."
+    },
+    {
+      "page_name": "ProsperSheet",
+      "page_id": "1177430422115663",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1177430422115663",
+      "product": "Planner/budget spreadsheet otomatis untuk ADHD ('The Planner That Updates Itself')",
+      "format": "template (Google Sheets)",
+      "price_seen": null,
+      "active_ads": 8,
+      "oldest_active_start": "2026-08-31",
+      "max_days_running": 51,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "2311479769625450",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2311479769625450",
+          "start": "2026-08-31",
+          "days": 51,
+          "link_title": "The Planner That Updates Itself ⚙️"
+        },
+        {
+          "ad_id": "2177641056506931",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2177641056506931",
+          "start": "2026-08-31",
+          "days": 51,
+          "link_title": "You Just Needed the Right System 💛"
+        },
+        {
+          "ad_id": "4178548149104679",
+          "ad_url": "https://www.facebook.com/ads/library/?id=4178548149104679",
+          "start": "2026-10-08",
+          "days": 12,
+          "link_title": "Made for ADHD Minds 🧠"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Angle ADHD + otomatis; 2 iklan tertua ~51 hari masih jalan."
+    },
+    {
+      "page_name": "The Estate Kit",
+      "page_id": "1215301468337012",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1215301468337012",
+      "product": "Estate/financial organizer kit digital (akun, polis, password, roadmap setelah meninggal)",
+      "format": "digital kit / workbook",
+      "price_seen": null,
+      "active_ads": 10,
+      "oldest_active_start": "2026-09-06",
+      "max_days_running": 44,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "1150310544111253",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1150310544111253",
+          "start": "2026-09-06",
+          "days": 44,
+          "link_title": "The 5 calls your children will have to make — in order"
+        },
+        {
+          "ad_id": "1719777220150961",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1719777220150961",
+          "start": "2026-09-06",
+          "days": 44,
+          "link_title": "Are your 26 documents already in one place?"
+        },
+        {
+          "ad_id": "2283720709047224",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2283720709047224",
+          "start": "2026-09-07",
+          "days": 43,
+          "link_title": "At 61, I watched my youngest daughter find every account, every policy and every password we own in nineteen minutes."
+        }
+      ],
+      "lp_url": "https://theestatekit.com",
+      "lp_source": "search",
+      "notes": "Target 55+; storytelling panjang. Sekali bayar, dikirim digital (Trustpilot). Ada copycat 'The Family Folder' (page 487465484456721) dengan copy identik, baru 1 hari."
+    },
+    {
+      "page_name": "Ultimate Budget Planner",
+      "page_id": "485276957995076",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=485276957995076",
+      "product": "Ultimate Budget Planner — spreadsheet budget + debt payoff (snowball & avalanche, 40 debts, 28 tab)",
+      "format": "template (Excel & Google Sheets)",
+      "price_seen": "$9 (debt tracker)",
+      "active_ads": 34,
+      "oldest_active_start": "2026-09-12",
+      "max_days_running": 38,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "940562055178434",
+          "ad_url": "https://www.facebook.com/ads/library/?id=940562055178434",
+          "start": "2026-09-12",
+          "days": 38,
+          "link_title": "See Your Debt Free Date"
+        },
+        {
+          "ad_id": "2330162871148402",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2330162871148402",
+          "start": "2026-09-12",
+          "days": 38,
+          "link_title": "40 Debts. 2 Strategies. One File."
+        },
+        {
+          "ad_id": "1713396137461636",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1713396137461636",
+          "start": "2026-09-13",
+          "days": 38,
+          "link_title": "40 Debts. 2 Strategies. $9 Once."
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "34 iklan aktif, harga impulse $9 sekali bayar, angle 'no formulas, no subscription'."
+    },
+    {
+      "page_name": "Abby Lawson - Organizing, Decorating, Blogging",
+      "page_id": "134784953366415",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=134784953366415",
+      "product": "Budget binder/printables & program 'ditch your debt' (Abby Organizes)",
+      "format": "printable / course",
+      "price_seen": null,
+      "active_ads": 274,
+      "oldest_active_start": "2026-09-15",
+      "max_days_running": 35,
+      "status": "WINNING",
+      "winning_ads": [
+        {
+          "ad_id": "1396536259128793",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1396536259128793",
+          "start": "2026-09-15",
+          "days": 35,
+          "link_title": "⭐⭐⭐⭐⭐ 50,183+ happy budgeters!"
+        },
+        {
+          "ad_id": "4636579853238630",
+          "ad_url": "https://www.facebook.com/ads/library/?id=4636579853238630",
+          "start": "2026-09-15",
+          "days": 35,
+          "link_title": "⭐⭐⭐⭐⭐ 65,147+ happy budgeters!"
+        },
+        {
+          "ad_id": "1984761285518922",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1984761285518922",
+          "start": "2026-09-16",
+          "days": 34,
+          "link_title": "Let's ditch your debt ASAP! 💪"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "274 iklan aktif (hanya 50 terbaru terlihat, umur ~35 hari = batas bawah). Social proof jumlah pembeli. Blogger organizing (abbyorganizes) — URL tidak muncul di hasil pencarian."
+    },
+    {
+      "page_name": "Dispute Hawk DIY Credit Repair",
+      "page_id": "1235379802995814",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1235379802995814",
+      "product": "Dispute Hawk — tool DIY review & dispute credit report",
+      "format": "software/tool",
+      "price_seen": null,
+      "active_ads": 1,
+      "oldest_active_start": "2026-09-27",
+      "max_days_running": 24,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "1458447099730938",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1458447099730938",
+          "start": "2026-09-27",
+          "days": 24,
+          "link_title": "Review Your Credit Reports With Dispute Hawk"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "1 iklan ~24 hari (CREDIT_ADS)."
+    },
+    {
+      "page_name": "Credit Secrets",
+      "page_id": "297927386726236",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=297927386726236",
+      "product": "Buku Credit Secrets (DIY credit repair, Section 609/'loophole')",
+      "format": "ebook/book",
+      "price_seen": null,
+      "active_ads": 146,
+      "oldest_active_start": "2026-09-30",
+      "max_days_running": 21,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "4020598824910964",
+          "ad_url": "https://www.facebook.com/ads/library/?id=4020598824910964",
+          "start": "2026-09-30",
+          "days": 21,
+          "link_title": "This Loophole Still Works in 2026"
+        },
+        {
+          "ad_id": "1565812848058389",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1565812848058389",
+          "start": "2026-09-30",
+          "days": 21,
+          "link_title": "This Loophole Still Works in 2026"
+        },
+        {
+          "ad_id": "1409965201096288",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1409965201096288",
+          "start": "2026-09-30",
+          "days": 21,
+          "link_title": "This Loophole Still Works in 2026"
+        }
+      ],
+      "lp_url": "https://creditsecrets.com",
+      "lp_source": "search",
+      "notes": "146 iklan aktif; hanya 50 terlihat sehingga umur 21 hari adalah BATAS BAWAH (brand lama, kemungkinan besar sudah winning jauh lebih lama). Satu hook 'This Loophole Still Works in 2026' diduplikasi massal. Dijual hanya di CreditSecrets.com."
+    },
+    {
+      "page_name": "IFundEverything",
+      "page_id": "703850679482353",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=703850679482353",
+      "product": "Free Dispute Letter Library (lead magnet → funding/credit offer)",
+      "format": "lead magnet / template",
+      "price_seen": null,
+      "active_ads": 14,
+      "oldest_active_start": "2026-10-05",
+      "max_days_running": 15,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "921319907468023",
+          "ad_url": "https://www.facebook.com/ads/library/?id=921319907468023",
+          "start": "2026-10-05",
+          "days": 15,
+          "link_title": "Free Dispute Letter Library"
+        },
+        {
+          "ad_id": "29128304343433654",
+          "ad_url": "https://www.facebook.com/ads/library/?id=29128304343433654",
+          "start": "2026-10-05",
+          "days": 15,
+          "link_title": "Free Dispute Letter Library"
+        },
+        {
+          "ad_id": "2053961838620044",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2053961838620044",
+          "start": "2026-10-05",
+          "days": 15,
+          "link_title": "Free Dispute Letter Library"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Funnel freebie (template surat dispute gratis) untuk build list; 14 iklan, tertua ~15 hari."
+    },
+    {
+      "page_name": "Budget by Steph",
+      "page_id": "186045074586148",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=186045074586148",
+      "product": "Digital budget planner otomatis (\"does the math\"), + 5 bonus",
+      "format": "digital planner / spreadsheet",
+      "price_seen": "$36.99 (coret $184.99, 80% off)",
+      "active_ads": 56,
+      "oldest_active_start": "2026-10-08",
+      "max_days_running": 13,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "2917979541886477",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2917979541886477",
+          "start": "2026-10-08",
+          "days": 13,
+          "link_title": "Quit every budget? Read this first."
+        },
+        {
+          "ad_id": "1608170734342499",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1608170734342499",
+          "start": "2026-10-08",
+          "days": 13,
+          "link_title": "Why women are done with paper budgets"
+        },
+        {
+          "ad_id": "1188037193562847",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1188037193562847",
+          "start": "2026-10-08",
+          "days": 13,
+          "link_title": "7 reasons this planner sticks with ADHD"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "56 iklan aktif (50 terlihat, umur 13 hari = batas bawah). Advertorial style ('Read this first', '7 reasons'), angle ADHD/busy moms/anti-spreadsheet."
+    },
+    {
+      "page_name": "E & A University",
+      "page_id": "138327756033604",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=138327756033604",
+      "product": "7 Day Deletion Blueprint (DIY hapus item negatif) + panduan gugatan debt collection",
+      "format": "ebook/course",
+      "price_seen": "$49",
+      "active_ads": 14,
+      "oldest_active_start": "2026-10-17",
+      "max_days_running": 3,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "1786708845963448",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1786708845963448",
+          "start": "2026-10-17",
+          "days": 3,
+          "link_title": "⚠️Access Your 7 Day Deletion Blueprint for $49 Today Only! 🔑"
+        },
+        {
+          "ad_id": "1887496395957680",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1887496395957680",
+          "start": "2026-10-17",
+          "days": 3,
+          "link_title": "🚨 Debt Collection Lawsuit? Don't Ignore This!"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "14 iklan, ~4 hari. Urgency 'Today Only'."
+    },
+    {
+      "page_name": "The Budgetnista",
+      "page_id": "105314232838635",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=105314232838635",
+      "product": "Free class + buku Get Good with Money / Live Richer (Tiffany Aliche), offer $17",
+      "format": "webinar/challenge + ebook",
+      "price_seen": "$17 (was $61)",
+      "active_ads": 40,
+      "oldest_active_start": "2026-10-20",
+      "max_days_running": 1,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "1123334010149452",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1123334010149452",
+          "start": "2026-10-20",
+          "days": 1,
+          "link_title": "I Wrote The Book. The Class Is Free."
+        },
+        {
+          "ad_id": "1779831236654853",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1779831236654853",
+          "start": "2026-10-20",
+          "days": 1,
+          "link_title": "$17 Today. Was $61. Only 100 Left."
+        },
+        {
+          "ad_id": "2019932248676199",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2019932248676199",
+          "start": "2026-10-20",
+          "days": 1,
+          "link_title": "You Deserve to Say YES Without Doing the Math in Your Head First"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Creator besar (NYT bestseller). 40 iklan baru diluncurkan sekaligus (kampanye launch/challenge). Domain kemungkinan thebudgetnista.com tapi tidak muncul langsung di hasil pencarian."
+    },
+    {
+      "page_name": "Creditblonde",
+      "page_id": "167616983091576",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=167616983091576",
+      "product": "The 7 Minute Method — DIY hapus bad credit / collections",
+      "format": "ebook/course",
+      "price_seen": null,
+      "active_ads": 10,
+      "oldest_active_start": "2026-10-20",
+      "max_days_running": 0,
+      "status": "POTENSIAL",
+      "winning_ads": [
+        {
+          "ad_id": "886973947739418",
+          "ad_url": "https://www.facebook.com/ads/library/?id=886973947739418",
+          "start": "2026-10-20",
+          "days": 0,
+          "link_title": "Delete Bad Credit - The 7 Minute Method"
+        },
+        {
+          "ad_id": "1128715133046173",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1128715133046173",
+          "start": "2026-10-20",
+          "days": 0,
+          "link_title": "How to Remove Collections Without Paying Them First"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "10 iklan baru (<1 hari) — testimonial hook 'She/He erased 4 years of damage'."
+    },
+    {
+      "page_name": "FocusFlow",
+      "page_id": "1128641823676223",
+      "ad_library_page_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1128641823676223",
+      "product": "The ADHD Money System — 7 tool dalam 1 file (paycheck planner, bill radar, debt snowball)",
+      "format": "template (spreadsheet)",
+      "price_seen": "$24",
+      "active_ads": 5,
+      "oldest_active_start": "2026-10-11",
+      "max_days_running": 9,
+      "status": "BARU",
+      "winning_ads": [
+        {
+          "ad_id": "2235616257018874",
+          "ad_url": "https://www.facebook.com/ads/library/?id=2235616257018874",
+          "start": "2026-10-11",
+          "days": 9,
+          "link_title": "Every dollar gets a job, the minute it lands"
+        },
+        {
+          "ad_id": "1511498861003582",
+          "ad_url": "https://www.facebook.com/ads/library/?id=1511498861003582",
+          "start": "2026-10-11",
+          "days": 9,
+          "link_title": "Get The ADHD Money System — $24"
+        }
+      ],
+      "lp_url": null,
+      "lp_source": "not_found",
+      "notes": "Akun EUR menjual ke US; 5 iklan ~9 hari."
+    }
+  ],
+  "insights": {
+    "price_range": "Template/spreadsheet: $6.95–$36.99 (mayoritas $9–$27, sering coret harga 80% off). Ebook/blueprint credit repair: $17–$49. Program/kelas: free class → upsell $17+.",
+    "angles": [
+      "ADHD-friendly / 'budget yang mengerjakan matematikanya sendiri' (no formulas, no subscription)",
+      "Angka spesifik & timeline: 'Debt-free 19 tahun lebih cepat', '2049 jadi 2030', '40 debts 2 strategies'",
+      "'Loophole' / Section 609 / 'hapus bad credit dalam 7 menit/7 hari' (credit repair DIY)",
+      "Hemat biaya jasa credit repair — lakukan sendiri",
+      "Social proof jumlah pembeli ('70,000+ customers', '128,348 happy budgeters')",
+      "Storytelling keluarga/usia 55+ untuk estate organizer",
+      "Advertorial 'Read this first' / '7 reasons' + diskon besar"
+    ],
+    "formats": [
+      "Spreadsheet Google Sheets/Excel (budget, debt snowball/avalanche)",
+      "Printable/digital budget binder",
+      "Ebook/buku DIY credit repair & template surat dispute",
+      "Kursus/program pelunasan utang",
+      "Lead magnet gratis (dispute letter library, free class)",
+      "Tool/software AI dispute kecil",
+      "Estate/financial organizer kit"
+    ],
+    "summary": "Niche personal finance di US didominasi dua sub-kategori: (1) template budget/debt payoff berbasis spreadsheet dengan harga impulse $9–$37 dan angle ADHD/otomatis, dan (2) DIY credit repair (ebook, blueprint, template dispute) yang banyak iklannya masuk kategori CREDIT_ADS dan punya iklan evergreen sangat tua (Credit Fitness Club >1.400 hari, Pathway to Cash Flow >600 hari). Pemain volume besar: Abby Lawson (274 iklan), Credit Secrets (146), True Money Saver (63), Budget by Steph (56). Pemain besar non-kreator (app budgeting seperti Monarch, kartu kredit/HELOC, jasa credit repair lokal) muncul di hasil keyword tetapi dikecualikan."
+  }
+}
